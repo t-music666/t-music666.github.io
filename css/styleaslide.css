@@ -64,10 +64,10 @@ button:focus {
 
 
 @keyframes hat_in{
-	0% {transform: translate(20%,-25%);
-		opacity: 0;}
-	25% {transform: translate(10%,-17%);opacity: 0.8;}
-  50% {transform: translate(15%,-5%);opacity: 1;}
+	0% {transform: translate(20%,-35%);
+		opacity: 0.2;}
+	25% {transform: translate(10%,-25%);opacity: 0.8;}
+  50% {transform: translate(15%,-15%);opacity: 1;}
   100% {transform: translate(0%,0%);}
 }
 
@@ -81,7 +81,7 @@ button:focus {
 	height: 100%;
 	margin-top: -223px;
 	margin-left: 57px;
-    animation: 2.8s hat_in;
+    animation: 3.5s hat_in;
 	/* transition: all 0.5s;
 	  transition-property: all;
 	  transition-duration: 0.5s;
