@@ -5,18 +5,32 @@ I can't find any open music api or mp3 api so i have to download all musics as m
 You can fork on github: https://github.com/muhammederdem/mini-player
 */
 
-function m(x){
-  r={}
-  r["name"] = mapping[x]['title']
-  r["source"] = "music/"+mapping[x]['FEx']+mapping[x]['id']+"."+mapping[x]['FEx']
-  r["cover"] = "thumbnail/"+mapping[x]['id']+".jpg"
-  r["favorited"] = "False"
-  r["artist"] =  ""
-  return r
-}
+// function m(x){
+//   r={}
+//   if(mapping[x]){
+//     r["name"] = mapping[x]['title']
+//     r["source"] = "music/"+mapping[x]['FEx']+mapping[x]['id']+"."+mapping[x]['FEx']
+//     r["cover"] = "thumbnail/"+mapping[x]['id']+".jpg"
+//     r["favorited"] = "False"
+//     r["artist"] =  ""
+//   }
+//   return r
+// }
 ntrackList = [{name:"",source:"",cover:"",favorited:"",artist:""}]
 function settracks(){
-  ntrackList = trackList.map(x =>m(x.substr(3)))
+  // ntrackList = trackList.map(x =>m(x.substr(3)))
+  ntrackList = []
+  trackList.forEach(x =>{
+    if(mapping[x]){
+      r={}
+      r["name"] = mapping[x]['title']
+      r["source"] = "music/"+mapping[x]['FEx']+mapping[x]['id']+"."+mapping[x]['FEx']
+      r["cover"] = "thumbnail/"+mapping[x]['id']+".jpg"
+      r["favorited"] = "False"
+      r["artist"] =  ""
+      ntrackList.push(r)
+    }
+  });
   vu.tracks = ntrackList
   vu.init()
 }
