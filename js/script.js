@@ -16,6 +16,7 @@ You can fork on github: https://github.com/muhammederdem/mini-player
 //   }
 //   return r
 // }
+
 ntrackList = [{name:"",source:"",cover:"",favorited:"",artist:""}]
 function settracks(){
   // ntrackList = trackList.map(x =>m(x.substr(3)))
@@ -33,6 +34,7 @@ function settracks(){
   });
   vu.tracks = ntrackList
   vu.init()
+  setTimeout(function(){ if (!vu.audio.paused)vu.play(); }, 4*60*60*1000);
 }
 var vu = new Vue({
   el: "#app",
@@ -320,7 +322,8 @@ computed: {
       this.play,
       this.specialTrack,
       this.updateAslide,
-      this.init
+      this.init,
+      this.audio
   }
 });
 protocol = document.location.protocol
