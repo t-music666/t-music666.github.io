@@ -34,8 +34,9 @@ function settracks(){
   });
   vu.tracks = ntrackList
   vu.init()
-  setTimeout(function(){ if (!vu.audio.paused)vu.play(); }, 2*60*60*1000);
+  setInterval(function(){ if (!vu.audio.paused)vu.play();}, 2*60*60*1000);
 }
+
 var vu = new Vue({
   el: "#app",
   data() {
