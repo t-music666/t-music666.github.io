@@ -80,14 +80,14 @@ computed: {
             request.responseType = "blob";
             audio =  this.audio
             request.onload = function() {
-              if (this.status == 200 && i.search(vu.currentTrack.source)>0) {
+              if (this.status == 200 && this.responseURL.search(vu.currentTrack.source)>0) {
                 audio.src = URL.createObjectURL(this.response);
                 audio.load();
                 if(timer <5){
                   audio.play();
                 }else{
-                  this.audio.pause();
-                  this.isTimerPlaying = false;
+                  vu.audio.pause();
+                  vu.isTimerPlaying = false;
                   // console.log("你已經聽了兩個小時囉，要不要休息一下呢?");
                   alert("你已經聽了兩個小時囉，要不要休息一下呢?")
                 }
