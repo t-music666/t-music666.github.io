@@ -80,11 +80,9 @@ computed: {
             request.responseType = "blob";
             audio =  this.audio
             request.onload = function() {
-              if (this.status == 200) {
+              if (this.status == 200 && i.search(vu.currentTrack.source)>0) {
                 audio.src = URL.createObjectURL(this.response);
                 audio.load();
-                console.log("url: "+this.responseURL)
-                console.log("vu url: "+vu.currentTrack.source)
                 if(timer <5){
                   audio.play();
                 }else{
