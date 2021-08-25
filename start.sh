@@ -1,4 +1,5 @@
 cd /e/pen117page
+which python3
 /usr/bin/python3 updateM/updateList.py
 git add .
 TODAY=$(date +"%Y-%m-%d")
