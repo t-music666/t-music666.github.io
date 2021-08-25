@@ -83,7 +83,7 @@ computed: {
               if (this.status == 200 && this.responseURL.search(vu.currentTrack.source)>0) {
                 audio.src = URL.createObjectURL(this.response);
                 audio.load();
-                if(timer <10){
+                if(timer <60*60*2){
                   audio.play();
                 }else{
                   vu.audio.pause();
