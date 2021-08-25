@@ -84,7 +84,7 @@ computed: {
                 audio.src = URL.createObjectURL(this.response);
                 audio.load();
                 console.log("url: "+this.responseURL)
-                console.log("vu url: "+this.currentTrack.source)
+                console.log("vu url: "+vu.currentTrack.source)
                 if(timer <5){
                   audio.play();
                 }else{
