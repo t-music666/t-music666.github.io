@@ -1,4 +1,6 @@
-cd /mnt/e/pen117page
+pwd
+
+cd e/pen117page
 python3 updateM/updateList.py
 git add .
 TODAY=$(date +"%Y-%m-%d")
