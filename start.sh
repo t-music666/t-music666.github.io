@@ -4,3 +4,4 @@ git add .
 TODAY=$(date +"%Y-%m-%d")
 git commit -m  $TODAY
 # git push
+sleep 2m
