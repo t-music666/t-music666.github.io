@@ -16,7 +16,7 @@ You can fork on github: https://github.com/muhammederdem/mini-player
 //   }
 //   return r
 // }
-
+timer = 0
 ntrackList = [{name:"",source:"",cover:"",favorited:"",artist:""}]
 function settracks(){
   // ntrackList = trackList.map(x =>m(x.substr(3)))
@@ -34,9 +34,9 @@ function settracks(){
   });
   vu.tracks = ntrackList
   vu.init()
-  setInterval(function(){ if (!vu.audio.paused)vu.play();}, 2*60*60*1000);
+  
 }
-
+setInterval(function(){ timer+=1;}, 1*1000);
 var vu = new Vue({
   el: "#app",
   data() {
@@ -71,33 +71,42 @@ computed: {
   
   methods: {
     fetchVideoAndPlay() {
-      if(protocol!= "file:"){
-        try {
-          // this.audio.src = this.currentTrack.source;
-          // this.audio.load();
-          var request = new XMLHttpRequest();
-          request.open("GET", this.currentTrack.source, true);
-          request.responseType = "blob";
-          audio =  this.audio
-          request.onload = function() {
-            if (this.status == 200) {
-              audio.src = URL.createObjectURL(this.response);
-              audio.load();
-              audio.play();
+        if(protocol!= "file:"){
+          try {
+            // this.audio.src = this.currentTrack.source;
+            // this.audio.load();
+            var request = new XMLHttpRequest();
+            request.open("GET", this.currentTrack.source, true);
+            request.responseType = "blob";
+            audio =  this.audio
+            request.onload = function() {
+              if (this.status == 200) {
+                audio.src = URL.createObjectURL(this.response);
+                audio.load();
+                console.log("url: "+this.responseURL)
+                console.log("vu url: "+this.currentTrack.source)
+                if(timer <5){
+                  audio.play();
+                }else{
+                  this.audio.pause();
+                  this.isTimerPlaying = false;
+                  // console.log("你已經聽了兩個小時囉，要不要休息一下呢?");
+                  alert("你已經聽了兩個小時囉，要不要休息一下呢?")
+                }
+              }
             }
+            request.send();
+          } catch (error) {
+            this.audio.src = this.currentTrack.source;
+            this.audio.load();
+            this.audio.play();
+    
           }
-          request.send();
-        } catch (error) {
+        }else{
           this.audio.src = this.currentTrack.source;
           this.audio.load();
           this.audio.play();
-  
         }
-      }else{
-        this.audio.src = this.currentTrack.source;
-        this.audio.load();
-        this.audio.play();
-      }
     },
     play() {
       if (this.audio.paused) {
@@ -111,6 +120,7 @@ computed: {
       } else {
         this.audio.pause();
         this.isTimerPlaying = false;
+        timer = 0;
       }
     },
     generateTime() {
