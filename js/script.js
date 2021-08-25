@@ -36,7 +36,7 @@ function settracks(){
   vu.init()
   
 }
-setInterval(function(){ timer+=1;}, 1*1000);
+sleepTimer = null
 var vu = new Vue({
   el: "#app",
   data() {
@@ -83,13 +83,14 @@ computed: {
               if (this.status == 200 && this.responseURL.search(vu.currentTrack.source)>0) {
                 audio.src = URL.createObjectURL(this.response);
                 audio.load();
-                if(timer <5){
+                if(timer <10){
                   audio.play();
                 }else{
                   vu.audio.pause();
                   vu.isTimerPlaying = false;
                   // console.log("你已經聽了兩個小時囉，要不要休息一下呢?");
-                  alert("你已經聽了兩個小時囉，要不要休息一下呢?")
+                  myTimer = setTimeout(()=>{alert("你已經聽了兩個小時囉，要不要休息一下呢?");clearTimeout(myTimer)}, 500);
+                  
                 }
               }
             }
@@ -103,11 +104,22 @@ computed: {
         }else{
           this.audio.src = this.currentTrack.source;
           this.audio.load();
-          this.audio.play();
+          if(timer <10){
+            this.audio.play();
+          }else{
+            vu.audio.pause();
+            vu.isTimerPlaying = false;
+            // console.log("你已經聽了兩個小時囉，要不要休息一下呢?");
+            myTimer = setTimeout(()=>{alert("你已經聽了兩個小時囉，要不要休息一下呢?");clearTimeout(myTimer)}, 500);
+
+          }
         }
     },
     play() {
       if (this.audio.paused) {
+        if(!sleepTimer){
+          sleepTimer = setInterval(function(){ timer+=1;}, 1*1000);
+        }
         this.updateAslide();
         if(this.duration){
           this.audio.play();
