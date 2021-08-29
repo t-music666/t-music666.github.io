@@ -13,14 +13,29 @@
   <link href="https://fonts.googleapis.com/css?family=Bitter:400,700&display=swap&subset=latin-ext" rel="stylesheet" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css'>
+  <link rel="stylesheet" href="./css/dialog.css">
   <link rel="stylesheet" href="./css/style.css">
   <link rel="stylesheet" href="./css/styleaslide.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
 </head>
 
 <body>
   <div id="bg-artwork"></div>
   <div class="wrapper" id="app">
-    <div class="player">
+      <input type="checkbox" name="dialog_state" id="dialog_state" class="dialog_state"  v-model="dialogChecked" >
+      <div id='dialog'>
+        <label id="dlg-back" for="dialog_state"></label>
+        <div id='dlg-wrap'>
+          <label id="dlg-close" for="dialog_state"><i class="icon ion-ios-close-empty"></i></label>
+          <h2 id='dlg-header'>Are you here?</h2>
+          <div id='dlg-content'>You have listening for 2 hours. Do you want to play music?</div>
+          <div id='dlg-prompt'>
+            <label class='button positive'  @click="dialogPlay"><i class="Picon ion-ios-checkmark-empty"></i> OK, thanks!</label>
+            <label class='button' for="dialog_state"><i class="Picon ion-ios-close-empty"></i> No, Stop!</label>
+          </div>
+        </div>
+      </div>
+    <div class="player" id="main_area">
       <div class="player__top">
           <div hi ><span>
             <div class="hat" :class="{ active : repeat }"></div></span></div>

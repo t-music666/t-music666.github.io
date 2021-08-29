@@ -18,6 +18,7 @@ You can fork on github: https://github.com/muhammederdem/mini-player
 // }
 timer = 0
 ntrackList = [{name:"",source:"",cover:"",favorited:"",artist:""}]
+
 function settracks(){
   // ntrackList = trackList.map(x =>m(x.substr(3)))
   ntrackList = []
@@ -53,8 +54,10 @@ var vu = new Vue({
       currentTrack: null,
       currentTrackIndex: 0,
       transitionName: null,
+      wait :false,
       random: false,
       repeat: false,
+      dialogChecked:false,
       settings: {
         maxLength: 100,
         length: 50,
@@ -75,22 +78,28 @@ computed: {
           try {
             // this.audio.src = this.currentTrack.source;
             // this.audio.load();
+            wait = true;
             var request = new XMLHttpRequest();
             request.open("GET", this.currentTrack.source, true);
             request.responseType = "blob";
-            audio =  this.audio
+            audio =  this.audio;
             request.onload = function() {
-              if (this.status == 200 && this.responseURL.search(vu.currentTrack.source)>0) {
-                audio.src = URL.createObjectURL(this.response);
-                audio.load();
-                if(timer <60*60*2){
-                  audio.play();
-                }else{
-                  vu.audio.pause();
-                  vu.isTimerPlaying = false;
-                  // console.log("你已經聽了兩個小時囉，要不要休息一下呢?");
-                  myTimer = setTimeout(()=>{alert("你已經聽了兩個小時囉，要不要休息一下呢?");clearTimeout(myTimer)}, 500);
-                  
+              if(this.responseURL.search(vu.currentTrack.source)>0){
+                  wait = false;
+                if (this.status == 200) {
+                  audio.src = URL.createObjectURL(this.response);
+                  audio.load();
+                  if(timer <60*60*2){
+                  // if(timer <1*2){
+                    audio.play();
+                  }else{
+                    vu.audio.pause();
+                    vu.isTimerPlaying = false;
+                    // console.log("你已經聽了兩個小時囉，要不要休息一下呢?");
+                    // myTimer = setTimeout(()=>{alert("你已經聽了兩個小時囉，要不要休息一下呢?");clearTimeout(myTimer)}, 500);
+                    this.dialogChecked = true
+                    timer = 0;
+                  }
                 }
               }
             }
@@ -101,19 +110,21 @@ computed: {
             this.audio.play();
     
           }
+      }else{
+        this.audio.src = this.currentTrack.source;
+        this.audio.load();
+        if(timer <10){
+          this.audio.play();
         }else{
-          this.audio.src = this.currentTrack.source;
-          this.audio.load();
-          if(timer <10){
-            this.audio.play();
-          }else{
-            vu.audio.pause();
-            vu.isTimerPlaying = false;
-            // console.log("你已經聽了兩個小時囉，要不要休息一下呢?");
-            myTimer = setTimeout(()=>{alert("你已經聽了兩個小時囉，要不要休息一下呢?");clearTimeout(myTimer)}, 500);
+          vu.audio.pause();
+          vu.isTimerPlaying = false;
+          // console.log("你已經聽了兩個小時囉，要不要休息一下呢?");
+          // myTimer = setTimeout(()=>{alert("你已經聽了兩個小時囉，要不要休息一下呢?");clearTimeout(myTimer)}, 500);
+          this.dialogChecked = true
+          timer= 0
 
-          }
         }
+      }
     },
     play() {
       if (this.audio.paused) {
@@ -132,6 +143,10 @@ computed: {
         this.isTimerPlaying = false;
         timer = 0;
       }
+    },
+    dialogPlay(){
+      this.dialogChecked = false;
+      this.play();
     },
     generateTime() {
       let width = (100 / this.audio.duration) * this.audio.currentTime;
@@ -348,7 +363,6 @@ computed: {
   }
 });
 protocol = document.location.protocol
-
 tag = document.location.hash.split("#")[1]
 try{
   if(protocol!= "file:"){
