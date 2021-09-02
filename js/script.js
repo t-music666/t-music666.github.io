@@ -118,7 +118,7 @@ computed: {
         }else{
           vu.audio.pause();
           vu.isTimerPlaying = false;
-          // console.log("你已經聽了兩個小時囉，要不要休息一下呢?");
+          console.log("你已經聽了兩個小時囉，要不要休息一下呢?");
           // myTimer = setTimeout(()=>{alert("你已經聽了兩個小時囉，要不要休息一下呢?");clearTimeout(myTimer)}, 500);
           this.dialogChecked = true
           timer= 0
