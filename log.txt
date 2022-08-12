@@ -4,6 +4,7 @@
 [youtube:tab] playlist Sami's music: Downloading 190 videos
 [download] Downloading video 1 of 190
 [youtube] mK9Be_3r9-U: Downloading webpage
+[youtube] mK9Be_3r9-U: Downloading player 324f67b9
 [download] Downloading video 2 of 190
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 190
@@ -770,6 +771,7 @@ Exist: Sakuzyo - ∀Rkadia
 [youtube:tab] playlist 醜奴兒: Downloading 12 videos
 [download] Downloading video 1 of 12
 [youtube] STrC761mNbc: Downloading webpage
+[youtube] STrC761mNbc: Downloading player 4c3f79c5
 [download] Downloading video 2 of 12
 [youtube] c9ojHGZDqZw: Downloading webpage
 [download] Downloading video 3 of 12
@@ -1313,410 +1315,417 @@ Exist: Heart Sutra/般若心経 (cho ver.)[water ripple mix.]  Kanho Yakushiji �
 Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [download] Downloading playlist: GG
 [youtube:tab] Downloading page 1
-[youtube:tab] playlist GG: Downloading 197 videos
-[download] Downloading video 1 of 197
+[youtube:tab] playlist GG: Downloading 198 videos
+[download] Downloading video 1 of 198
+[youtube] BN6R18mmpgI: Downloading webpage
+[download] Downloading video 2 of 198
 [youtube] J60H9dL6V1M: Downloading webpage
-[download] Downloading video 2 of 197
+[download] Downloading video 3 of 198
 [youtube] 7HxmljnwTOA: Downloading webpage
-[download] Downloading video 3 of 197
+[download] Downloading video 4 of 198
 [youtube] EqoQhUaLYsI: Downloading webpage
-[download] Downloading video 4 of 197
+[download] Downloading video 5 of 198
 [youtube] P8fqHvr82-o: Downloading webpage
-[download] Downloading video 5 of 197
+[download] Downloading video 6 of 198
 [youtube] OPkqtboFFYI: Downloading webpage
-[download] Downloading video 6 of 197
+[download] Downloading video 7 of 198
 [youtube] kEXCoQNY6Mc: Downloading webpage
-[download] Downloading video 7 of 197
+[download] Downloading video 8 of 198
 [youtube] 7jYDYon4sGQ: Downloading webpage
-[download] Downloading video 8 of 197
+[download] Downloading video 9 of 198
 [youtube] 97axrS3Npxk: Downloading webpage
-[download] Downloading video 9 of 197
+[download] Downloading video 10 of 198
 [youtube] hr8jWDyb1jg: Downloading webpage
-[download] Downloading video 10 of 197
+[download] Downloading video 11 of 198
 [youtube] 38lcQsEMGrk: Downloading webpage
-[download] Downloading video 11 of 197
+[download] Downloading video 12 of 198
 [youtube] pd3eV-SG23E: Downloading webpage
-[download] Downloading video 12 of 197
+[download] Downloading video 13 of 198
 [youtube] HR3VgyhiVxI: Downloading webpage
-[download] Downloading video 13 of 197
+[download] Downloading video 14 of 198
 [youtube] _bbMY6infq4: Downloading webpage
-[download] Downloading video 14 of 197
+[download] Downloading video 15 of 198
 [youtube] xMdaYOdxaTk: Downloading webpage
 [youtube] xMdaYOdxaTk: Downloading MPD manifest
-[download] Downloading video 15 of 197
+[download] Downloading video 16 of 198
 [youtube] mrEee4bhc7Y: Downloading webpage
-[download] Downloading video 16 of 197
+[download] Downloading video 17 of 198
 [youtube] WTcodZDH-Oc: Downloading webpage
-[download] Downloading video 17 of 197
+[download] Downloading video 18 of 198
 [youtube] LygMIq09Cps: Downloading webpage
-[download] Downloading video 18 of 197
+[download] Downloading video 19 of 198
 [youtube] qQ7g1tfEGFc: Downloading webpage
-[download] Downloading video 19 of 197
+[download] Downloading video 20 of 198
 [youtube] qVKLNfbpCZ0: Downloading webpage
-[download] Downloading video 20 of 197
+[download] Downloading video 21 of 198
 [youtube] xWTiOqJqkk0: Downloading webpage
-[download] Downloading video 21 of 197
+[download] Downloading video 22 of 198
 [youtube] qX2GsMj7154: Downloading webpage
-[download] Downloading video 22 of 197
+[download] Downloading video 23 of 198
 [youtube] H7HmzwI67ec: Downloading webpage
-[download] Downloading video 23 of 197
+[download] Downloading video 24 of 198
 [youtube] Y1xs_xPb46M: Downloading webpage
-[download] Downloading video 24 of 197
+[download] Downloading video 25 of 198
 [youtube] QJO3ROT-A4E: Downloading webpage
-[download] Downloading video 25 of 197
+[download] Downloading video 26 of 198
 [youtube] hKlbYQdpzU8: Downloading webpage
-[download] Downloading video 26 of 197
+[download] Downloading video 27 of 198
 [youtube] 0aBLvPhkW5s: Downloading webpage
 [youtube] 0aBLvPhkW5s: Downloading MPD manifest
-[download] Downloading video 27 of 197
+[download] Downloading video 28 of 198
 [youtube] 4DxL6IKmXx4: Downloading webpage
-[download] Downloading video 28 of 197
+[download] Downloading video 29 of 198
 [youtube] DDs5bXh4erM: Downloading webpage
-[download] Downloading video 29 of 197
+[download] Downloading video 30 of 198
 [youtube] ShYLgpfW7aU: Downloading webpage
-[download] Downloading video 30 of 197
+[download] Downloading video 31 of 198
 [youtube] yGoHsTV6QrE: Downloading webpage
-[download] Downloading video 31 of 197
+[download] Downloading video 32 of 198
 [youtube] d_g7eUUyK5U: Downloading webpage
-[download] Downloading video 32 of 197
+[download] Downloading video 33 of 198
 [youtube] GCgvpwLNvtY: Downloading webpage
-[download] Downloading video 33 of 197
+[download] Downloading video 34 of 198
 [youtube] sW6qfAmen-M: Downloading webpage
-[download] Downloading video 34 of 197
+[download] Downloading video 35 of 198
 [youtube] 8i862BjPn5c: Downloading webpage
-[download] Downloading video 35 of 197
+[download] Downloading video 36 of 198
 [youtube] VHtw3YMQsSs: Downloading webpage
-[download] Downloading video 36 of 197
+[download] Downloading video 37 of 198
 [youtube] NVAR4nHcNdQ: Downloading webpage
-[download] Downloading video 37 of 197
+[download] Downloading video 38 of 198
 [youtube] QGJuMBdaqIw: Downloading webpage
-[download] Downloading video 38 of 197
+[download] Downloading video 39 of 198
 [youtube] QOgt_VRDASQ: Downloading webpage
-[download] Downloading video 39 of 197
+[download] Downloading video 40 of 198
 [youtube] vpcWl-YJ_uo: Downloading webpage
-[download] Downloading video 40 of 197
+[download] Downloading video 41 of 198
 [youtube] Aq6KNRyvm-Y: Downloading webpage
-[download] Downloading video 41 of 197
+[download] Downloading video 42 of 198
 [youtube] JPYTV-ugQvM: Downloading webpage
-[download] Downloading video 42 of 197
+[download] Downloading video 43 of 198
 [youtube] G9BANB58TOc: Downloading webpage
-[download] Downloading video 43 of 197
+[download] Downloading video 44 of 198
 [youtube] G_JlDSmh-2M: Downloading webpage
-[download] Downloading video 44 of 197
+[download] Downloading video 45 of 198
 [youtube] 6E6SYBnI0Qs: Downloading webpage
-[download] Downloading video 45 of 197
+[download] Downloading video 46 of 198
 [youtube] mRD0-GxqHVo: Downloading webpage
-[download] Downloading video 46 of 197
+[download] Downloading video 47 of 198
 [youtube] pp-ruzZbowA: Downloading webpage
-[download] Downloading video 47 of 197
+[download] Downloading video 48 of 198
 [youtube] 6n2nAp_bfSk: Downloading webpage
-[download] Downloading video 48 of 197
+[download] Downloading video 49 of 198
 [youtube] orJSJGHjBLI: Downloading webpage
-[download] Downloading video 49 of 197
+[download] Downloading video 50 of 198
 [youtube] NaFd8ucHLuo: Downloading webpage
-[download] Downloading video 50 of 197
+[download] Downloading video 51 of 198
 [youtube] mQUek1GYfvs: Downloading webpage
-[download] Downloading video 51 of 197
+[download] Downloading video 52 of 198
 [youtube] mKgWLAfiEL0: Downloading webpage
-[download] Downloading video 52 of 197
+[download] Downloading video 53 of 198
 [youtube] dtVR0oi_N4U: Downloading webpage
-[download] Downloading video 53 of 197
+[download] Downloading video 54 of 198
 [youtube] LX-qN5V1eiE: Downloading webpage
-[download] Downloading video 54 of 197
+[download] Downloading video 55 of 198
 [youtube] 8tuzFSXeKI0: Downloading webpage
-[download] Downloading video 55 of 197
+[download] Downloading video 56 of 198
 [youtube] 0rp3pP2Xwhs: Downloading webpage
-[download] Downloading video 56 of 197
+[download] Downloading video 57 of 198
 [youtube] 8ux25IcLr8w: Downloading webpage
-[download] Downloading video 57 of 197
+[download] Downloading video 58 of 198
 [youtube] h2VO3TXoXWw: Downloading webpage
-[download] Downloading video 58 of 197
+[download] Downloading video 59 of 198
 [youtube] nUK8nzDfYBQ: Downloading webpage
-[download] Downloading video 59 of 197
+[download] Downloading video 60 of 198
 [youtube] caxiOmSWWEM: Downloading webpage
-[download] Downloading video 60 of 197
+[download] Downloading video 61 of 198
 [youtube] 2HwQQwDWO2s: Downloading webpage
-[download] Downloading video 61 of 197
+[download] Downloading video 62 of 198
 [youtube] WBOUjXNr_9E: Downloading webpage
-[download] Downloading video 62 of 197
+[download] Downloading video 63 of 198
 [youtube] te9Pfsugz6U: Downloading webpage
-[download] Downloading video 63 of 197
+[download] Downloading video 64 of 198
 [youtube] eSFFvoObdEc: Downloading webpage
-[download] Downloading video 64 of 197
+[download] Downloading video 65 of 198
 [youtube] eLPs_w-FepA: Downloading webpage
-[download] Downloading video 65 of 197
+[download] Downloading video 66 of 198
 [youtube] 4fndeDfaWCg: Downloading webpage
-[download] Downloading video 66 of 197
+[download] Downloading video 67 of 198
 [youtube] dZlT8K_Woo0: Downloading webpage
-[download] Downloading video 67 of 197
+[download] Downloading video 68 of 198
 [youtube] 8MG--WuNW1Y: Downloading webpage
-[download] Downloading video 68 of 197
+[download] Downloading video 69 of 198
 [youtube] HQDDlgGy2hg: Downloading webpage
-[download] Downloading video 69 of 197
+[download] Downloading video 70 of 198
 [youtube] gn2vr-BO8Dc: Downloading webpage
-[download] Downloading video 70 of 197
+[download] Downloading video 71 of 198
 [youtube] JfS8YZD5eSA: Downloading webpage
-[download] Downloading video 71 of 197
+[download] Downloading video 72 of 198
 [youtube] Df9lbCJNhGU: Downloading webpage
-[download] Downloading video 72 of 197
+[download] Downloading video 73 of 198
 [youtube] RypZvuEzCFA: Downloading webpage
-[download] Downloading video 73 of 197
+[download] Downloading video 74 of 198
 [youtube] i1SKuf9oSso: Downloading webpage
-[download] Downloading video 74 of 197
+[download] Downloading video 75 of 198
 [youtube] g8IZmPrqRj0: Downloading webpage
-[download] Downloading video 75 of 197
+[download] Downloading video 76 of 198
 [youtube] 17K8agMX8Dw: Downloading webpage
-[download] Downloading video 76 of 197
+[download] Downloading video 77 of 198
 [youtube] vsTfaAShh2Q: Downloading webpage
-[download] Downloading video 77 of 197
+[download] Downloading video 78 of 198
 [youtube] I9ubijMNO3U: Downloading webpage
-[download] Downloading video 78 of 197
+[download] Downloading video 79 of 198
 [youtube] 65IKNssGRPI: Downloading webpage
-[download] Downloading video 79 of 197
+[download] Downloading video 80 of 198
 [youtube] LEPYiL7HTgQ: Downloading webpage
-[download] Downloading video 80 of 197
+[download] Downloading video 81 of 198
 [youtube] A-4dlnKyduY: Downloading webpage
-[download] Downloading video 81 of 197
+[download] Downloading video 82 of 198
 [youtube] 5NP8HZWEju0: Downloading webpage
-[download] Downloading video 82 of 197
+[download] Downloading video 83 of 198
 [youtube] IYbMft8W6TE: Downloading webpage
-[download] Downloading video 83 of 197
+[download] Downloading video 84 of 198
 [youtube] 231iP0X51Xc: Downloading webpage
-[download] Downloading video 84 of 197
+[download] Downloading video 85 of 198
 [youtube] ZX0hx6dgSDQ: Downloading webpage
-[download] Downloading video 85 of 197
+[download] Downloading video 86 of 198
 [youtube] s6LX-pKFndw: Downloading webpage
-[download] Downloading video 86 of 197
+[download] Downloading video 87 of 198
 [youtube] 7GEYc0OEgbc: Downloading webpage
-[download] Downloading video 87 of 197
+[download] Downloading video 88 of 198
 [youtube] FCOZHrT_nbw: Downloading webpage
-[download] Downloading video 88 of 197
+[download] Downloading video 89 of 198
 [youtube] o1sUaVJUeB0: Downloading webpage
-[download] Downloading video 89 of 197
+[download] Downloading video 90 of 198
 [youtube] xtNnvHfQqNE: Downloading webpage
-[download] Downloading video 90 of 197
+[download] Downloading video 91 of 198
 [youtube] 6tk9jlKo8y4: Downloading webpage
-[download] Downloading video 91 of 197
+[download] Downloading video 92 of 198
 [youtube] vmmRFJcDJJw: Downloading webpage
-[download] Downloading video 92 of 197
+[download] Downloading video 93 of 198
 [youtube] bpJko9n8KTY: Downloading webpage
-[download] Downloading video 93 of 197
+[download] Downloading video 94 of 198
 [youtube] V3qCiCv_WIo: Downloading webpage
-[download] Downloading video 94 of 197
+[download] Downloading video 95 of 198
 [youtube] GftT_wzRJdc: Downloading webpage
-[download] Downloading video 95 of 197
+[download] Downloading video 96 of 198
 [youtube] 8nW94cQhy0E: Downloading webpage
 [youtube] 8nW94cQhy0E: Downloading MPD manifest
-[download] Downloading video 96 of 197
+[download] Downloading video 97 of 198
 [youtube] 8nW94cQhy0E: Downloading webpage
 [youtube] 8nW94cQhy0E: Downloading MPD manifest
-[download] Downloading video 97 of 197
+[download] Downloading video 98 of 198
 [youtube] qB_vOmL4v5c: Downloading webpage
-[download] Downloading video 98 of 197
+[download] Downloading video 99 of 198
 [youtube] 6ZA2zuX-Yt0: Downloading webpage
-[download] Downloading video 99 of 197
+[download] Downloading video 100 of 198
 [youtube] Ay30I-kbItw: Downloading webpage
-[download] Downloading video 100 of 197
+[download] Downloading video 101 of 198
 [youtube] oEzvwOqihAo: Downloading webpage
-[download] Downloading video 101 of 197
+[download] Downloading video 102 of 198
 [youtube] GIunNrf7G7w: Downloading webpage
-[download] Downloading video 102 of 197
+[download] Downloading video 103 of 198
 [youtube] h8fDWJsFJQs: Downloading webpage
 [youtube] h8fDWJsFJQs: Downloading MPD manifest
-[download] Downloading video 103 of 197
+[download] Downloading video 104 of 198
 [youtube] WD6Ob-CEQUk: Downloading webpage
-[download] Downloading video 104 of 197
+[download] Downloading video 105 of 198
 [youtube] ma7r2HGqwXs: Downloading webpage
-[download] Downloading video 105 of 197
+[download] Downloading video 106 of 198
 [youtube] T4SimnaiktU: Downloading webpage
-[download] Downloading video 106 of 197
+[download] Downloading video 107 of 198
 [youtube] vDR-e3W6ARc: Downloading webpage
-[download] Downloading video 107 of 197
+[download] Downloading video 108 of 198
 [youtube] Lhel0tzHE08: Downloading webpage
-[download] Downloading video 108 of 197
+[download] Downloading video 109 of 198
 [youtube] zqKoXPHhmsM: Downloading webpage
-[download] Downloading video 109 of 197
+[download] Downloading video 110 of 198
 [youtube] UprcpdwuwCg: Downloading webpage
-[download] Downloading video 110 of 197
+[download] Downloading video 111 of 198
 [youtube] FZSVQRLVFy0: Downloading webpage
-[download] Downloading video 111 of 197
+[download] Downloading video 112 of 198
 [youtube] joXG6I5wva8: Downloading webpage
-[download] Downloading video 112 of 197
+[download] Downloading video 113 of 198
 [youtube] D9G1VOjN_84: Downloading webpage
-[download] Downloading video 113 of 197
+[download] Downloading video 114 of 198
 [youtube] b1E70mAzNwY: Downloading webpage
-[download] Downloading video 114 of 197
+[download] Downloading video 115 of 198
 [youtube] -t9M9m_731g: Downloading webpage
-[download] Downloading video 115 of 197
+[download] Downloading video 116 of 198
 [youtube] CpsZwB63zmA: Downloading webpage
-[download] Downloading video 116 of 197
+[download] Downloading video 117 of 198
 [youtube] ERUMIAuYBUI: Downloading webpage
-[download] Downloading video 117 of 197
+[download] Downloading video 118 of 198
 [youtube] WCLlFA9SiDI: Downloading webpage
-[download] Downloading video 118 of 197
+[download] Downloading video 119 of 198
 [youtube] rRwxfYlgG-M: Downloading webpage
-[download] Downloading video 119 of 197
+[download] Downloading video 120 of 198
 [youtube] VmdHdDPt1NM: Downloading webpage
-[download] Downloading video 120 of 197
+[download] Downloading video 121 of 198
 [youtube] Il0S8BoucSA: Downloading webpage
-[download] Downloading video 121 of 197
+[download] Downloading video 122 of 198
 [youtube] gM72KhfYU2Q: Downloading webpage
-[download] Downloading video 122 of 197
+[download] Downloading video 123 of 198
 [youtube] zv-PSPiBm34: Downloading webpage
 [youtube] zv-PSPiBm34: Downloading MPD manifest
-[download] Downloading video 123 of 197
+[download] Downloading video 124 of 198
 [youtube] f-mvVv0R6n0: Downloading webpage
-[download] Downloading video 124 of 197
+[download] Downloading video 125 of 198
 [youtube] -InsBp4HRZo: Downloading webpage
-[download] Downloading video 125 of 197
+[download] Downloading video 126 of 198
 [youtube] Ra-Om7UMSJc: Downloading webpage
-[download] Downloading video 126 of 197
+[download] Downloading video 127 of 198
 [youtube] at6EJZbYv8k: Downloading webpage
-[download] Downloading video 127 of 197
+[download] Downloading video 128 of 198
 [youtube] UqON44CLaQM: Downloading webpage
-[download] Downloading video 128 of 197
+[download] Downloading video 129 of 198
 [youtube] KjrRSEvqUMA: Downloading webpage
-[download] Downloading video 129 of 197
+[download] Downloading video 130 of 198
 [youtube] yQ-IQoOwDyg: Downloading webpage
 [youtube] yQ-IQoOwDyg: Downloading MPD manifest
-[download] Downloading video 130 of 197
+[download] Downloading video 131 of 198
 [youtube] 5hDZbroaQDc: Downloading webpage
-[download] Downloading video 131 of 197
+[download] Downloading video 132 of 198
 [youtube] K0vthsl7nYw: Downloading webpage
 [youtube] K0vthsl7nYw: Downloading MPD manifest
-[download] Downloading video 132 of 197
+[download] Downloading video 133 of 198
 [youtube] VmmXcu8XR8E: Downloading webpage
-[download] Downloading video 133 of 197
+[download] Downloading video 134 of 198
 [youtube] L85TprQ-QRY: Downloading webpage
-[download] Downloading video 134 of 197
+[download] Downloading video 135 of 198
 [youtube] f3W-yYCLWms: Downloading webpage
-[download] Downloading video 135 of 197
+[download] Downloading video 136 of 198
 [youtube] C0oUGAeVN1I: Downloading webpage
-[download] Downloading video 136 of 197
+[download] Downloading video 137 of 198
 [youtube] RSj0mPJsMy0: Downloading webpage
-[download] Downloading video 137 of 197
+[download] Downloading video 138 of 198
 [youtube] Rk2MW6L89mY: Downloading webpage
-[download] Downloading video 138 of 197
+[download] Downloading video 139 of 198
 [youtube] FCT6Mu-pOeE: Downloading webpage
-[download] Downloading video 139 of 197
+[download] Downloading video 140 of 198
 [youtube] dOD_HFqxmkM: Downloading webpage
-[download] Downloading video 140 of 197
+[download] Downloading video 141 of 198
 [youtube] -fuD12s1EKQ: Downloading webpage
-[download] Downloading video 141 of 197
+[download] Downloading video 142 of 198
 [youtube] BKtwah67B9c: Downloading webpage
-[download] Downloading video 142 of 197
+[download] Downloading video 143 of 198
 [youtube] tKzoiAGRtEw: Downloading webpage
-[download] Downloading video 143 of 197
+[download] Downloading video 144 of 198
 [youtube] _s8Iot-uo7s: Downloading webpage
-[download] Downloading video 144 of 197
+[download] Downloading video 145 of 198
 [youtube] ipJv-Rt28h8: Downloading webpage
-[download] Downloading video 145 of 197
+[download] Downloading video 146 of 198
 [youtube] zbKEln8GOuk: Downloading webpage
-[download] Downloading video 146 of 197
+[download] Downloading video 147 of 198
 [youtube] w0dMz8RBG7g: Downloading webpage
-[download] Downloading video 147 of 197
+[download] Downloading video 148 of 198
 [youtube] aVmZpcrQBU4: Downloading webpage
-[download] Downloading video 148 of 197
+[download] Downloading video 149 of 198
 [youtube] mZPjyWPYP7s: Downloading webpage
-[download] Downloading video 149 of 197
+[download] Downloading video 150 of 198
 [youtube] ypHBbexlAUs: Downloading webpage
-[download] Downloading video 150 of 197
+[download] Downloading video 151 of 198
 [youtube] iZADFPjifHA: Downloading webpage
-[download] Downloading video 151 of 197
+[download] Downloading video 152 of 198
 [youtube] VrXplOA-cYw: Downloading webpage
-[download] Downloading video 152 of 197
+[download] Downloading video 153 of 198
 [youtube] jfC4QcuTk4k: Downloading webpage
-[download] Downloading video 153 of 197
+[download] Downloading video 154 of 198
 [youtube] _g9Z9Nl9lWc: Downloading webpage
-[download] Downloading video 154 of 197
+[download] Downloading video 155 of 198
 [youtube] 2LuW7acW9B8: Downloading webpage
-[download] Downloading video 155 of 197
+[download] Downloading video 156 of 198
 [youtube] Un8kwjcpKZA: Downloading webpage
-[download] Downloading video 156 of 197
+[download] Downloading video 157 of 198
 [youtube] gMospeRcYN8: Downloading webpage
-[download] Downloading video 157 of 197
+[download] Downloading video 158 of 198
 [youtube] D1PvIWdJ8xo: Downloading webpage
-[download] Downloading video 158 of 197
+[download] Downloading video 159 of 198
 [youtube] UugYCE8jKIA: Downloading webpage
-[download] Downloading video 159 of 197
+[download] Downloading video 160 of 198
 [youtube] V0XUd8f2pz8: Downloading webpage
-[download] Downloading video 160 of 197
+[download] Downloading video 161 of 198
 [youtube] q2WvTaqe9zU: Downloading webpage
-[download] Downloading video 161 of 197
+[download] Downloading video 162 of 198
 [youtube] CjG4osYJm0o: Downloading webpage
-[download] Downloading video 162 of 197
+[download] Downloading video 163 of 198
 [youtube] ARO82lUakMw: Downloading webpage
-[download] Downloading video 163 of 197
+[download] Downloading video 164 of 198
 [youtube] WZiSPQBY3d8: Downloading webpage
-[download] Downloading video 164 of 197
+[download] Downloading video 165 of 198
 [youtube] 5-SBT9AnVdk: Downloading webpage
-[download] Downloading video 165 of 197
+[download] Downloading video 166 of 198
 [youtube] qgnMRNoT-PM: Downloading webpage
-[download] Downloading video 166 of 197
+[download] Downloading video 167 of 198
 [youtube] -Rp7UPbhErE: Downloading webpage
-[download] Downloading video 167 of 197
+[download] Downloading video 168 of 198
 [youtube] _5_IpEvuIw4: Downloading webpage
-[download] Downloading video 168 of 197
+[download] Downloading video 169 of 198
 [youtube] cSLAO7zxS2M: Downloading webpage
-[download] Downloading video 169 of 197
+[download] Downloading video 170 of 198
 [youtube] ACo60qnd_Lc: Downloading webpage
-[download] Downloading video 170 of 197
+[download] Downloading video 171 of 198
 [youtube] RGRCx-g402I: Downloading webpage
-[download] Downloading video 171 of 197
+[download] Downloading video 172 of 198
 [youtube] 4OrCA1OInoo: Downloading webpage
-[download] Downloading video 172 of 197
+[download] Downloading video 173 of 198
 [youtube] bCB_nIdN86s: Downloading webpage
-[download] Downloading video 173 of 197
+[download] Downloading video 174 of 198
 [youtube] 29tEEaTN_Sc: Downloading webpage
-[download] Downloading video 174 of 197
+[download] Downloading video 175 of 198
 [youtube] kImpWphugRY: Downloading webpage
-[download] Downloading video 175 of 197
+[download] Downloading video 176 of 198
 [youtube] kmPgjr0EL64: Downloading webpage
-[download] Downloading video 176 of 197
+[download] Downloading video 177 of 198
 [youtube] WY6nQK7zbsk: Downloading webpage
-[download] Downloading video 177 of 197
+[download] Downloading video 178 of 198
 [youtube] YJcUsVn9OhE: Downloading webpage
-[download] Downloading video 178 of 197
+[download] Downloading video 179 of 198
 [youtube] dQw4w9WgXcQ: Downloading webpage
-[download] Downloading video 179 of 197
+[download] Downloading video 180 of 198
 [youtube] cC8NBJTc6aI: Downloading webpage
-[download] Downloading video 180 of 197
+[download] Downloading video 181 of 198
 [youtube] z94ur-O6JJk: Downloading webpage
-[download] Downloading video 181 of 197
+[download] Downloading video 182 of 198
 [youtube] AD6yT4HmShI: Downloading webpage
-[download] Downloading video 182 of 197
+[download] Downloading video 183 of 198
 [youtube] A-lebYNcgBk: Downloading webpage
-[download] Downloading video 183 of 197
+[download] Downloading video 184 of 198
 [youtube] -Qg-CXvIGWM: Downloading webpage
-[download] Downloading video 184 of 197
+[download] Downloading video 185 of 198
 [youtube] cnGMG798SCI: Downloading webpage
-[download] Downloading video 185 of 197
+[download] Downloading video 186 of 198
 [youtube] G8yBNYZS-KI: Downloading webpage
-[download] Downloading video 186 of 197
+[download] Downloading video 187 of 198
 [youtube] vx2u5uUu3DE: Downloading webpage
-[download] Downloading video 187 of 197
+[download] Downloading video 188 of 198
 [youtube] A2ZveMn7V84: Downloading webpage
-[download] Downloading video 188 of 197
+[download] Downloading video 189 of 198
 [youtube] fQK9itJT4LA: Downloading webpage
-[download] Downloading video 189 of 197
+[download] Downloading video 190 of 198
 [youtube] Gk2q7uZKlIc: Downloading webpage
-[download] Downloading video 190 of 197
+[download] Downloading video 191 of 198
 [youtube] d9IxdwEFk1c: Downloading webpage
-[download] Downloading video 191 of 197
+[download] Downloading video 192 of 198
 [youtube] NjTT5_RSkw4: Downloading webpage
-[download] Downloading video 192 of 197
+[download] Downloading video 193 of 198
 [youtube] uZRAKlPSFhU: Downloading webpage
-[download] Downloading video 193 of 197
+[download] Downloading video 194 of 198
 [youtube] j1hft9Wjq9U: Downloading webpage
-[download] Downloading video 194 of 197
+[download] Downloading video 195 of 198
 [youtube] eyWOh0EjXts: Downloading webpage
-[download] Downloading video 195 of 197
+[download] Downloading video 196 of 198
 [youtube] bGBy80LdkPI: Downloading webpage
-[download] Downloading video 196 of 197
+[download] Downloading video 197 of 198
 [youtube] ynaARgs_yvQ: Downloading webpage
-[download] Downloading video 197 of 197
+[download] Downloading video 198 of 198
 [youtube] VaAacrLk4gE: Downloading webpage
 [download] Finished downloading playlist: GG
+[youtube] BN6R18mmpgI: Downloading webpage
+
+not Exist: 八三夭 831 X 周湯豪【帥到分手不關你的事】Official Live Video
+[download] Destination: ./music/n2CBN6R18mmpgI.n2C
+[download]   0.0% of 3.99MiB at  4.30KiB/s ETA 15:50[download]   0.1% of 3.99MiB at 12.88KiB/s ETA 05:16[download]   0.2% of 3.99MiB at 30.04KiB/s ETA 02:15[download]   0.4% of 3.99MiB at 64.35KiB/s ETA 01:03[download]   0.8% of 3.99MiB at 62.06KiB/s ETA 01:05[download]   1.5% of 3.99MiB at 60.98KiB/s ETA 01:05[download]   3.0% of 3.99MiB at 57.98KiB/s ETA 01:08[download]   4.4% of 3.99MiB at 54.83KiB/s ETA 01:11[download]   5.6% of 3.99MiB at 55.91KiB/s ETA 01:09[download]   7.0% of 3.99MiB at 58.35KiB/s ETA 01:05[download]   8.7% of 3.99MiB at 56.59KiB/s ETA 01:05[download]  10.0% of 3.99MiB at 56.86KiB/s ETA 01:04[download]  11.4% of 3.99MiB at 56.37KiB/s ETA 01:04[download]  12.7% of 3.99MiB at 57.03KiB/s ETA 01:02[download]  14.3% of 3.99MiB at 57.07KiB/s ETA 01:01[download]  15.7% of 3.99MiB at 56.80KiB/s ETA 01:00[download]  17.0% of 3.99MiB at 57.36KiB/s ETA 00:59[download]  18.6% of 3.99MiB at 57.35KiB/s ETA 00:57[download]  20.0% of 3.99MiB at 56.91KiB/s ETA 00:57[download]  21.3% of 3.99MiB at 57.18KiB/s ETA 00:56[download]  22.8% of 3.99MiB at 57.00KiB/s ETA 00:55[download]  24.1% of 3.99MiB at 57.41KiB/s ETA 00:54[download]  25.7% of 3.99MiB at 57.43KiB/s ETA 00:52[download]  27.1% of 3.99MiB at 57.02KiB/s ETA 00:52[download]  28.4% of 3.99MiB at 57.09KiB/s ETA 00:51[download]  29.8% of 3.99MiB at 56.88KiB/s ETA 00:50[download]  31.1% of 3.99MiB at 57.12KiB/s ETA 00:49[download]  32.6% of 3.99MiB at 57.12KiB/s ETA 00:48[download]  34.0% of 3.99MiB at 57.40KiB/s ETA 00:46[download]  35.6% of 3.99MiB at 57.44KiB/s ETA 00:45[download]  37.0% of 3.99MiB at 57.36KiB/s ETA 00:44[download]  38.4% of 3.99MiB at 57.06KiB/s ETA 00:44[download]  39.6% of 3.99MiB at 57.12KiB/s ETA 00:43[download]  41.1% of 3.99MiB at 57.50KiB/s ETA 00:41[download]  42.8% of 3.99MiB at 57.18KiB/s ETA 00:40[download]  44.0% of 3.99MiB at 57.26KiB/s ETA 00:39[download]  45.5% of 3.99MiB at 57.17KiB/s ETA 00:38[download]  46.8% of 3.99MiB at 57.37KiB/s ETA 00:37[download]  48.4% of 3.99MiB at 57.40KiB/s ETA 00:36[download]  49.9% of 3.99MiB at 57.22KiB/s ETA 00:35[download]  51.1% of 3.99MiB at 57.33KiB/s ETA 00:34[download]  52.6% of 3.99MiB at 57.24KiB/s ETA 00:33[download]  54.0% of 3.99MiB at 57.42KiB/s ETA 00:32[download]  55.6% of 3.99MiB at 57.56KiB/s ETA 00:31[download]  57.1% of 3.99MiB at 57.43KiB/s ETA 00:30[download]  58.4% of 3.99MiB at 57.24KiB/s ETA 00:29[download]  59.6% of 3.99MiB at 57.28KiB/s ETA 00:28[download]  61.1% of 3.99MiB at 57.55KiB/s ETA 00:27[download]  62.8% of 3.99MiB at 57.27KiB/s ETA 00:26[download]  64.0% of 3.99MiB at 57.32KiB/s ETA 00:25[download]  65.5% of 3.99MiB at 57.23KiB/s ETA 00:24[download]  66.8% of 3.99MiB at 57.36KiB/s ETA 00:23[download]  68.4% of 3.99MiB at 57.34KiB/s ETA 00:22[download]  69.8% of 3.99MiB at 57.21KiB/s ETA 00:21[download]  71.0% of 3.99MiB at 57.25KiB/s ETA 00:20[download]  72.5% of 3.99MiB at 57.17KiB/s ETA 00:19[download]  73.8% of 3.99MiB at 57.28KiB/s ETA 00:18[download]  75.4% of 3.99MiB at 57.30KiB/s ETA 00:17[download]  76.8% of 3.99MiB at 57.25KiB/s ETA 00:16[download]  78.1% of 3.99MiB at 57.37KiB/s ETA 00:15[download]  79.7% of 3.99MiB at 57.37KiB/s ETA 00:14[download]  81.1% of 3.99MiB at 57.27KiB/s ETA 00:13[download]  82.4% of 3.99MiB at 57.34KiB/s ETA 00:12[download]  83.9% of 3.99MiB at 57.32KiB/s ETA 00:11[download]  85.3% of 3.99MiB at 57.45KiB/s ETA 00:10[download]  86.9% of 3.99MiB at 57.48KiB/s ETA 00:09[download]  88.4% of 3.99MiB at 57.41KiB/s ETA 00:08[download]  89.7% of 3.99MiB at 57.23KiB/s ETA 00:07[download]  90.8% of 3.99MiB at 57.48KiB/s ETA 00:06[download]  93.0% of 3.99MiB at 57.35KiB/s ETA 00:04[download]  94.3% of 3.99MiB at 57.40KiB/s ETA 00:04[download]  95.8% of 3.99MiB at 57.40KiB/s ETA 00:03[download]  97.2% of 3.99MiB at 57.26KiB/s ETA 00:02[download]  98.4% of 3.99MiB at 57.32KiB/s ETA 00:01[download]  99.9% of 3.99MiB at 57.46KiB/s ETA 00:00[download] 100.0% of 3.99MiB at 57.52KiB/s ETA 00:00[download] 100% of 3.99MiB in 01:11
 
 Exist: 李芷婷非官方精華│真情味│feat.@老施 施文彬的施樂園│2021.11.07
 
