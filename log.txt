@@ -4,7 +4,6 @@
 [youtube:tab] playlist Sami's music: Downloading 190 videos
 [download] Downloading video 1 of 190
 [youtube] mK9Be_3r9-U: Downloading webpage
-[youtube] mK9Be_3r9-U: Downloading player 324f67b9
 [download] Downloading video 2 of 190
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 190
@@ -771,7 +770,6 @@ Exist: Sakuzyo - ∀Rkadia
 [youtube:tab] playlist 醜奴兒: Downloading 12 videos
 [download] Downloading video 1 of 12
 [youtube] STrC761mNbc: Downloading webpage
-[youtube] STrC761mNbc: Downloading player 4c3f79c5
 [download] Downloading video 2 of 12
 [youtube] c9ojHGZDqZw: Downloading webpage
 [download] Downloading video 3 of 12
@@ -1721,11 +1719,8 @@ Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [download] Downloading video 198 of 198
 [youtube] VaAacrLk4gE: Downloading webpage
 [download] Finished downloading playlist: GG
-[youtube] BN6R18mmpgI: Downloading webpage
 
-not Exist: 八三夭 831 X 周湯豪【帥到分手不關你的事】Official Live Video
-[download] Destination: ./music/n2CBN6R18mmpgI.n2C
-[download]   0.0% of 3.99MiB at  4.30KiB/s ETA 15:50[download]   0.1% of 3.99MiB at 12.88KiB/s ETA 05:16[download]   0.2% of 3.99MiB at 30.04KiB/s ETA 02:15[download]   0.4% of 3.99MiB at 64.35KiB/s ETA 01:03[download]   0.8% of 3.99MiB at 62.06KiB/s ETA 01:05[download]   1.5% of 3.99MiB at 60.98KiB/s ETA 01:05[download]   3.0% of 3.99MiB at 57.98KiB/s ETA 01:08[download]   4.4% of 3.99MiB at 54.83KiB/s ETA 01:11[download]   5.6% of 3.99MiB at 55.91KiB/s ETA 01:09[download]   7.0% of 3.99MiB at 58.35KiB/s ETA 01:05[download]   8.7% of 3.99MiB at 56.59KiB/s ETA 01:05[download]  10.0% of 3.99MiB at 56.86KiB/s ETA 01:04[download]  11.4% of 3.99MiB at 56.37KiB/s ETA 01:04[download]  12.7% of 3.99MiB at 57.03KiB/s ETA 01:02[download]  14.3% of 3.99MiB at 57.07KiB/s ETA 01:01[download]  15.7% of 3.99MiB at 56.80KiB/s ETA 01:00[download]  17.0% of 3.99MiB at 57.36KiB/s ETA 00:59[download]  18.6% of 3.99MiB at 57.35KiB/s ETA 00:57[download]  20.0% of 3.99MiB at 56.91KiB/s ETA 00:57[download]  21.3% of 3.99MiB at 57.18KiB/s ETA 00:56[download]  22.8% of 3.99MiB at 57.00KiB/s ETA 00:55[download]  24.1% of 3.99MiB at 57.41KiB/s ETA 00:54[download]  25.7% of 3.99MiB at 57.43KiB/s ETA 00:52[download]  27.1% of 3.99MiB at 57.02KiB/s ETA 00:52[download]  28.4% of 3.99MiB at 57.09KiB/s ETA 00:51[download]  29.8% of 3.99MiB at 56.88KiB/s ETA 00:50[download]  31.1% of 3.99MiB at 57.12KiB/s ETA 00:49[download]  32.6% of 3.99MiB at 57.12KiB/s ETA 00:48[download]  34.0% of 3.99MiB at 57.40KiB/s ETA 00:46[download]  35.6% of 3.99MiB at 57.44KiB/s ETA 00:45[download]  37.0% of 3.99MiB at 57.36KiB/s ETA 00:44[download]  38.4% of 3.99MiB at 57.06KiB/s ETA 00:44[download]  39.6% of 3.99MiB at 57.12KiB/s ETA 00:43[download]  41.1% of 3.99MiB at 57.50KiB/s ETA 00:41[download]  42.8% of 3.99MiB at 57.18KiB/s ETA 00:40[download]  44.0% of 3.99MiB at 57.26KiB/s ETA 00:39[download]  45.5% of 3.99MiB at 57.17KiB/s ETA 00:38[download]  46.8% of 3.99MiB at 57.37KiB/s ETA 00:37[download]  48.4% of 3.99MiB at 57.40KiB/s ETA 00:36[download]  49.9% of 3.99MiB at 57.22KiB/s ETA 00:35[download]  51.1% of 3.99MiB at 57.33KiB/s ETA 00:34[download]  52.6% of 3.99MiB at 57.24KiB/s ETA 00:33[download]  54.0% of 3.99MiB at 57.42KiB/s ETA 00:32[download]  55.6% of 3.99MiB at 57.56KiB/s ETA 00:31[download]  57.1% of 3.99MiB at 57.43KiB/s ETA 00:30[download]  58.4% of 3.99MiB at 57.24KiB/s ETA 00:29[download]  59.6% of 3.99MiB at 57.28KiB/s ETA 00:28[download]  61.1% of 3.99MiB at 57.55KiB/s ETA 00:27[download]  62.8% of 3.99MiB at 57.27KiB/s ETA 00:26[download]  64.0% of 3.99MiB at 57.32KiB/s ETA 00:25[download]  65.5% of 3.99MiB at 57.23KiB/s ETA 00:24[download]  66.8% of 3.99MiB at 57.36KiB/s ETA 00:23[download]  68.4% of 3.99MiB at 57.34KiB/s ETA 00:22[download]  69.8% of 3.99MiB at 57.21KiB/s ETA 00:21[download]  71.0% of 3.99MiB at 57.25KiB/s ETA 00:20[download]  72.5% of 3.99MiB at 57.17KiB/s ETA 00:19[download]  73.8% of 3.99MiB at 57.28KiB/s ETA 00:18[download]  75.4% of 3.99MiB at 57.30KiB/s ETA 00:17[download]  76.8% of 3.99MiB at 57.25KiB/s ETA 00:16[download]  78.1% of 3.99MiB at 57.37KiB/s ETA 00:15[download]  79.7% of 3.99MiB at 57.37KiB/s ETA 00:14[download]  81.1% of 3.99MiB at 57.27KiB/s ETA 00:13[download]  82.4% of 3.99MiB at 57.34KiB/s ETA 00:12[download]  83.9% of 3.99MiB at 57.32KiB/s ETA 00:11[download]  85.3% of 3.99MiB at 57.45KiB/s ETA 00:10[download]  86.9% of 3.99MiB at 57.48KiB/s ETA 00:09[download]  88.4% of 3.99MiB at 57.41KiB/s ETA 00:08[download]  89.7% of 3.99MiB at 57.23KiB/s ETA 00:07[download]  90.8% of 3.99MiB at 57.48KiB/s ETA 00:06[download]  93.0% of 3.99MiB at 57.35KiB/s ETA 00:04[download]  94.3% of 3.99MiB at 57.40KiB/s ETA 00:04[download]  95.8% of 3.99MiB at 57.40KiB/s ETA 00:03[download]  97.2% of 3.99MiB at 57.26KiB/s ETA 00:02[download]  98.4% of 3.99MiB at 57.32KiB/s ETA 00:01[download]  99.9% of 3.99MiB at 57.46KiB/s ETA 00:00[download] 100.0% of 3.99MiB at 57.52KiB/s ETA 00:00[download] 100% of 3.99MiB in 01:11
+Exist: 八三夭 831 X 周湯豪【帥到分手不關你的事】Official Live Video
 
 Exist: 李芷婷非官方精華│真情味│feat.@老施 施文彬的施樂園│2021.11.07
 
@@ -1945,10 +1940,10 @@ Exist: 周杰倫 Jay Chou【聽見下雨的聲音 Rhythm of the Rain】Official 
 
 Exist: twenty one pilots: Heathens (from Suicide Squad: The Album) [OFFICIAL VIDEO]
 
-Exist: G.E.M.【我只在乎你】Queen of Hearts 世界巡演現場版[HD] 鄧紫棋
+Exist: G.E.M.【我只在乎你】Queen of Hearts 世界巡演現場版[HD] 鄧紫棋[youtube:tab] PLC2083FE532A72935: Downloading webpage
+
 
 Exist: Alan Walker & Imanbek - Sweet Dreams(中文歌詞字幕)Lyrics
-[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)
 
