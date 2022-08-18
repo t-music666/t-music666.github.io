@@ -4,6 +4,7 @@
 [youtube:tab] playlist Sami's music: Downloading 190 videos
 [download] Downloading video 1 of 190
 [youtube] mK9Be_3r9-U: Downloading webpage
+[youtube] mK9Be_3r9-U: Downloading player 1f7d5369
 [download] Downloading video 2 of 190
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 190
