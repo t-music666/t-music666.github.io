@@ -4,7 +4,6 @@
 [youtube:tab] playlist Sami's music: Downloading 190 videos
 [download] Downloading video 1 of 190
 [youtube] mK9Be_3r9-U: Downloading webpage
-[youtube] mK9Be_3r9-U: Downloading player 009f1d77
 [download] Downloading video 2 of 190
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 190
@@ -70,9 +69,9 @@
 [download] Downloading video 33 of 190
 [youtube] ODOEt3_A6qM: Downloading webpage
 [download] Downloading video 34 of 190
-[youtube] J-9YAXTSRNU: Downloading webpage
-[download] Downloading video 35 of 190
 [youtube] lmRMF8k4qgQ: Downloading webpage
+[download] Downloading video 35 of 190
+[youtube] J-9YAXTSRNU: Downloading webpage
 [download] Downloading video 36 of 190
 [youtube] 9PGeNOzu-us: Downloading webpage
 [download] Downloading video 37 of 190
@@ -208,9 +207,9 @@
 [download] Downloading video 101 of 190
 [youtube] -VKIqrvVOpo: Downloading webpage
 [download] Downloading video 102 of 190
-[youtube] 3Y0Ut5ozaKs: Downloading webpage
-[download] Downloading video 103 of 190
 [youtube] HQ_mU73VhEQ: Downloading webpage
+[download] Downloading video 103 of 190
+[youtube] 3Y0Ut5ozaKs: Downloading webpage
 [download] Downloading video 104 of 190
 [youtube] TLWkm-SNDS8: Downloading webpage
 [download] Downloading video 105 of 190
@@ -291,9 +290,9 @@
 [download] Downloading video 142 of 190
 [youtube] qpbX7SbXOtU: Downloading webpage
 [download] Downloading video 143 of 190
-[youtube] H5gW-mwKkLA: Downloading webpage
-[download] Downloading video 144 of 190
 [youtube] noKtJm4Prhg: Downloading webpage
+[download] Downloading video 144 of 190
+[youtube] H5gW-mwKkLA: Downloading webpage
 [download] Downloading video 145 of 190
 [youtube] dfe6LT9VCBc: Downloading webpage
 [download] Downloading video 146 of 190
@@ -307,9 +306,9 @@
 [download] Downloading video 150 of 190
 [youtube] DSy9D8i51dw: Downloading webpage
 [download] Downloading video 151 of 190
-[youtube] nkZSCsm8hkM: Downloading webpage
-[download] Downloading video 152 of 190
 [youtube] cCuKxPXMf6g: Downloading webpage
+[download] Downloading video 152 of 190
+[youtube] nkZSCsm8hkM: Downloading webpage
 [download] Downloading video 153 of 190
 [youtube] B3dRbr2r5W0: Downloading webpage
 [download] Downloading video 154 of 190
@@ -455,9 +454,9 @@ Exist: Roselia『BLACK SHOUT』Music Video
 
 Exist: The Queens Garden [MapleStory Symphony in Budapest] / 메이플스토리 오케스트라 앨범
 
-Exist: The Cygnus Garden [MapleStory Symphony in Budapest] / 메이플스토리 오케스트라 앨범
-
 Exist: The Black Heaven [MapleStory Symphony in Budapest] / 메이플스토리 오케스트라 앨범
+
+Exist: The Cygnus Garden [MapleStory Symphony in Budapest] / 메이플스토리 오케스트라 앨범
 
 Exist: Fate Zero Ending 1 Memoria Full AMV
 
@@ -588,11 +587,11 @@ Exist: sumika「 春夏秋冬」動畫版電影『我想吃掉你的胰臟』主
 Exist: CHiCO with HoneyWorks 『世界は恋に落ちている』(Covered by コバソロ & 未来(ザ・フーパーズ))
 
 Exist: ヨルシカ - ただ君に晴れ (MUSIC VIDEO)
-
-Exist: 茄子蛋EggPlantEgg - 浪流連 Waves Wandering (Official Music Video)
 [youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
 
 Exist: 盧廣仲 Crowd Lu 【幾分之幾 You Complete Me】 Official Music Video （花甲大人轉男孩電影主題曲）
+
+Exist: 茄子蛋EggPlantEgg - 浪流連 Waves Wandering (Official Music Video)
 
 Exist: 超好听的日语歌曲——《太陽と向日葵》FLOWER
 
@@ -672,9 +671,9 @@ Exist: Fate/Grand Order 清廉なるHeretics 【中日字幕】
 
 Exist: The Phantom of the Opera - Prague Cello Quartet [Official video]
 
-Exist: Fujita Maiko (藤田麻衣子) - Flower & Butterfly
-
 Exist: ABSOLUTE CASTAWAY – 玉響蛍 (Tamayura Hotaru) Subtitulada
+
+Exist: Fujita Maiko (藤田麻衣子) - Flower & Butterfly
 
 Exist: 三月のパンタシア 『パステルレイン』
 
@@ -688,9 +687,9 @@ Exist: 約束 / はるまきごはんVocal ver. アニメMV
 
 Exist: 未来古代楽団 feat. DAZBEE 「はじまりのまえ、おしまいのあと」【Official Video】
 
-Exist: 「英雄の詩篇 / Eiyuu no shihen」（歌：ダズビー / DAZBEE）
-
 Exist: 【グリムノーツ】探し人の紡ぎ歌 (full ver.)
+
+Exist: 「英雄の詩篇 / Eiyuu no shihen」（歌：ダズビー / DAZBEE）
 
 Exist: 「楽園図」／中恵光城【中日詞附】
 
