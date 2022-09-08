@@ -4,7 +4,7 @@
 [youtube:tab] playlist Sami's music: Downloading 193 videos
 [download] Downloading video 1 of 193
 [youtube] mK9Be_3r9-U: Downloading webpage
-[youtube] mK9Be_3r9-U: Downloading player a7eb1f5d
+[youtube] mK9Be_3r9-U: Downloading player f96f6702
 [download] Downloading video 2 of 193
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 193
@@ -1804,8 +1804,6 @@ Exist: 施文彬《真情味》官方MV│金曲獎歌曲
 
 Exist: 施文彬 Michael Shih - 再會啦心愛的無緣的人 (官方完整版MV)
 
-Exist: 伍佰 Wu Bai&China Blue【痛哭的人 The person who weeps bitterly】Official Music Video
-
 Exist: 伍佰 Wu Bai&China Blue【浪人情歌 Wanderers love song】Official Music Video
 
 Exist: 伍佰 Wu Bai&China Blue【心愛的再會啦 Farewell my love】Official Music Video
@@ -1857,8 +1855,6 @@ Exist: Mayday五月天【入陣曲】MV官方動畫版-中視[蘭陵王]片頭�
 Exist: MAYDAY五月天 [ 挪威的森林 ]  feat.伍佰 Wu Bai  Life Tour no. 119 壓軸加班曲
 
 Exist: 伍佰 Wu Bai&China Blue【被動 Passive】Official Music Video
-
-Exist: 胡夏 那些年 (Official Video Karaoke)
 
 Exist: 田馥甄  Hebe Tien 《小幸運》
 
@@ -1991,11 +1987,11 @@ Exist: 一首好聽的日文歌~泥中に咲く(ウォルピスカーター)【�
 Exist: 一首好聽的日文歌~泥中に咲く(ウォルピスカーター)【中日字幕】
 
 Exist: 全球顶级史诗神曲《Victory》，气势磅礴的空灵仙音，太震撼了！
-[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: 《給未來的自己》Cover By 魚閃閃BLING【路演ver.】 ||『找一個人惺惺相惜 找一顆心 心心相印 在這個宇宙 我是獨一無二 沒人能取代』#梁靜茹 #魚閃閃
 
 Exist: 梁静茹 - 给未来的自己 (动态歌词)
+[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: 魚閃閃BLING《古風歌曲串燒》|| 紅閃閃，白閃閃，選個閃閃回家過年？【抖音網紅】#古風歌曲 #串燒 #漢服 #shorts
 
