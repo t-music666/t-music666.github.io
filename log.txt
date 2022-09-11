@@ -1212,8 +1212,6 @@ Exist: 蛋堡 - 過程
 
 Exist: 蘇打綠 sodagreen - 【控制狂】
 
-Exist: 蘇打綠 sodagreen -【燕窩】Official Music Video
-
 Exist: 蘇打綠 sodagreen -【你在煩惱什麼 Whats The Trouble On Your Mind】Official Music Video
 
 Exist: 蘇打綠 sodagreen -【再遇見】Official Music Video
@@ -1762,11 +1760,8 @@ Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [download] Downloading video 213 of 213
 [youtube] VaAacrLk4gE: Downloading webpage
 [download] Finished downloading playlist: GG
-[youtube] FU8iFl5ZKFQ: Downloading webpage
 
-not Exist: 鄧家忠 - 芭比Q了  「完了 完了 完了 芭比Q了」 【I LOVE MUSIC】
-[download] Destination: ./music/zKZFU8iFl5ZKFQ.zKZ
-[download]   0.1% of 1.49MiB at  3.41KiB/s ETA 07:28[download]   0.2% of 1.49MiB at 10.21KiB/s ETA 02:29[download]   0.5% of 1.49MiB at 23.81KiB/s ETA 01:03[download]   1.0% of 1.49MiB at 51.01KiB/s ETA 00:29[download]   2.0% of 1.49MiB at 47.54KiB/s ETA 00:31[download]   4.1% of 1.49MiB at 45.99KiB/s ETA 00:31[download]   7.0% of 1.49MiB at 43.40KiB/s ETA 00:32[download]   9.7% of 1.49MiB at 41.54KiB/s ETA 00:33[download]  12.1% of 1.49MiB at 42.98KiB/s ETA 00:31[download]  15.4% of 1.49MiB at 43.61KiB/s ETA 00:29[download]  18.4% of 1.49MiB at 42.88KiB/s ETA 00:29[download]  21.0% of 1.49MiB at 41.83KiB/s ETA 00:28[download]  23.3% of 1.49MiB at 42.50KiB/s ETA 00:27[download]  26.5% of 1.49MiB at 42.62KiB/s ETA 00:26[download]  29.4% of 1.49MiB at 42.26KiB/s ETA 00:25[download]  31.9% of 1.49MiB at 43.04KiB/s ETA 00:24[download]  35.5% of 1.49MiB at 43.48KiB/s ETA 00:22[download]  38.6% of 1.49MiB at 43.52KiB/s ETA 00:21[download]  41.5% of 1.49MiB at 43.44KiB/s ETA 00:20[download]  44.3% of 1.49MiB at 43.08KiB/s ETA 00:19[download]  46.8% of 1.49MiB at 43.26KiB/s ETA 00:18[download]  49.9% of 1.49MiB at 43.36KiB/s ETA 00:17[download]  52.8% of 1.49MiB at 43.19KiB/s ETA 00:16[download]  55.4% of 1.49MiB at 43.68KiB/s ETA 00:15[download]  59.1% of 1.49MiB at 43.24KiB/s ETA 00:14[download]  61.6% of 1.49MiB at 43.55KiB/s ETA 00:13[download]  65.0% of 1.49MiB at 42.98KiB/s ETA 00:12[download]  67.3% of 1.49MiB at 43.09KiB/s ETA 00:11[download]  70.3% of 1.49MiB at 43.03KiB/s ETA 00:10[download]  73.1% of 1.49MiB at 43.46KiB/s ETA 00:09[download]  76.9% of 1.49MiB at 43.20KiB/s ETA 00:08[download]  79.4% of 1.49MiB at 43.48KiB/s ETA 00:07[download]  82.9% of 1.49MiB at 43.10KiB/s ETA 00:06[download]  85.3% of 1.49MiB at 43.22KiB/s ETA 00:05[download]  88.4% of 1.49MiB at 43.26KiB/s ETA 00:04[download]  91.3% of 1.49MiB at 43.11KiB/s ETA 00:03[download]  93.9% of 1.49MiB at 43.36KiB/s ETA 00:02[download]  97.5% of 1.49MiB at 43.17KiB/s ETA 00:00[download] 100.0% of 1.49MiB at 43.55KiB/s ETA 00:00[download] 100.0% of 1.49MiB at 43.56KiB/s ETA 00:00[download] 100% of 1.49MiB in 00:35
+Exist: 鄧家忠 - 芭比Q了  「完了 完了 完了 芭比Q了」 【I LOVE MUSIC】
 
 Exist: Calvin Harris, RagnBone Man - Giant (Lyrics)
 
@@ -1993,9 +1988,9 @@ Exist: 一首好聽的日文歌~泥中に咲く(ウォルピスカーター)【�
 Exist: 一首好聽的日文歌~泥中に咲く(ウォルピスカーター)【中日字幕】
 
 Exist: 全球顶级史诗神曲《Victory》，气势磅礴的空灵仙音，太震撼了！
+[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: 《給未來的自己》Cover By 魚閃閃BLING【路演ver.】 ||『找一個人惺惺相惜 找一顆心 心心相印 在這個宇宙 我是獨一無二 沒人能取代』#梁靜茹 #魚閃閃
-[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: 梁静茹 - 给未来的自己 (动态歌词)
 
