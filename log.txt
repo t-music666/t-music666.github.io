@@ -1212,6 +1212,8 @@ Exist: 蛋堡 - 過程
 
 Exist: 蘇打綠 sodagreen - 【控制狂】
 
+Exist: 蘇打綠 sodagreen -【燕窩】Official Music Video
+
 Exist: 蘇打綠 sodagreen -【你在煩惱什麼 Whats The Trouble On Your Mind】Official Music Video
 
 Exist: 蘇打綠 sodagreen -【再遇見】Official Music Video
