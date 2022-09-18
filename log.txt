@@ -4,7 +4,6 @@
 [youtube:tab] playlist Sami's music: Downloading 193 videos
 [download] Downloading video 1 of 193
 [youtube] mK9Be_3r9-U: Downloading webpage
-[youtube] mK9Be_3r9-U: Downloading player a97e97de
 [download] Downloading video 2 of 193
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 193
@@ -707,6 +706,8 @@ Exist: 【C85】サラマンドラの踊り子 葉月ゆら Yura Hatsuki 歌詞�
 Exist: ADAMAS / LiSA -Cover- ウォルピスカーター
 
 Exist: 【オリジナル Ethnic】 SPÏKA 「Rigël Theatre」
+
+Exist: Rigel Theatre - Lengsel - Eternal Mind -
 
 Exist: Rigël Theatre - Lurie (Album: Älvorna -Memories of Abcense-)
 
@@ -1763,11 +1764,8 @@ Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [download] Downloading video 214 of 214
 [youtube] VaAacrLk4gE: Downloading webpage
 [download] Finished downloading playlist: GG
-[youtube] 06AOHRFK-m8: Downloading webpage
 
-not Exist: 一首代表3個世代的饒舌歌曲...【809000】- Namewee 黃明志 Ft. MDD 周立銘 & Frog 青蛙 @高清無碼 2022 H.D.& Uncensored
-[download] Destination: ./music/xId06AOHRFK-m8.xId
-[download]   0.0% of 4.20MiB at  4.56KiB/s ETA 15:43[download]   0.1% of 4.20MiB at 13.65KiB/s ETA 05:14[download]   0.2% of 4.20MiB at 31.80KiB/s ETA 02:15[download]   0.3% of 4.20MiB at 68.04KiB/s ETA 01:03[download]   0.7% of 4.20MiB at 66.23KiB/s ETA 01:04[download]   1.5% of 4.20MiB at 64.09KiB/s ETA 01:06[download]   2.9% of 4.20MiB at 62.15KiB/s ETA 01:07[download]   4.3% of 4.20MiB at 60.02KiB/s ETA 01:08[download]   5.6% of 4.20MiB at 58.27KiB/s ETA 01:09[download]   6.8% of 4.20MiB at 59.64KiB/s ETA 01:07[download]   8.4% of 4.20MiB at 60.27KiB/s ETA 01:05[download]   9.9% of 4.20MiB at 60.02KiB/s ETA 01:04[download]  11.2% of 4.20MiB at 59.46KiB/s ETA 01:04[download]  12.5% of 4.20MiB at 60.23KiB/s ETA 01:02[download]  14.1% of 4.20MiB at 60.68KiB/s ETA 01:00[download]  15.6% of 4.20MiB at 60.98KiB/s ETA 00:59[download]  17.1% of 4.20MiB at 60.72KiB/s ETA 00:58[download]  18.4% of 4.20MiB at 60.48KiB/s ETA 00:58[download]  19.8% of 4.20MiB at 60.05KiB/s ETA 00:57[download]  21.1% of 4.20MiB at 60.42KiB/s ETA 00:56[download]  22.6% of 4.20MiB at 60.61KiB/s ETA 00:54[download]  24.1% of 4.20MiB at 60.50KiB/s ETA 00:53[download]  25.4% of 4.20MiB at 60.23KiB/s ETA 00:53[download]  26.7% of 4.20MiB at 60.64KiB/s ETA 00:51[download]  28.4% of 4.20MiB at 60.11KiB/s ETA 00:51[download]  29.6% of 4.20MiB at 60.34KiB/s ETA 00:50[download]  31.1% of 4.20MiB at 60.45KiB/s ETA 00:49[download]  32.6% of 4.20MiB at 60.33KiB/s ETA 00:48[download]  33.9% of 4.20MiB at 60.11KiB/s ETA 00:47[download]  35.2% of 4.20MiB at 60.51KiB/s ETA 00:46[download]  36.9% of 4.20MiB at 60.29KiB/s ETA 00:45[download]  38.2% of 4.20MiB at 60.58KiB/s ETA 00:43[download]  39.9% of 4.20MiB at 60.21KiB/s ETA 00:42[download]  41.1% of 4.20MiB at 60.37KiB/s ETA 00:41[download]  42.6% of 4.20MiB at 60.45KiB/s ETA 00:40[download]  44.1% of 4.20MiB at 60.38KiB/s ETA 00:39[download]  45.4% of 4.20MiB at 60.21KiB/s ETA 00:38[download]  46.7% of 4.20MiB at 60.39KiB/s ETA 00:37[download]  48.3% of 4.20MiB at 60.50KiB/s ETA 00:36[download]  49.8% of 4.20MiB at 60.51KiB/s ETA 00:35[download]  51.2% of 4.20MiB at 60.39KiB/s ETA 00:34[download]  52.5% of 4.20MiB at 60.28KiB/s ETA 00:33[download]  53.8% of 4.20MiB at 60.50KiB/s ETA 00:32[download]  55.5% of 4.20MiB at 60.24KiB/s ETA 00:31[download]  56.7% of 4.20MiB at 60.36KiB/s ETA 00:30[download]  58.2% of 4.20MiB at 60.40KiB/s ETA 00:29[download]  59.7% of 4.20MiB at 60.35KiB/s ETA 00:28[download]  61.0% of 4.20MiB at 60.20KiB/s ETA 00:27[download]  62.3% of 4.20MiB at 60.38KiB/s ETA 00:26[download]  63.9% of 4.20MiB at 60.49KiB/s ETA 00:25[download]  65.4% of 4.20MiB at 60.52KiB/s ETA 00:24[download]  66.9% of 4.20MiB at 60.45KiB/s ETA 00:23[download]  68.2% of 4.20MiB at 60.32KiB/s ETA 00:22[download]  69.5% of 4.20MiB at 60.45KiB/s ETA 00:21[download]  71.1% of 4.20MiB at 60.21KiB/s ETA 00:20[download]  72.3% of 4.20MiB at 60.36KiB/s ETA 00:19[download]  73.9% of 4.20MiB at 60.47KiB/s ETA 00:18[download]  75.4% of 4.20MiB at 60.50KiB/s ETA 00:17[download]  76.9% of 4.20MiB at 60.48KiB/s ETA 00:16[download]  78.3% of 4.20MiB at 60.37KiB/s ETA 00:15[download]  79.5% of 4.20MiB at 60.50KiB/s ETA 00:14[download]  81.1% of 4.20MiB at 60.29KiB/s ETA 00:13[download]  82.3% of 4.20MiB at 60.35KiB/s ETA 00:12[download]  83.8% of 4.20MiB at 60.37KiB/s ETA 00:11[download]  85.3% of 4.20MiB at 60.32KiB/s ETA 00:10[download]  86.6% of 4.20MiB at 60.49KiB/s ETA 00:09[download]  88.3% of 4.20MiB at 60.35KiB/s ETA 00:08[download]  89.6% of 4.20MiB at 60.44KiB/s ETA 00:07[download]  91.2% of 4.20MiB at 60.30KiB/s ETA 00:06[download]  92.4% of 4.20MiB at 60.32KiB/s ETA 00:05[download]  93.8% of 4.20MiB at 60.34KiB/s ETA 00:04[download]  95.3% of 4.20MiB at 60.31KiB/s ETA 00:03[download]  96.6% of 4.20MiB at 60.44KiB/s ETA 00:02[download]  98.3% of 4.20MiB at 60.33KiB/s ETA 00:01[download]  99.6% of 4.20MiB at 60.42KiB/s ETA 00:00[download] 100.0% of 4.20MiB at 60.51KiB/s ETA 00:00[download] 100% of 4.20MiB in 01:11
+Exist: 一首代表3個世代的饒舌歌曲...【809000】- Namewee 黃明志 Ft. MDD 周立銘 & Frog 青蛙 @高清無碼 2022 H.D.& Uncensored
 
 Exist: 周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video
 
@@ -1994,9 +1992,9 @@ Exist: 【MAD】Missing You
 Exist: 一首好聽的日文歌~泥中に咲く(ウォルピスカーター)【中日字幕】
 
 Exist: 一首好聽的日文歌~泥中に咲く(ウォルピスカーター)【中日字幕】
+[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: 全球顶级史诗神曲《Victory》，气势磅礴的空灵仙音，太震撼了！
-[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: 《給未來的自己》Cover By 魚閃閃BLING【路演ver.】 ||『找一個人惺惺相惜 找一顆心 心心相印 在這個宇宙 我是獨一無二 沒人能取代』#梁靜茹 #魚閃閃
 
