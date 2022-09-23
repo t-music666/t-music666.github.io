@@ -4,7 +4,7 @@
 [youtube:tab] playlist Sami's music: Downloading 195 videos
 [download] Downloading video 1 of 195
 [youtube] mK9Be_3r9-U: Downloading webpage
-[youtube] mK9Be_3r9-U: Downloading player 64947e15
+[youtube] mK9Be_3r9-U: Downloading player abfb84fe
 [download] Downloading video 2 of 195
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 195
@@ -598,7 +598,7 @@ Exist: sumika「 春夏秋冬」動畫版電影『我想吃掉你的胰臟』主
 Exist: CHiCO with HoneyWorks 『世界は恋に落ちている』(Covered by コバソロ & 未来(ザ・フーパーズ))
 
 Exist: ヨルシカ - ただ君に晴れ (MUSIC VIDEO)
-[youtube] aYhHGEcbRYU: Downloading webpage
+[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
 
 Exist: 盧廣仲 Crowd Lu 【幾分之幾 You Complete Me】 Official Music Video （花甲大人轉男孩電影主題曲）
 
@@ -786,10 +786,7 @@ Exist: 【Ado】ブラック★ロックシューター 歌いました
 
 Exist: 【Ado】ギラギラ
 
-not Exist: haruhayuku
-[download] Destination: ./music/xM6aYhHGEcbRYU.xM6
-[download]   0.0% of 4.71MiB at  6.06KiB/s ETA 13:15[download]   0.1% of 4.71MiB at 18.15KiB/s ETA 04:25[download]   0.1% of 4.71MiB at 42.31KiB/s ETA 01:53[download]   0.3% of 4.71MiB at 90.61KiB/s ETA 00:53[download]   0.6% of 4.71MiB at 85.81KiB/s ETA 00:55[download]   1.3% of 4.71MiB at 82.94KiB/s ETA 00:57[download]   2.6% of 4.71MiB at 81.44KiB/s ETA 00:57[download]   4.3% of 4.71MiB at 77.43KiB/s ETA 00:59[download]   5.8% of 4.71MiB at 75.27KiB/s ETA 01:00[download]   7.2% of 4.71MiB at 77.12KiB/s ETA 00:57[download]   9.0% of 4.71MiB at 75.51KiB/s ETA 00:58[download]  10.4% of 4.71MiB at 76.55KiB/s ETA 00:56[download]  12.2% of 4.71MiB at 77.26KiB/s ETA 00:54[download]  13.9% of 4.71MiB at 77.85KiB/s ETA 00:53[download]  15.6% of 4.71MiB at 78.21KiB/s ETA 00:52[download]  17.3% of 4.71MiB at 76.83KiB/s ETA 00:51[download]  18.6% of 4.71MiB at 76.91KiB/s ETA 00:50[download]  20.3% of 4.71MiB at 77.01KiB/s ETA 00:49[download]  21.9% of 4.71MiB at 78.03KiB/s ETA 00:48[download]  23.8% of 4.71MiB at 77.90KiB/s ETA 00:47[download]  25.4% of 4.71MiB at 77.65KiB/s ETA 00:46[download]  26.9% of 4.71MiB at 77.28KiB/s ETA 00:45[download]  28.4% of 4.71MiB at 77.78KiB/s ETA 00:44[download]  30.3% of 4.71MiB at 77.35KiB/s ETA 00:43[download]  31.7% of 4.71MiB at 77.93KiB/s ETA 00:42[download]  33.6% of 4.71MiB at 77.76KiB/s ETA 00:41[download]  35.2% of 4.71MiB at 77.53KiB/s ETA 00:40[download]  36.7% of 4.71MiB at 77.94KiB/s ETA 00:39[download]  38.6% of 4.71MiB at 77.66KiB/s ETA 00:38[download]  40.1% of 4.71MiB at 77.98KiB/s ETA 00:37[download]  41.9% of 4.71MiB at 77.64KiB/s ETA 00:36[download]  43.3% of 4.71MiB at 77.91KiB/s ETA 00:35[download]  45.1% of 4.71MiB at 78.15KiB/s ETA 00:33[download]  46.9% of 4.71MiB at 77.88KiB/s ETA 00:32[download]  48.4% of 4.71MiB at 78.00KiB/s ETA 00:31[download]  50.1% of 4.71MiB at 78.16KiB/s ETA 00:30[download]  51.8% of 4.71MiB at 77.75KiB/s ETA 00:29[download]  53.2% of 4.71MiB at 77.87KiB/s ETA 00:28[download]  54.9% of 4.71MiB at 77.95KiB/s ETA 00:27[download]  56.6% of 4.71MiB at 77.99KiB/s ETA 00:26[download]  58.2% of 4.71MiB at 77.92KiB/s ETA 00:25[download]  59.8% of 4.71MiB at 77.80KiB/s ETA 00:24[download]  61.3% of 4.71MiB at 78.08KiB/s ETA 00:23[download]  63.2% of 4.71MiB at 77.90KiB/s ETA 00:22[download]  64.7% of 4.71MiB at 78.24KiB/s ETA 00:21[download]  66.7% of 4.71MiB at 78.22KiB/s ETA 00:20[download]  68.3% of 4.71MiB at 78.15KiB/s ETA 00:19[download]  69.9% of 4.71MiB at 78.03KiB/s ETA 00:18[download]  71.4% of 4.71MiB at 77.86KiB/s ETA 00:17[download]  72.8% of 4.71MiB at 78.00KiB/s ETA 00:16[download]  74.6% of 4.71MiB at 78.13KiB/s ETA 00:15[download]  76.4% of 4.71MiB at 77.88KiB/s ETA 00:14[download]  77.8% of 4.71MiB at 77.95KiB/s ETA 00:13[download]  79.5% of 4.71MiB at 78.02KiB/s ETA 00:12[download]  81.2% of 4.71MiB at 78.09KiB/s ETA 00:11[download]  82.9% of 4.71MiB at 78.13KiB/s ETA 00:10[download]  84.5% of 4.71MiB at 78.13KiB/s ETA 00:09[download]  86.1% of 4.71MiB at 78.08KiB/s ETA 00:08[download]  87.7% of 4.71MiB at 78.02KiB/s ETA 00:07[download]  89.3% of 4.71MiB at 78.20KiB/s ETA 00:06[download]  91.1% of 4.71MiB at 78.08KiB/s ETA 00:05[download]  92.6% of 4.71MiB at 77.97KiB/s ETA 00:04[download]  94.1% of 4.71MiB at 78.10KiB/s ETA 00:03[download]  95.9% of 4.71MiB at 77.94KiB/s ETA 00:02[download]  97.4% of 4.71MiB at 78.05KiB/s ETA 00:01[download]  99.2% of 4.71MiB at 78.20KiB/s ETA 00:00[download] 100.0% of 4.71MiB at 78.27KiB/s ETA 00:00[download] 100% of 4.71MiB in 01:01
-[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
+Exist: haruhayuku
 [download] Downloading playlist: 醜奴兒
 [youtube:tab] playlist 醜奴兒: Downloading 12 videos
 [download] Downloading video 1 of 12
