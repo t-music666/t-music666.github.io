@@ -398,7 +398,6 @@
 [download] Downloading video 196 of 196
 [youtube] W0C_VJqjtpw: Downloading webpage
 [download] Finished downloading playlist: Sami's music
-[youtube] o6wtDPVkKqI: Downloading webpage
 
 Exist: Control T 〈明明就是溫柔的人〉Official Lyric Video
 
@@ -556,9 +555,7 @@ Exist: 【女性が歌う】Lemon/米津玄師(Full Covered by コバソロ & �
 
 Exist: 【Evangelion OP】残酷な天使のテーゼ/高橋洋子(Covered by コバソロ & 若菜)
 
-not Exist: 「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angels Thesis”
-[download] Destination: ./music/lZio6wtDPVkKqI.lZi
-[download]   0.0% of 3.77MiB at  3.40KiB/s ETA 18:54[download]   0.1% of 3.77MiB at 10.19KiB/s ETA 06:18[download]   0.2% of 3.77MiB at 23.77KiB/s ETA 02:41[download]   0.4% of 3.77MiB at 50.92KiB/s ETA 01:15[download]   0.8% of 3.77MiB at 46.98KiB/s ETA 01:21[download]   1.6% of 3.77MiB at 45.29KiB/s ETA 01:23[download]   2.8% of 3.77MiB at 42.33KiB/s ETA 01:28[download]   3.8% of 3.77MiB at 40.19KiB/s ETA 01:32[download]   4.7% of 3.77MiB at 41.22KiB/s ETA 01:29[download]   5.9% of 3.77MiB at 41.37KiB/s ETA 01:27[download]   7.0% of 3.77MiB at 42.80KiB/s ETA 01:23[download]   8.3% of 3.77MiB at 41.33KiB/s ETA 01:25[download]   9.2% of 3.77MiB at 41.91KiB/s ETA 01:23[download]  10.5% of 3.77MiB at 41.81KiB/s ETA 01:22[download]  11.6% of 3.77MiB at 42.82KiB/s ETA 01:19[download]  13.0% of 3.77MiB at 42.03KiB/s ETA 01:19[download]  14.0% of 3.77MiB at 42.39KiB/s ETA 01:18[download]  15.2% of 3.77MiB at 42.50KiB/s ETA 01:16[download]  16.3% of 3.77MiB at 42.39KiB/s ETA 01:16[download]  17.4% of 3.77MiB at 42.94KiB/s ETA 01:14[download]  18.8% of 3.77MiB at 42.16KiB/s ETA 01:14[download]  19.7% of 3.77MiB at 42.43KiB/s ETA 01:12[download]  21.0% of 3.77MiB at 42.49KiB/s ETA 01:11[download]  22.1% of 3.77MiB at 42.28KiB/s ETA 01:11[download]  23.1% of 3.77MiB at 42.51KiB/s ETA 01:09[download]  24.4% of 3.77MiB at 42.59KiB/s ETA 01:08[download]  25.5% of 3.77MiB at 42.42KiB/s ETA 01:07[download]  26.5% of 3.77MiB at 42.69KiB/s ETA 01:06[download]  27.8% of 3.77MiB at 42.13KiB/s ETA 01:06[download]  28.7% of 3.77MiB at 42.18KiB/s ETA 01:05[download]  29.8% of 3.77MiB at 42.61KiB/s ETA 01:03[download]  31.3% of 3.77MiB at 42.39KiB/s ETA 01:02[download]  32.3% of 3.77MiB at 42.59KiB/s ETA 01:01[download]  33.6% of 3.77MiB at 42.10KiB/s ETA 01:00[download]  34.5% of 3.77MiB at 42.16KiB/s ETA 00:59[download]  35.6% of 3.77MiB at 42.52KiB/s ETA 00:58[download]  37.1% of 3.77MiB at 42.32KiB/s ETA 00:57[download]  38.1% of 3.77MiB at 42.48KiB/s ETA 00:56[download]  39.4% of 3.77MiB at 42.60KiB/s ETA 00:54[download]  40.6% of 3.77MiB at 42.59KiB/s ETA 00:53[download]  41.7% of 3.77MiB at 42.44KiB/s ETA 00:52[download]  42.6% of 3.77MiB at 42.56KiB/s ETA 00:51[download]  43.9% of 3.77MiB at 42.58KiB/s ETA 00:50[download]  45.0% of 3.77MiB at 42.46KiB/s ETA 00:49[download]  46.0% of 3.77MiB at 42.60KiB/s ETA 00:48[download]  47.3% of 3.77MiB at 42.28KiB/s ETA 00:48[download]  48.2% of 3.77MiB at 42.30KiB/s ETA 00:47[download]  49.3% of 3.77MiB at 42.56KiB/s ETA 00:45[download]  50.8% of 3.77MiB at 42.41KiB/s ETA 00:44[download]  51.8% of 3.77MiB at 42.53KiB/s ETA 00:43[download]  53.1% of 3.77MiB at 42.57KiB/s ETA 00:42[download]  54.2% of 3.77MiB at 42.48KiB/s ETA 00:41[download]  55.2% of 3.77MiB at 42.30KiB/s ETA 00:40[download]  56.1% of 3.77MiB at 42.34KiB/s ETA 00:39[download]  57.3% of 3.77MiB at 42.28KiB/s ETA 00:38[download]  58.3% of 3.77MiB at 42.50KiB/s ETA 00:37[download]  59.9% of 3.77MiB at 42.42KiB/s ETA 00:36[download]  60.9% of 3.77MiB at 42.48KiB/s ETA 00:35[download]  62.1% of 3.77MiB at 42.52KiB/s ETA 00:34[download]  63.2% of 3.77MiB at 42.46KiB/s ETA 00:33[download]  64.3% of 3.77MiB at 42.58KiB/s ETA 00:32[download]  65.6% of 3.77MiB at 42.37KiB/s ETA 00:31[download]  66.5% of 3.77MiB at 42.40KiB/s ETA 00:30[download]  67.7% of 3.77MiB at 42.36KiB/s ETA 00:29[download]  68.7% of 3.77MiB at 42.48KiB/s ETA 00:28[download]  70.1% of 3.77MiB at 42.55KiB/s ETA 00:27[download]  71.3% of 3.77MiB at 42.52KiB/s ETA 00:26[download]  72.3% of 3.77MiB at 42.40KiB/s ETA 00:25[download]  73.2% of 3.77MiB at 42.45KiB/s ETA 00:24[download]  74.4% of 3.77MiB at 42.43KiB/s ETA 00:23[download]  75.5% of 3.77MiB at 42.55KiB/s ETA 00:22[download]  76.9% of 3.77MiB at 42.42KiB/s ETA 00:20[download]  77.9% of 3.77MiB at 42.47KiB/s ETA 00:20[download]  79.1% of 3.77MiB at 42.45KiB/s ETA 00:19[download]  80.1% of 3.77MiB at 42.38KiB/s ETA 00:18[download]  81.1% of 3.77MiB at 42.49KiB/s ETA 00:17[download]  82.5% of 3.77MiB at 42.57KiB/s ETA 00:15[download]  83.8% of 3.77MiB at 42.59KiB/s ETA 00:14[download]  84.9% of 3.77MiB at 42.51KiB/s ETA 00:13[download]  85.9% of 3.77MiB at 42.59KiB/s ETA 00:12[download]  87.2% of 3.77MiB at 42.42KiB/s ETA 00:11[download]  88.1% of 3.77MiB at 42.42KiB/s ETA 00:10[download]  89.2% of 3.77MiB at 42.56KiB/s ETA 00:09[download]  90.7% of 3.77MiB at 42.47KiB/s ETA 00:08[download]  91.7% of 3.77MiB at 42.54KiB/s ETA 00:07[download]  92.9% of 3.77MiB at 42.57KiB/s ETA 00:06[download]  94.1% of 3.77MiB at 42.52KiB/s ETA 00:05[download]  95.1% of 3.77MiB at 42.41KiB/s ETA 00:04[download]  96.0% of 3.77MiB at 42.45KiB/s ETA 00:03[download]  97.2% of 3.77MiB at 42.42KiB/s ETA 00:02[download]  98.3% of 3.77MiB at 42.52KiB/s ETA 00:01[download]  99.7% of 3.77MiB at 42.45KiB/s ETA 00:00[download] 100.0% of 3.77MiB at 42.59KiB/s ETA 00:00[download] 100% of 3.77MiB in 01:30
+Exist: 「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angels Thesis”
 
 Exist: 西野カナ『Best Friend』 Full cover by Lefty Hand Cream
 
@@ -601,6 +598,7 @@ Exist: 【English sub 好声音】Aiuta - whiteeeen - 愛唄～since 2007～ 『
 Exist: sumika「 春夏秋冬」動畫版電影『我想吃掉你的胰臟』主題曲【中日歌詞】
 
 Exist: CHiCO with HoneyWorks 『世界は恋に落ちている』(Covered by コバソロ & 未来(ザ・フーパーズ))
+[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
 
 Exist: ヨルシカ - ただ君に晴れ (MUSIC VIDEO)
 
@@ -662,7 +660,7 @@ Exist: 革命デュアリズム(Kakumei Dualism) Cover.花たん&ぽこた
 
 Exist: 《陰陽師》花澤香菜 - 心生七面 善惡難辨 (日文版)
 
-Exist: 一首超好聽的日語歌【カサネテク】- 開口一秒淪陷《中日歌詞》
+Exist: 【カサネテク】- 開口一秒淪陷《中日歌詞》
 
 Exist: 【Utattemita with Okinawa samisen】桜前線異常ナシ(Sakura Zensen Ijyounashi)【杏ノ助(Kyounosuke)×530(Gosamaru)】
 
@@ -759,7 +757,6 @@ Exist: YOASOBI「ハルジオン」Official Music Video
 Exist: 【アカペラ】夜に駆ける - YOASOBI｜Cover by Groovy groove
 
 Exist: Ярило / Jarilo (Russia)
-[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
 
 Exist: 【Official】Uru 『あなたがいることで』TBS系 日曜劇場「テセウスの船」主題歌
 
