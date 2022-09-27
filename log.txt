@@ -4,6 +4,7 @@
 [youtube:tab] playlist Sami's music: Downloading 196 videos
 [download] Downloading video 1 of 196
 [youtube] mK9Be_3r9-U: Downloading webpage
+[youtube] mK9Be_3r9-U: Downloading player bd1343fa
 [download] Downloading video 2 of 196
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 196
@@ -612,7 +613,7 @@ Exist: 米津玄師 - ピースサイン , Kenshi Yonezu - Peace Sign
 
 Exist: 西川貴教「His/Story」×「Thunderbolt Fantasy 東離剣遊紀」コラボレーションMV
 
-Exist: [ 纯享 ] 黄霄雲《左手指月》《梦想的声音3》EP9 20181221  /浙江卫视官方音乐HD/
+Exist: 黄霄雲《左手指月》 直击心灵的演唱现场 美声转流行的成功案例！《梦想的声音3》EP9 20181221  | 纯享 ZJSTV
 
 Exist: fhána / 青空のラプソディ - MUSIC VIDEO
 
