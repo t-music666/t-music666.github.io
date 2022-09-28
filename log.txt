@@ -4,7 +4,6 @@
 [youtube:tab] playlist Sami's music: Downloading 196 videos
 [download] Downloading video 1 of 196
 [youtube] mK9Be_3r9-U: Downloading webpage
-[youtube] mK9Be_3r9-U: Downloading player bd1343fa
 [download] Downloading video 2 of 196
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 196
@@ -684,8 +683,6 @@ Exist: Daisy / Aimer [English subtitle]
 Exist: Fate/Grand Order 清廉なるHeretics 【中日字幕】
 
 Exist: The Phantom of the Opera - Prague Cello Quartet [Official video]
-
-Exist: ABSOLUTE CASTAWAY – 玉響蛍 (Tamayura Hotaru) Subtitulada
 
 Exist: Fujita Maiko (藤田麻衣子) - Flower & Butterfly
 
