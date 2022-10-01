@@ -4,7 +4,6 @@
 [youtube:tab] playlist Sami's music: Downloading 196 videos
 [download] Downloading video 1 of 196
 [youtube] mK9Be_3r9-U: Downloading webpage
-[youtube] mK9Be_3r9-U: Downloading player a336babc
 [download] Downloading video 2 of 196
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 196
@@ -1857,7 +1856,7 @@ Exist: 八三夭【東區東區】MV官方完整版
 
 Exist: Mayday五月天[傷心的人別聽慢歌(貫徹快樂)]MV官方完整版-諾亞方舟3D電影主題曲
 
-Exist: Mayday五月天【乾杯Cheers】MV官方完整版
+Exist: MAYDAY 五月天 [ 乾杯 Cheers ] Official Music Video
 
 Exist: Owl City & Carly Rae Jepsen - Good Time (Official Video)
 
