@@ -4,7 +4,7 @@
 [youtube:tab] playlist Sami's music: Downloading 196 videos
 [download] Downloading video 1 of 196
 [youtube] mK9Be_3r9-U: Downloading webpage
-[youtube] mK9Be_3r9-U: Downloading player 17ab0793
+[youtube] mK9Be_3r9-U: Downloading player 7a062b77
 [download] Downloading video 2 of 196
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 196
@@ -280,6 +280,7 @@
 [youtube] JQAl_bQVOBs: Downloading webpage
 [download] Downloading video 138 of 196
 [youtube] I2aRWzB3KIQ: Downloading webpage
+[youtube] I2aRWzB3KIQ: Downloading MPD manifest
 [download] Downloading video 139 of 196
 [youtube] 4OT5SAiA1QI: Downloading webpage
 [download] Downloading video 140 of 196
@@ -398,25 +399,68 @@
 [download] Downloading video 196 of 196
 [youtube] W0C_VJqjtpw: Downloading webpage
 [download] Finished downloading playlist: Sami's music
-[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
+
+Exist: Control T 〈明明就是溫柔的人〉Official Lyric Video
+
+Exist: 理想混蛋 Bestards【行星】 Official Lyric Video
+
+Exist: 一首好聽的日語歌——《カルデラ》黒木渚
+
+Exist: 一首好聽的日語歌——《雨き聲殘響》
 
 Exist: 【ウォルピス社】Espiazioneを歌ってみました【提供】
 
 Exist: 忘れじの言の葉 / ウォルピスカーター -Cover-
 
+Exist: Hanatan - Romeo and Cinderella
+
+Exist: ずっと真夜中でいいのに。『眩しいDNAだけ』MV
+
+Exist: ずっと真夜中でいいのに。『秒針を噛む』MV
+
 Exist: お気に召すまま - Eve MV
+
+Exist: ウォルピスカーター MV 『泥中に咲く』
+
+Exist: 超好聽的日語歌曲——《君だったら》HAPPY BIRTHDAY
+
+Exist: Aimyon[愛繆] - 曾經活著啊  (華納official HD 高畫質官方完整版MV)
+
+Exist: [Sad Japanese Songs] - Fujita Maikos ( 藤田麻衣子) Playlist
+
+Exist: Snoop Dogg - The Next Episode (Clean) (Smoke Weed Everyday)
 
 Exist: 【雀魂】一姬：杠！杠！杠！
 
+Exist: Nightcore - 夢と葉桜 // Yume To Hazakura「 ヲタみん // Wotamin Cover 」Original song by: 青木月光 // Aoki Gekkoh
+
 Exist: PADORU PADORU - KenZ Remix
+
+Exist: majiko - 狂おしいほど僕には美しい [MV]
+
+Exist: 心做し REC映像【まじ娘】
+
+Exist: 島谷ひとみ / 「Destiny -太陽の花-」【OFFICIAL  MV FULL SIZE】
+
+Exist: Shuumatsu Nani Shitemasu ka - Scarborough Fair • AMV
+
+Exist: 【双笙】Shuang Sheng - 心做し/Kokoronashi
+
+Exist: Planetshakers - Get Up (w/lyrics)
 
 Exist: [附中譯]【鏡音×バルシェ×囚人P】騎士道～アニメPV～【オリジナル曲】
 
+Exist: Synchronicity～第三章 巡る世界のレクイエム～
+
 Exist: The Witcher 3  Wild Hunt   Combat Music Steel For Humans Percival   Lazare OST 4K HD
+
+Exist: 王菲 - 致青春 Official MV (官方頻道)
 
 Exist: 【艦これボーカル】 帝國交響楽団 - 燃え落ちる誇り -Counter raid Another D- 【Subbed】
 
 Exist: 이누야샤(犬夜叉) OST - 시대를 초월한 마음(時代を越える想い) / Affections Touching Across Time COVER by 새송
+
+Exist: 【オリジナルMV】RED 劇場版「カゲロウデイズ」主題歌 【フルHD】
 
 Exist: Roselia『BLACK SHOUT』Music Video
 
@@ -426,9 +470,13 @@ Exist: The Black Heaven [MapleStory Symphony in Budapest] / 메이플스토리 �
 
 Exist: The Cygnus Garden [MapleStory Symphony in Budapest] / 메이플스토리 오케스트라 앨범
 
+Exist: Fate Zero Ending 1 Memoria Full AMV
+
 Exist: Thunderbolt Fantasy東離劍遊紀主題曲-RAIMEI
 
 Exist: 鈴木このみ「THERE IS A REASON」（映画「ノーゲーム・ノーライフ ゼロ」テーマソング）
+
+Exist: 台湾追想曲
 
 Exist: 메이플스토리 - 시그너스 전당 BGM_super extended_StudioEIM
 
@@ -436,35 +484,107 @@ Exist: 月光花～BLACK JACKVer.～
 
 Exist: 유하미] 시대를 초월한 마음 (가사ver.) - 이누야샤 OST 時代を越える想
 
+Exist: Mili - World.Search(You);
+
 Exist: Deemo - Knight Iris - Knight Of Firmament
+
+Exist: [Deemo] M2U - Magnolia 中英字幕
+
+Exist: Deemo - M2U & Nicode - Myosotis 中文字幕
 
 Exist: Crusaders Quest Soundtrack - Episode 7: Holy City Theme
 
 Exist: Crusaders Quest Music Video Knots Way is here!
 
+Exist: 【中日歌詞】人渣的本願 OP「噓の火花(說謊的火花)」- 96貓 完整版
+
 Exist: [Crusaders Quest OST] Elegy of Ashes (Japanese full ver.)
+
+Exist: Sekai wa Koi ni Ochiteiru Pitch-up Version (Ao Haru Ride OP FULL)
 
 Exist: │東方│ 水月鏡花光芒一閃 │惰音ライフ │
 
 Exist: DJ TOTTO - Arousing
 
+Exist: ワルキューレ／一度だけの恋なら Music Video（2 chorus ver.）_TVアニメ「マクロスΔ（デルタ）」OPテーマ
+
 Exist: MapleStory Symphony in Budapest - The Fantastic Thinking
 
 Exist: [Progressive House] Hinkik - Enchant (Original Mix)
 
+Exist: Shinsuke Nakamura - The Rising Sun feat. Lee England Jr.
+
+Exist: 革命機ヴァルヴレイブop full 歌詞付き  Preserved Roses
+
+Exist: 棋靈王-GET OVER-dream
+
+Exist: Fullmetal Alchemist: Brotherhood(钢之炼金术师)Op 1- AGAIN (English + Chinese + Romaji Lyrics 中英罗马音字幕)
+
 Exist: 【ピアノ】「ナイト・オブ・ナイツ」を弾きなおしてみたんですが…2016
+
+Exist: SID - 噓(USO)(LIVE)(中字)
+
+Exist: Imagine Dragons - Demons (Official Music Video)
+
+Exist: 【初音ミク】 深海少女 【オリジナル】【中文字幕】
+
+Exist: 【VOCALOID IA】Imagination Forest 想像フォレスト【PV】
+
+Exist: [ENG] Lost Time Memory (ロスタイムメモリー - Jin, IA, KagePro)
+
+Exist: [ENG] Outer Science (アウターサイエンス)
 
 Exist: 大好きな東方の曲をメドレーにして弾いてみた【ピアノ】
 
+Exist: 一輩子一場夢‧慕少艾
+
+Exist: The HU - Wolf Totem (Official Music Video)
+
+Exist: 【HD】拝啓ドッペルゲンガー 【KEMU VOXX】Dear Doppelganger
+
+Exist: DECO*27 - ゴーストルール feat. 初音ミク
+
+Exist: [バンドリ！][Expert] BanG Dream! #134 はなまるぴっぴはよいこだけ (歌詞付き)
+
+Exist: エイリアンエイリアン 歌ってみた【そらる×天月】
+
+Exist: ＋α／あるふぁきゅん。- 表裏一体【ぼっちが２人ぽく歌ってみた 】Alfakyun. - Being Inseparable [Cover] 表裏一體 [試唱]
+
+Exist: ＋α／あるふぁきゅん。- 再教育【ぼっちが２人ぽく歌ってみた 】Alfakyun. - Re Education [Cover]  [試唱]
+
 Exist: 【女性が歌う】Lemon/米津玄師(Full Covered by コバソロ & 春茶)
+
+Exist: 【Evangelion OP】残酷な天使のテーゼ/高橋洋子(Covered by コバソロ & 若菜)
+
+Exist: 「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angels Thesis”
+
+Exist: 西野カナ『Best Friend』 Full cover by Lefty Hand Cream
 
 Exist: 【女性が歌う】心絵 / ロードオブメジャー(Covered by コバソロ & えみい(from テーマパークガール))
 
+Exist: 最近抖音上很火的一首日本歌曲   PLANET『中文翻译』【动态歌词版MV】
+
+Exist: 【HD】Sun Dance - Aimer - 花びらたちのマーチ【中日字幕】
+
+Exist: 【HD】Sleepless Nights - Aimer - 悲しみはオーロラに【中日字幕】
+
+Exist: BUMP OF CHICKEN「天体観測」
+
 Exist: 【公式】【東方Vocal】幽閉サテライト / 明鏡止水【FullMV】(原曲：幽雅に咲かせ、墨染の桜 ～ Border of Life / ゴーストリード)
+
+Exist: 【東方ボーカル】 Yonder Voice - 決別の旅 【Subbed】
 
 Exist: 【公式】【東方Vocal】幽閉サテライト / 零れずの願いゴト 【FullMV】(原曲：砕月)
 
+Exist: 【栗プリン】「恐山ル・ヴォワール 」を歌ってみた。【金】 (中文字幕)
+
+Exist: 【HD】虚無病 - amazarashi - 僕が死のうと思ったのは【中日字幕】
+
 Exist: 流氓阿德 Ardor Huang【曾經我也想過一了百了 I Once Thought about Ending It All】Official Lyric Video
+
+Exist: 【HD】周深 - 大魚 [歌詞字幕][動畫電影《大魚海棠》印象曲][完整高清音質] Big Fish & Begonia Theme Song (Zhou Shen - Big Fish)
+
+Exist: 毛不易 Mao Buyi《不染 Unsullied》【香蜜沉沉燼如霜主題曲】官方動態歌詞MV(無損高音質) Ashes of Love OST
 
 Exist: 【六弄咖啡館At Cafe 6】Movie Theme Song-孫燕姿SunYanZi 《半句再見》電影版MV
 
@@ -474,19 +594,66 @@ Exist: Dancing With The Moon [MapleStory Symphony in Budapest] / 메이플스토
 
 Exist: 【女性が歌う】キセキ/GReeeeN『青空エール』主題歌 -whiteeeen(Covered by コバソロ & Lefty Hand Cream)歌詞付き
 
+Exist: 【English sub 好声音】Aiuta - whiteeeen - 愛唄～since 2007～ 『ストロボ・エッジ』主題歌（Kobasolo & Lefty Hand Cream Cover）
+
+Exist: sumika「 春夏秋冬」動畫版電影『我想吃掉你的胰臟』主題曲【中日歌詞】
+
+Exist: CHiCO with HoneyWorks 『世界は恋に落ちている』(Covered by コバソロ & 未来(ザ・フーパーズ))
+[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
+
+Exist: ヨルシカ - ただ君に晴れ (MUSIC VIDEO)
+
+Exist: 盧廣仲 Crowd Lu 【幾分之幾 You Complete Me】 Official Music Video （花甲大人轉男孩電影主題曲）
+
 Exist: 茄子蛋EggPlantEgg - 浪流連 Waves Wandering (Official Music Video)
+
+Exist: 超好听的日语歌曲——《太陽と向日葵》FLOWER
+
+Exist: 米津玄師 - ピースサイン , Kenshi Yonezu - Peace Sign
+
+Exist: 西川貴教「His/Story」×「Thunderbolt Fantasy 東離剣遊紀」コラボレーションMV
 
 Exist: 黄霄雲《左手指月》 直击心灵的演唱现场 美声转流行的成功案例！《梦想的声音3》EP9 20181221  | 纯享 ZJSTV
 
+Exist: fhána / 青空のラプソディ - MUSIC VIDEO
+
+Exist: 趙雷 -《趙小雷》- 畫
+
+Exist: Akatsuki no Yona Ending 2 Akatsuki [OFFICIAL MAY] BEGINNIG ORCHESTRAL
+
 Exist: 【音ゲーニコカラ】打打打打打打打打打打／BEMANIシリーズ
+
+Exist: 志方あきこAkiko Shikata - まほろば(中文字幕)
 
 Exist: 志方あきこ「をかし」【歌詞版】
 
+Exist: 白夢の繭 ~Ricordando il passato~ Full Version
+
+Exist: KOKIA - 二人の娘 (高音質HD)
+
+Exist: Maiko Fujita - Hanabi (Fireworks) [with lyrics]
+
 Exist: 【中日英泰越羅馬字幕】離島之歌 - 東山奈央 ► 【不知火 陰陽師主題曲】高音質
+
+Exist: 100 ANIME SONGS in 30 MINUTES!!! (Piano Medley – 100,000 Subscribers Special)
 
 Exist: ᴴᴰ⁶⁰【東方Vocal】Yonder Voice｜桜風の誓い【中日English附詞】
 
+Exist: 【東方ボーカル】 Yonder Voice - 蒼月の懺悔詩～Universal Nemesis
+
+Exist: Ninelie ＜cry-v＞ - Hiroyuki Sawano ft.Aimer (Kabaneri Of The Iron Fortress Soushuuhen Ending)
+
+Exist: ＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo
+
+Exist: ずっと真夜中でいいのに。『ハゼ馳せる果てるまで』MV
+
+Exist: 【kradness＆れをる】 おこちゃま戦争 【歌ってみた】
+
+Exist: 【癒し系】日系和風抒情音樂 --- 帶給你非凡聽覺享受
+
 Exist: 【ピアノ】「凛として咲く花の如く（NADESHIKO）」 を弾いてみた 【BEMANI】
+
+Exist: Goddess (feat. Nonon)
 
 Exist: 斎唄-いわいうた
 
@@ -494,17 +661,51 @@ Exist: 革命デュアリズム(Kakumei Dualism) Cover.花たん&ぽこた
 
 Exist: 《陰陽師》花澤香菜 - 心生七面 善惡難辨 (日文版)
 
+Exist: 【カサネテク】- 開口一秒淪陷《中日歌詞》
+
 Exist: 【Utattemita with Okinawa samisen】桜前線異常ナシ(Sakura Zensen Ijyounashi)【杏ノ助(Kyounosuke)×530(Gosamaru)】
+
+Exist: 【MV】[A]ddiction / GigaReol×EVO+
+
+Exist: back number - 「ハッピーエンド」Music Video
+
+Exist: しちごさん。×ABSOLUTE CASTAWAY - 楽園図 (Album: Cross bouquet)
+
+Exist: Flower 『太陽と向日葵』
+
+Exist: GARNiDELiA - Désir
+
+Exist: Fujita Maiko - Mou Ichido (もう一度) [English and Japanese Lyrics]
+
+Exist: 【志方あきこ】誰ガ為ノ世界
+
+Exist: Daisy / Aimer [English subtitle]
 
 Exist: Fate/Grand Order 清廉なるHeretics 【中日字幕】
 
+Exist: The Phantom of the Opera - Prague Cello Quartet [Official video]
+
 Exist: ABSOLUTE CASTAWAY – 玉響蛍 (Tamayura Hotaru) Subtitulada
 
+Exist: Fujita Maiko (藤田麻衣子) - Flower & Butterfly
+
+Exist: 三月のパンタシア 『パステルレイン』
+
+Exist: ぽかぽかの星 / はるまきごはん feat.初音ミク【SNOW MIKU 2020】
+
 Exist: 【東方ヴォーカルPV】KILLOVE FIREPROOF!【暁Records公式】
+
+Exist: メルティランドナイトメア / はるまきごはん feat.初音ミク - Melty Land Nightmare
+
+Exist: 約束 / はるまきごはんVocal ver. アニメMV
 
 Exist: 未来古代楽団 feat. DAZBEE 「はじまりのまえ、おしまいのあと」【Official Video】
 
 Exist: 【グリムノーツ】探し人の紡ぎ歌 (full ver.)
+
+Exist: 「英雄の詩篇 / Eiyuu no shihen」（歌：ダズビー / DAZBEE）
+
+Exist: 「楽園図」／中恵光城【中日詞附】
 
 Exist: ユグドラシル  -  青いカナリヤ
 
@@ -520,9 +721,29 @@ Exist: Rigël Theatre - Lurie (Album: Älvorna -Memories of Abcense-)
 
 Exist: 【女性が歌う】さよならエレジー/菅田将暉(Covered by コバソロ & 春茶)
 
+Exist: MY FIRST STORY - REVIVER -【Official Video】
+
+Exist: PSYQUI - dont you want me ft. Such
+
+Exist: PSYQUI - Are You Kidding Me (ft. Mami) | Jpop Future Core
+
+Exist: [Blade & Soul OST] Silverfrost Mountain_Disc 1 - 01 백청산맥 (Silverfrost Mountains)
+
+Exist: 天野月子 - 聲 (中文字幕)
+
+Exist: BLUE ENCOUNT 『ポラリス』Music Video【アニメ『僕のヒーローアカデミア』第4期オープニングテーマ】
+
+Exist: ヨルシカ - だから僕は音楽を辞めた (Music Video)
+
 Exist: 《Sdorica》 -sunset- OP Animation
 
+Exist: 閻奕格 Janice Yan [ 也可以 ] (電影「追婚日記」插曲) 片花版Music Video
+
+Exist: 【三無 ＆ 鳳冴】番凩 【Official Video】
+
 Exist: 明日への扉 / I WiSH（川嶋あい）(Covered by コバソロ & こぴ)
+
+Exist: MISIA - 「逢いたくていま」(再見你一次) (日劇《仁醫》主題曲)
 
 Exist: ハッピーエンド / back number (cover)
 
@@ -532,20 +753,49 @@ Exist: milet ／Tell me 官方中字MV
 
 Exist: 【女性が歌う】別の人の彼女になったよ / wacci(Covered by コバソロ & 相沢)
 
+Exist: YOASOBI「ハルジオン」Official Music Video
+
+Exist: 【アカペラ】夜に駆ける - YOASOBI｜Cover by Groovy groove
+
+Exist: Ярило / Jarilo (Russia)
+
+Exist: 【Official】Uru 『あなたがいることで』TBS系 日曜劇場「テセウスの船」主題歌
+
 Exist: back number / 幸せ【女性が歌う幸せ　ピアノVer.】  COVER  by  Uru
 
 Exist: FIRE BIRD / Roselia -Cover- 成人男性三人組
+
+Exist: あの夢をなぞって
 
 Exist: 珂拉琪 Collage／萬千花蕊慈母悲哀
 
 Exist: Metal Gear Solid 4 OST: Metal Gear Saga
 
+Exist: 月光花
+
+Exist: Ar Tonelico - EXEC_CHRONICLE_KEY/. With Lyrics
+
+Exist: Ar Tonelico - EXEC_CHRONICLE_KEY/. With Lyrics
+
+Exist: 穢れなき薔薇十字
+
+Exist: Sakuzyo - ∀Rkadia
+
+Exist: AKINO from bless4「海色(みいろ) 」Music Video
+
+Exist: 【GUMI】KING【Kanaria】
+
 Exist: 【Ado】ブラック★ロックシューター 歌いました
+
+Exist: 【Ado】ギラギラ
+
+Exist: haruhayuku
+
+Exist: RADWIMPS - うるうびと [Official Music Video]
 [download] Downloading playlist: 醜奴兒
 [youtube:tab] playlist 醜奴兒: Downloading 12 videos
 [download] Downloading video 1 of 12
 [youtube] STrC761mNbc: Downloading webpage
-[youtube] STrC761mNbc: Downloading player 17ab0793
 [download] Downloading video 2 of 12
 [youtube] c9ojHGZDqZw: Downloading webpage
 [download] Downloading video 3 of 12
@@ -571,16 +821,35 @@ Exist: 【Ado】ブラック★ロックシューター 歌いました
 [download] Finished downloading playlist: 醜奴兒
 [youtube:tab] PLikFZN9SxDcnM6vbRAYfSewsO46Notg2i: Downloading webpage
 
+Exist: Intro
+
+Exist: 醜
+
+Exist: 爛泥
+
+Exist: 勇敢的人
+
 Exist: 草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】
 
+Exist: 艾瑪
+
+Exist: 等
+
+Exist: 鬼
+
+Exist: 在
+
 Exist: 草東沒有派對 No Party For Cao Dong - 山海 Wayfarer 【Official Music Video】
+
+Exist: 我們
+
+Exist: 情歌
 [download] Downloading playlist: tsmc
 [youtube:tab] playlist tsmc: Downloading 43 videos
 [download] Downloading video 1 of 43
 [youtube] X2DKPkcSMDo: Downloading webpage
 [download] Downloading video 2 of 43
 [youtube] IvErGkziDg8: Downloading webpage
-[youtube] IvErGkziDg8: Downloading player 17ab0793
 [download] Downloading video 3 of 43
 [youtube] 1c88QtOCBNs: Downloading webpage
 [download] Downloading video 4 of 43
@@ -668,33 +937,85 @@ Exist: 草東沒有派對 No Party For Cao Dong - 山海 Wayfarer 【Official Mu
 
 Exist: 房東的貓 - 青梅
 
+Exist: 房東的貓 - 月亮擁抱我（Official Music Video）
+
+Exist: 房東的貓 - 孤獨之書（Official Music Video）
+
+Exist: 房東的貓 feat. 沈以誠 - 談戀愛前不如先養貓
+
 Exist: 房東的貓 - 如常
 
+Exist: 房東的貓 - 由於時間與地域的關係
+
+Exist: 房東的貓 - 願你有故鄉
+
 Exist: 房東的貓《 不知歸期的故人 》Lyric Video
+
+Exist: 【HD】房東的貓 - 雲煙成雨 [歌詞字幕][動畫《我是江小白》片尾曲][完整高清音質] ♫ Im Joybo Theme Song : When Clouds Become Rain
 
 Exist: 房東的貓 斑馬斑馬 歌詞
 
 Exist: 房東的貓《 這是你想要的生活嗎 》Lyric Video / 新歌推薦
 
+Exist: 告五人 Accusefive [ 在這座城市遺失了你 Where I Lost Us ] Official Live Video
+
 Exist: 怕胖團PAPUN BAND 《 魚 》Music Video
 
 Exist: 告五人Accusefive【愛在夏天】 Official Music Video
 
+Exist: DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP
+
 Exist: 【MTV LIVE SESSION】老王樂隊 -《我還年輕我還年輕》、《安九》、《那些失眠的夜與難以忘懷的事》
+
+Exist: 告五人 Accusefive [ 唯一 The One And Only ] Official Music Video (三立/台視戲劇【戀愛是科學】插曲)
+
+Exist: 理想混蛋 Bestards【不是因為天氣晴朗才愛你】 Official Lyric Video
+
+Exist: 好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video
+
+Exist: 盧廣仲 Crowd Lu【大人中 Adult】Official Lyrics Video
+
+Exist: MAYDAY五月天 [ 笑忘歌 The Song of Laughter and Forgetting ] Official Live Video
+
+Exist: MAYDAY五月天 [ 愛情的模樣 ] feat.田馥甄Hebe Official Live Video
 
 Exist: 《記得自己長得很可愛》Official Live Music Video 泱泱 X 告五人
 
 Exist: 好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video
 
+Exist: 告五人/Accusefive  在這座城市遺失了你 歌詞Lyrics   與你相遇 是在一個單純美好的世界
+
 Exist: 好樂團 GoodBand ─《我把我的青春給你》Official Music Video
+
+Exist: 郁可唯 Yisa Yu [ 路過人間 Walking by the world ] Official Music Video（電視劇《我們與惡的距離》插曲）
+
+Exist: 郭頂《水星記 Mercury Records》官方版 MV
 
 Exist: 美秀集團 Amazing Show－捲菸 Roll-Cigg【Official Music Video】
 
+Exist: 郭采潔 Amber - 爆炸的沉默 Silent Sigh (official 官方完整HD高畫質版MV)
+
+Exist: 林俊傑 JJ Lin - 那些你很冒險的夢 Those Were The Days (官方完整 HD 高畫質版 MV)
+
+Exist: 徐良《女騎士》 官方MV
+
+Exist: 任然《 奇妙能力歌 》Lyric Video / 原唱：陳粒
+
 Exist: 戀愛的犀牛-房東的貓 翻唱 (已上CC字幕)
+
+Exist: 房東的貓 - 雲煙成雨『我能否變成淤泥, 再一次沾染你...』【動態歌詞Lyrics】
+
+Exist: 房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video
 
 Exist: 怕胖團PAPUN BAND《 月旁月光 》 MUSIC VIDEO
 
 Exist: 房東的貓 - 【蝴蝶之夏】動態歌詞♫ 靠近你身邊，把愛藏在心裡面
+
+Exist: 琳誼 Ring [ 蚵仔麵線 Oysters Love Noodles ] （電視劇《俗女養成記2》插曲）
+
+Exist: 陳奕迅 - 好久不見MV
+
+Exist: 張希《 認真地老去 》ft.曹方 Lyric Video
 
 Exist: 告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video
 
@@ -707,7 +1028,6 @@ Exist: 锻刀大赛：欧洲神秘冷兵器， 梳状剑刃无比锋利，勾住
 [youtube] M-MT0z6ac7g: Downloading webpage
 [download] Downloading video 3 of 78
 [youtube] sSQKl7rBTWQ: Downloading webpage
-[youtube] sSQKl7rBTWQ: Downloading player 17ab0793
 [download] Downloading video 4 of 78
 [youtube] HqmpIQ9l-uA: Downloading webpage
 [download] Downloading video 5 of 78
@@ -728,6 +1048,7 @@ Exist: 锻刀大赛：欧洲神秘冷兵器， 梳状剑刃无比锋利，勾住
 [youtube] Dnz-BTz9eDU: Downloading webpage
 [download] Downloading video 13 of 78
 [youtube] CMH-VJ9cvG8: Downloading webpage
+[youtube] CMH-VJ9cvG8: Downloading MPD manifest
 [download] Downloading video 14 of 78
 [youtube] FNJG6MsKO0k: Downloading webpage
 [download] Downloading video 15 of 78
@@ -865,19 +1186,43 @@ Exist: 陳粒 - 奇妙能力歌
 
 Exist: 【還願】插曲 碼頭姑娘合唱版（鞏俐芳&杜美心）
 
+Exist: 還願
+
 Exist: 草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】
 
 Exist: 草東沒有派對 No Party For Cao Dong - 山海 Wayfarer 【Official Music Video】
 
+Exist: 爛泥
+
+Exist: 如常
+
+Exist: 勇敢的人
+
 Exist: 閃靈、元千歲-暮沉武德殿(民謠版) CHTHONIC-Defenders of Bú-Tik Palace(acoustic)
+
+Exist: 老王樂隊｜安九 Enjoy (Official Music Video)
 
 Exist: 怕胖團PAPUN BAND《 月旁月光 》 MUSIC VIDEO
 
 Exist: 怕胖團PAPUN BAND 《 魚 》Music Video
 
+Exist: 張懸 {玫瑰色的你} Official MV
+
+Exist: 好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video
+
+Exist: 告五人 Accusefive [ 在這座城市遺失了你 Where I Lost Us ] 戲劇版MV - 電視劇《她們創業的那些鳥事》插曲
+
 Exist: 告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video
 
+Exist: 告五人 Accusefive [ 醜人多作怪 Mischief ] Official Music Video（《新斗羅大陸》手遊 半週年主題曲）
+
 Exist: 告五人 Accusefive 【披星戴月的想你】Official Music Video
+
+Exist: 夜空中最亮的星
+
+Exist: 朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)
+
+Exist: 蛋堡 - 過程
 
 Exist: 蘇打綠 sodagreen - 【控制狂】
 
@@ -889,23 +1234,109 @@ Exist: 蘇打綠 sodagreen -【再遇見】Official Music Video
 
 Exist: 蘇打綠 sodagreen - 【我好想你】「小時代」電影主題曲MV
 
+Exist: 林宥嘉 Yoga Lin [想自由 Freedom] Official MV
+
+Exist: 林宥嘉 Yoga Lin [自然醒 Wake Up] Official MV
+
+Exist: 持修音樂playlist(⁎⁍̴̛ᴗ⁍̴̛⁎)
+
+Exist: 平井堅 Hirai Ken -ELEGY 哀歌（エレジー( Kens bar Winter 2009)
+
+Exist: 米津玄師  - Lemon  Kenshi Yonezu
+
+Exist: 米津玄師 - ピースサイン , Kenshi Yonezu - Peace Sign
+
+Exist: 【HD】愛在雨過天晴時 / 戀如雨止 ED - Aimer - Ref:rain【中日字幕】
+
+Exist: 【單曲推薦】【僕が死のうと思ったのは】【薇爾莉特】
+
+Exist: Shiina Ringo - Gamble （椎名林檎 － ギャンブル） [HD/FLAC]
+
+Exist: Flower 『太陽と向日葵』
+
+Exist: 山崎まさよし / One more time,One more chance
+
+Exist: 【オリジナルPV】 小さな恋のうた ／ MONGOL800(cover) by天月
+
+Exist: 海の声 / 浦島太郎 (cover)
+
 Exist: ♡「朝5晚9」主題曲:クリスマスソング《聖誕頌歌》－粉ミルク\ back number (cover) 中文字幕♡
 
 Exist: トリセツ / 西野カナ (cover)
 
+Exist: 【HD】ONE/花の唄/六等星の夜 Magic Blue ver. - Aimer - 六等星の夜 Magic Blue ver.【中日字幕】
+
 Exist: EGOIST - DEPARTURES + EUTERPE (REMIX)))
+
+Exist: Psycho Pass AMV [名前のない怪物]
+
+Exist: Angel Beats Op Full HD w/lyrics My Soul, Your Beats!
 
 Exist: BRADIO-Flyers【TVアニメ「デス・パレード」OP曲】(OFFICIAL VIDEO)
 
+Exist: 美しき残酷な世界 PV
+
+Exist: you (ひぐらしのなく頃に)
+
 Exist: [Guilty Crown - OST]12. Release My Soul
 
+Exist: Giniro No Kami No Agito Ending Theme - Ai no Melody ( Soundtrack Version ) lyrics in the description
+
+Exist: 「GC」Guilty Crown OST - My Dearest
+
+Exist: The Everlasting Guilty Crown [EGOIST] with Lyrics
+
+Exist: 好きと言われた日
+
+Exist: Egoist - 1.4.2
+
+Exist: EGOiST   Lovely Icecream Princess Sweetie
+
+Exist: 穿越時空的少女插曲-不變的東西(中文字幕).wmv
+
+Exist: Angel Beats! 天使的心跳 (天使的脈動) - 超好聽OST
+
+Exist: ラックライフ / 名前を呼ぶよ [Music Video]（TVアニメ『文豪ストレイドッグス』ED主題歌）
+
+Exist: Re:ゼロから始める異世界生活(リゼロ) ED FULL 「STYX HELIX」／MYTH & ROID
+
+Exist: Tokyo Ghoul - Glassy Sky [東京喰種 -トーキョーグール-]
+
+Exist: Tokyo Ghoul - On my Own [ Lyrics - 東京喰種 -トーキョーグール-]
+
+Exist: Tokyo Ghoul Sad/ Emotional Music Ost (With english lyrics)
+
+Exist: 星を追う子ども - 追逐繁星的孩子Hello Goodbye & Hello
+
 Exist: 想い出は遠くの日々
+
+Exist: 一首日本觀看破百萬人次的歌 奧華子 楔
 
 Exist: 『Paradisus-Paradoxum』 Full ／リゼロ OP 2
 
 Exist: Kaleo - Shut Eye
 
+Exist: Attack on Titan - Reluctant Heroes | Lullaby | AmaLee ver
+
+Exist: Attack on Titan - Call Your Heroes (Medley) | ENGLISH ver | AmaLee
+
 Exist: すきなうた - yui × 鎖那
+
+Exist: Fullmetal Alchemist: Brotherhood All Endings Full Version (1-5) (Lyrics as subtitle)
+
+Exist: Fullmetal Alchemist: Brotherhood All Openings Full Version (1-5)
+
+Exist: OneRepublic - Counting Stars (Official Music Video)
+
+Exist: Just A Dream by Nelly - Sam Tsui & Christina Grimmie
+
+Exist: Heart Attack - Demi Lovato (Sam Tsui & Chrissy Costanza of ATC)
+
+Exist: Sam Tsui - Shadow - Official Music Video | Sam Tsui
+
+Exist: Heart Sutra/般若心経 (cho ver.)[water ripple mix.]  Kanho Yakushiji × Junichi Mitsubori  @Daiou-in,Kyoto
+
+Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [download] Downloading playlist: GG
 [youtube:tab] Downloading page 1
 [youtube:tab] Downloading page 2
@@ -914,7 +1345,6 @@ Exist: すきなうた - yui × 鎖那
 [youtube] 06AOHRFK-m8: Downloading webpage
 [download] Downloading video 2 of 214
 [youtube] DYptgVvkVLQ: Downloading webpage
-[youtube] DYptgVvkVLQ: Downloading player 17ab0793
 [download] Downloading video 3 of 214
 [youtube] FU8iFl5ZKFQ: Downloading webpage
 [download] Downloading video 4 of 214
@@ -977,6 +1407,7 @@ Exist: すきなうた - yui × 鎖那
 [youtube] _bbMY6infq4: Downloading webpage
 [download] Downloading video 33 of 214
 [youtube] xMdaYOdxaTk: Downloading webpage
+[youtube] xMdaYOdxaTk: Downloading MPD manifest
 [download] Downloading video 34 of 214
 [youtube] mrEee4bhc7Y: Downloading webpage
 [download] Downloading video 35 of 214
@@ -1001,6 +1432,7 @@ Exist: すきなうた - yui × 鎖那
 [youtube] hKlbYQdpzU8: Downloading webpage
 [download] Downloading video 45 of 214
 [youtube] 0aBLvPhkW5s: Downloading webpage
+[youtube] 0aBLvPhkW5s: Downloading MPD manifest
 [download] Downloading video 46 of 214
 [youtube] 4DxL6IKmXx4: Downloading webpage
 [download] Downloading video 47 of 214
@@ -1137,8 +1569,10 @@ Exist: すきなうた - yui × 鎖那
 [youtube] GftT_wzRJdc: Downloading webpage
 [download] Downloading video 113 of 214
 [youtube] 8nW94cQhy0E: Downloading webpage
+[youtube] 8nW94cQhy0E: Downloading MPD manifest
 [download] Downloading video 114 of 214
 [youtube] 8nW94cQhy0E: Downloading webpage
+[youtube] 8nW94cQhy0E: Downloading MPD manifest
 [download] Downloading video 115 of 214
 [youtube] qB_vOmL4v5c: Downloading webpage
 [download] Downloading video 116 of 214
@@ -1151,6 +1585,7 @@ Exist: すきなうた - yui × 鎖那
 [youtube] GIunNrf7G7w: Downloading webpage
 [download] Downloading video 120 of 214
 [youtube] h8fDWJsFJQs: Downloading webpage
+[youtube] h8fDWJsFJQs: Downloading MPD manifest
 [download] Downloading video 121 of 214
 [youtube] WD6Ob-CEQUk: Downloading webpage
 [download] Downloading video 122 of 214
@@ -1189,6 +1624,7 @@ Exist: すきなうた - yui × 鎖那
 [youtube] gM72KhfYU2Q: Downloading webpage
 [download] Downloading video 139 of 214
 [youtube] zv-PSPiBm34: Downloading webpage
+[youtube] zv-PSPiBm34: Downloading MPD manifest
 [download] Downloading video 140 of 214
 [youtube] f-mvVv0R6n0: Downloading webpage
 [download] Downloading video 141 of 214
@@ -1203,10 +1639,12 @@ Exist: すきなうた - yui × 鎖那
 [youtube] KjrRSEvqUMA: Downloading webpage
 [download] Downloading video 146 of 214
 [youtube] yQ-IQoOwDyg: Downloading webpage
+[youtube] yQ-IQoOwDyg: Downloading MPD manifest
 [download] Downloading video 147 of 214
 [youtube] 5hDZbroaQDc: Downloading webpage
 [download] Downloading video 148 of 214
 [youtube] K0vthsl7nYw: Downloading webpage
+[youtube] K0vthsl7nYw: Downloading MPD manifest
 [download] Downloading video 149 of 214
 [youtube] VmmXcu8XR8E: Downloading webpage
 [download] Downloading video 150 of 214
@@ -1340,64 +1778,439 @@ Exist: すきなうた - yui × 鎖那
 [download] Downloading video 214 of 214
 [youtube] VaAacrLk4gE: Downloading webpage
 [download] Finished downloading playlist: GG
-[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: 一首代表3個世代的饒舌歌曲...【809000】- Namewee 黃明志 Ft. MDD 周立銘 & Frog 青蛙 @高清無碼 2022 H.D.& Uncensored
 
+Exist: 周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video
+
 Exist: 鄧家忠 - 芭比Q了  「完了 完了 完了 芭比Q了」 【I LOVE MUSIC】
+
+Exist: Calvin Harris, RagnBone Man - Giant (Lyrics)
+
+Exist: Ed Sheeran - Shivers [Official Video]
+
+Exist: BLACKPINK - ‘Pink Venom’ M/V
+
+Exist: 老王樂隊｜安九 Enjoy (Official Music Video)
 
 Exist: ØZI -【BLACK OUT】feat. 9m88
 
+Exist: 【顏社】Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)
+
+Exist: 不要說愛我
+
+Exist: 張震嶽 A-Yue【再見 Good bye】Official Music Video
+
+Exist: 李宗盛 Jonathan Lee【鬼迷心竅 Infatuation】台視「末代皇孫」主題曲 Official Music Video
+
+Exist: Because Of You-Ne-Yo【中文歌詞版】90&00s情歌
+
+Exist: 盛宇 Damnshine -  隆里电丝  Ft. 刘聪 KEY L 【 OFFICIAL MUSIC VIDEO 】
+
+Exist: 動力火車 - 忠孝東路走九遍(歌詞版)
+
+Exist: 動力火車 Power Station [ 忠孝東路走九遍 ] Official Music Video
+
+Exist: 動力火車 - 我給你幸福
+
+Exist: 頑童MJ116【SPOTLIGHT】Official Music Video
+
+Exist: 周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV
+
+Exist: 八三夭 831 X 周湯豪【帥到分手不關你的事】Official Live Video
+
+Exist: 施文彬《真情味》官方MV│金曲獎歌曲
+
+Exist: 施文彬 Michael Shih - 再會啦心愛的無緣的人 (官方完整版MV)
+
+Exist: 伍佰 Wu Bai&China Blue【痛哭的人 The person who weeps bitterly】Official Music Video
+
+Exist: 伍佰 Wu Bai&China Blue【浪人情歌 Wanderers love song】Official Music Video
+
+Exist: 伍佰 Wu Bai&China Blue【心愛的再會啦 Farewell my love】Official Music Video
+
+Exist: 伍佰 Wu Bai&China Blue【Last dance】Official Music Video(HD)
+
+Exist: Mayday五月天[步步Step by Step]MV官方高音質HD版-電視劇「步步驚情」主題曲
+
+Exist: Mayday五月天【你不是真正的快樂You Are Not Truly Happy】MV官方完整版
+
+Exist: Mayday五月天 [ 我不願讓你一個人I Wont Let You Be Lonely ] Official Music Video - 末日版
+
+Exist: Mayday五月天 [ 後來的我們 Here, After, Us ] Official Music Video
+
 Exist: 《明天會更好》cover 蕭小M  feat.網紅朋友們
+
+Exist: 獵人X早安 ( HUNTER X HUNTER)
+
+Exist: 彭佳慧 大齡女子 歌詞版
+
+Exist: Diana Wang (王詩安) - HOME (Official Music Video)
+
+Exist: Angela 張韶涵 - 淋雨一直走 官方完整HD高清版MV [Keep Walking Official HD MV]
+
+Exist: Ann白安【我只想在乎我在乎的】MV官方完整版
+
+Exist: 周杰倫 Jay Chou【陽光宅男 Sunshine Nerd】-Official Music Video
+
+Exist: 八三夭【東區東區】MV官方完整版
+
+Exist: Mayday五月天[傷心的人別聽慢歌(貫徹快樂)]MV官方完整版-諾亞方舟3D電影主題曲
+
+Exist: MAYDAY 五月天 [ 乾杯 Cheers ] Official Music Video
+
+Exist: Owl City & Carly Rae Jepsen - Good Time (Official Video)
+
+Exist: One Direction - One Thing
+
+Exist: One Direction - What Makes You Beautiful (Official Video)
 
 Exist: [ CLIP ] “海豚音”VS“巨肺” 张靓颖邓紫棋合唱《雨蝶》《王牌对王牌3》/ 浙江卫视官方HD /
 
+Exist: 邓紫棋[If I Were A Boy] 简直厉害，太好听了!
+
+Exist: LiSA 『炎』 -MUSiC CLiP-
+
+Exist: Mayday五月天【入陣曲】MV官方動畫版-中視[蘭陵王]片頭曲
+
+Exist: MAYDAY五月天 [ 挪威的森林 ]  feat.伍佰 Wu Bai  Life Tour no. 119 壓軸加班曲
+
+Exist: 伍佰 Wu Bai&China Blue【被動 Passive】Official Music Video
+
+Exist: 胡夏 那些年 (Official Video Karaoke)
+
+Exist: 田馥甄  Hebe Tien 《小幸運》
+
+Exist: 吳青峰 - 起風了【高音質動態歌詞 Lyrics】♪ 以愛之名 你還願意嗎
+
+Exist: BAAD-好想大聲說喜歡你日文翻譯中文歌詞版附羅馬拼音(灌籃高手片頭曲)
+
+Exist: 蕭閎仁X安心亞-愛要安心呀 (無限延伸官方完整版MV)
+
+Exist: Anna Kendrick - Cups  安娜坎卓克 - 杯子歌《中英字幕》
+
+Exist: Katy Perry - Firework (Official Music Video)
+
+Exist: 王心凌【愛你】- 蔡佩軒 Ariel Tsai 翻唱COVER
+
 Exist: 黃明志 *DEMO*【你不懂】- 蔡恩雨
+
+Exist: 蔡依林 Jolin Tsai《說愛你》(feat.G.E.M.鄧紫棋) Official Live Music Video
 
 Exist: 汪六六 - #孤独颂歌 #Love_Story #摩登爱情 #漫步人生路 #春晓 #Domino
 
+Exist: dance monkey - 汪六六 TikTok抖音翻唱短视频
+
+Exist: 【飞儿乐团 - 月牙湾】 Cover by 凉凉哥邝珌万
+
 Exist: “开口跪”哥又一首《知否知否》惊艳央视综艺，凉凉哥邝珌万显惊人反串音色！
+
+Exist: Glass Animals - Heat Waves (Official Video)
+
+Exist: Distance
+
+Exist: 棉子 - 勇氣『我愛你 無畏人海的擁擠，只為能靠近你。』【動態歌詞Lyrics】
+
+Exist: Ed Sheeran - Bad Habits [Official Video]
+
+Exist: GAYLE - abcdefu (Official Music Video)
+
+Exist: 李榮浩 Ronghao Li ft. 張惠妹 aMEI《對等關係》Official Music Video
+
+Exist: 顏人中 - 有些【動態歌詞】「明明不是下雨天 卻淋濕雙眼」♪
+
+Exist: 李杰明 W.M.L x 陳忻玥 Vicky Chen【Im Alive】Official MV
 
 Exist: 告五人 Accusefive - 披星戴月的想你 (Demo)
 
+Exist: 阿冗 - 與我無關【動態歌詞】「望眼欲穿 等不到你的晚安」♪
+
+Exist: 茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大 (Official Music Video)《當男人戀愛時》電影主題曲
+
+Exist: 張遠 - 嘉賓『感謝你特別邀請，可惜這是你和他的婚禮，而我只是嘉賓。』【動態歌詞Lyrics】
+
+Exist: 從前說 - 小阿七『後來你娶了理想 我嫁給了戶對門當，愛與不愛又何妨』【動態歌詞】
+
+Exist: 告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )
+
+Exist: 魚丁糸 oaeen【沙發裡有沙發Radio】 Official Music Video
+
+Exist: Stand Up
+
+Exist: 蕭煌奇Ricky Xiao  - 好好先生 Nice Guy (華納official 高畫質HD官方完整版MV)
+
+Exist: 蕭煌奇 只能勇敢完整版MV-華納official HQ官方版MV
+
+Exist: supercell - Kimino Shiranai Monogatari
+
+Exist: Backstreet Boys - I Want It That Way (Official HD Video)
+
+Exist: 艾薇Ivy 〈失重前幸福〉Official Music Video
+
+Exist: 韋禮安 WeiBird《如果可以 Red Scarf》MV - 電影「月老」主題曲導演親剪音樂視角版
+
+Exist: 高爾宣 OSN -【Without You】沒了妳｜Official MV
+
+Exist: Diverseddie 舵 - Why You Look Sad?
+
+Exist: 瘦子E.SO【Way Up】Official Music Video (4K)
+
+Exist: 瘦子E.SO【妹妹 Mei Mei】Official Music Video (4K)
+
+Exist: 「LOST IN PARADISE -ALI feat. AKLO」咒術迴戰 Jujutsu Kaisen ED Full (中日字幕)
+
+Exist: Watashitachi
+
+Exist: Rainbow
+
+Exist: 蕭煌奇 Ricky Xiao - 感謝你愛我 Thank You For Loving Me (華納official 高畫質 HD 官方完整版MV)
+
+Exist: 蕭煌奇 Ricky Hsiao - 咱結婚好嗎? (feat.安心亞)  Will You Marry Me?  (華納 Official HD MV)
+
+Exist: 蕭煌奇 Ricky Hsiao〈寫一條歌，寫你我爾爾〉Feat. 茄子蛋 Official MV
+
+Exist: MAYDAY五月天 [ 玫瑰少年 ] Official Music Video
+
+Exist: Koisurukimochi
+
+Exist: Dear
+
+Exist: こぴ　メドレー　kopi 2020
+
+Exist: Motto
+
+Exist: Nishino Kana - Missing You(Repeat)
+
+Exist: Suki
+
+Exist: Maiko Nakamura Ft. Cliff edge - The Distance AMV
+
+Exist: Hanya Padamu【Full Lyric】Dear... by Kana Nishino - Full Lirik Romaji
+
+Exist: If
+
+Exist: 宇多田ヒカル - First Love
+
+Exist: 黄霄雲 抖音 清唱《星辰大海》
+
+Exist: 黃霄雲 - 星辰大海「穿過人海 別停下來 趁現在還有期待」【動態歌詞Lyrics】
+
+Exist: 灌篮高手 三井寿之歌  《直到世界的尽头》致逝去的青春
+
 Exist: 李千娜 Nana Lee – 不曾回來過 (「通靈少女」插曲 / Official Music Video)
+
+Exist: [MV] KIMSEJEONG(김세정) _ Love, Maybe(사랑인가 봐)(Acoustic Ver.)(A Business Proposal(사내맞선) OST Bonus Track)
+
+Exist: 【MAD】Missing You
+
+Exist: 一首好聽的日文歌~泥中に咲く(ウォルピスカーター)【中日字幕】
+
+Exist: 一首好聽的日文歌~泥中に咲く(ウォルピスカーター)【中日字幕】
+[youtube:tab] PLC2083FE532A72935: Downloading webpage
+
+Exist: 全球顶级史诗神曲《Victory》，气势磅礴的空灵仙音，太震撼了！
+
+Exist: 《給未來的自己》Cover By 魚閃閃BLING【路演ver.】 ||『找一個人惺惺相惜 找一顆心 心心相印 在這個宇宙 我是獨一無二 沒人能取代』#梁靜茹 #魚閃閃
+
+Exist: 梁静茹 - 给未来的自己 (动态歌词)
 
 Exist: 魚閃閃BLING《古風歌曲串燒》|| 紅閃閃，白閃閃，選個閃閃回家過年？【抖音網紅】#古風歌曲 #串燒 #漢服 #shorts
 
+Exist: 海之焰
+
+Exist: 《踏山河》鱼闪闪BLING
+
+Exist: [Vietsub ] Du Sơn Luyến《游山恋》- 鱼闪闪BLING
+
+Exist: G.E.M.【倒數 TIK TOK】Official MV [HD] 鄧紫棋
+
+Exist: G.E.M.【光年之外 LIGHT YEARS AWAY 】MV (電影《太空潛航者 Passengers》中文主題曲) [HD] 鄧紫棋
+
+Exist: G.E.M.【新的心跳 HEARTBEAT】Official MV [HD] 鄧紫棋
+
+Exist: G.E.M.【再見 GOODBYE】Official MV [HD] 鄧紫棋
+
+Exist: 周杰倫 Jay Chou【聽見下雨的聲音 Rhythm of the Rain】Official MV
+
+Exist: twenty one pilots: Heathens (from Suicide Squad: The Album) [OFFICIAL VIDEO]
+
+Exist: G.E.M.【我只在乎你】Queen of Hearts 世界巡演現場版[HD] 鄧紫棋
+
+Exist: Alan Walker & Imanbek - Sweet Dreams(中文歌詞字幕)Lyrics
+
+Exist: Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)
+
+Exist: 畢書盡 Bii - Love More (官方版MV) - 三立/東森偶像劇「料理高校生」插曲、面膜廣告歌曲
+
+Exist: 黃鴻升 Alien Huang【不屑】Official Music Video
+
+Exist: [avex官方HD] A-Lin 920 feat.小宇(MV完整版)
+
+Exist: 八三夭831【致青春 Young Guns】Official Music Video
+
 Exist: 關於那一道墻的故事... 黃明志金門觀光主題曲【牆外】Ft. 小花 @鬼才做音樂 2021 Ghosician
+
+Exist: 黃明志 Ft. 黃秋生【中國痛 China Reggaeton】@亞洲通才 2020 Asian Polymath
 
 Exist: 黃明志 Ft. 大支【鬼島】@亞洲通話 2019 Calling Asia
 
+Exist: 戴愛玲Princess Ai 《一無所懼 FEARLESS》Official Music Video - 第37屆威廉瓊斯盃國際籃球邀請賽主題曲
+
+Exist: 陳雨霈-菜鳥探戈
+
+Exist: 說實話-李千娜  歌詞版
+
+Exist: Lea Michele - Louder (Lyrics)
+
+Exist: Kelly Clarkson - Because Of You (VIDEO)
+
+Exist: 謝和弦 R-chord – 在沒有你以後 Without you Feat. 張智成 Z-Chen (華納 Official 官方完整版 MV)
+
+Exist: Enrique Iglesias - Do You Know? (The Ping Pong Song)
+
 Exist: Kosa kata Jepang Tokyo Bon 東京盆踊り2020 Makudonarudo Namewee黃明志 ft Meu Ninomiya二宮芽生
+
+Exist: The Phoenix- Fall Out Boy (lyrics)中英歌詞
+
+Exist: Fall Out Boy - The Phoenix (Official Video) - Part 2 of 11
+
+Exist: (Cover) 陳雨霈- 菜鳥探戈
 
 Exist: IU-Good Day (開三檔的高音,超棒)
 
+Exist: 黃鴻升 Alien Huang【千分之一 Point one percent】三立華劇「就是要你愛上我」插曲 Official Music Video
+
+Exist: Rosie楊凱琳《某某MOMO》Official Music Video-MOMO熊主題曲
+
+Exist: 李榮浩 - 爸爸媽媽『爸爸媽媽給我的不少不多 足夠我在這年代奔波 足夠我生活。』【動態歌詞 Lyrics】🎶🎶🎶 Enjoy Music Channel
+
+Exist: Chris Brown - Zero
+
 Exist: 林芯儀 Shennio Lin《道聽塗說》Remembering You Official 完整版MV【HD】
+
+Exist: The Script - Six Degrees of Separation (Official Video)
+
+Exist: Boys Like Girls - Be Your Everything (Video)
+
+Exist: 棉花糖 katncandix2 -【好日子】[Official Music Video]
+
+Exist: 棉花糖 katncandix2 -【再見王子】[Official Music Video]
+
+Exist: Shiny 姚亦晴 [Getting Stronger] 官方Official HD MV
+
+Exist: MAYDAY五月天 [ 因為你 所以我 Because of You ] Official Music Video
+
+Exist: 浪花兄弟 The Drifters【你是我的OK繃 Youre My Bandaid】Official MV
+
+Exist: Ailee – SAKURA (Full Ver.) [Lyric Video]
+
+Exist: Wanting 曲婉婷 - 我的歌声里 (You Exist In My Song) [Trad. Chinese] [Official Music Video]
+
+Exist: Ann白安【是什麼讓我遇見這樣的你What brings me to you】 MV官方完整版
+
+Exist: Wanting 曲婉婷 - Drenched [Lyric Video]
+
+Exist: 郭采潔 - 我的未來式『我的未來式 由我作主』【動態歌詞Lyrics】
+
+Exist: 我們沒有在一起
+
+Exist: 【魔女之條件 主題曲 - First Love】 中日羅馬拼音 歌詞
 
 Exist: 西野加奈  Kana Nishino - 再見 完整中文字幕版
 
+Exist: Hitomi wo Tojite「瞳をとじて」 Lyrics
+
 Exist: 梁靜茹 Fish Leong - 慢冷 Slow-To-Cool-Down【慢冷的人啊，會自我折磨】[ 歌詞 ]
 
+Exist: 薛之謙 - 認真的雪『愛上你我失去了我自己。』【動態歌詞Lyrics】
+
+Exist: 非常火的一首日语歌，你听过没？！--《 恋音と雨空》
+
+Exist: [MV] IU(아이유) _ Blueming(블루밍)
+
 Exist: 阿肆【熱愛105°C的你】- 蔡佩軒 Ariel Tsai 翻唱 COVER
+
+Exist: 任然 - 飛鳥和蟬【動態歌詞】「你驕傲的飛遠 我棲息的夏天」♪
+
+Exist: 《芒种》音阙诗听/赵方婧 官方高画质 Official HD MV丨Grain in Ear丨Mang Chủng
+
+Exist: 孫子涵 Niko Sun - 唐人 (官方版MV) - 電視劇《唐朝好男人》主題曲
+
+Exist: Stay High - Tove Lo - Against The Current Cover
+
+Exist: 四季予你 - 程响『送你三月的风 六月的雨 九月的风景大雪漫天飘零 做你的嫁衣 多美丽』【動態歌詞Lyrics】
+
+Exist: [MV] 먼데이 키즈(Monday Kiz), 펀치(Punch) - Another Day (호텔 델루나 OST) Hotel Del Luna OST Part 1
 
 Exist: 【女性が歌う】キセキ/GReeeeN『青空エール』主題歌 -whiteeeen(Covered by コバソロ & Lefty Hand Cream)歌詞付き
 
 Exist: 聽見玻璃心碎的聲音... 黃明志 Ft.陳芳語【玻璃心】@鬼才做音樂 2021 Ghosician
 
+Exist: Endless Tears feat. 中村舞子 - Love is a beautiful pain『喜歡你真的好痛苦。』【中日動態歌詞Lyrics】
+
+Exist: Counting Stars - OneRepublic | Alex Goot, Chrissy Costanza, KHS
+
+Exist: secret base 〜君がくれたもの〜 / ZONE (Covered by コバソロ & えみい(テーマパークガール))
+
+Exist: Aimer 『3min』MUSIC VIDEO (5th album『Sun Dance』『Penny Rain』4/10同時発売)
+
+Exist: TAEYEON 태연 I (feat. Verbal Jint) MV
+
+Exist: 黃鴻升 Alien Huang【地球上最浪漫的一首歌】Official Music Video
+
+Exist: 周湯豪 NICKTHEREAL《帥到分手》Official Music Video [飛魚高校生 片頭曲]
+
+Exist: No.1/西野カナ『掟上今日子の備忘録』主題歌（Full Cover by Kobasolo & Lefty Hand Cream）
+
+Exist: 【MV】春に揺られど君想う feat. こぴ / コバソロ
+
+Exist: 陳雪凝 - 綠色『說不痛苦那是假的，畢竟我的心也是肉做的。』【動態歌詞Lyrics】
+
+Exist: 西野カナ『No.1』Full Cover by Kobasolo & Lefty Hand Cream
+
+Exist: Rick Astley - Never Gonna Give You Up (Official Music Video)
+
+Exist: 好きな人がいること/JY『好きな人がいること』主題歌(Full Covered by コバソロ & Lefty Hand Cream)歌詞付き
+
 Exist: 明日への扉 / I WiSH（川嶋あい）(Covered by コバソロ & こぴ)
+
+Exist: Sorry - Justin Bieber - Against The Current, Alex Goot, KHS Cover
+
+Exist: Closer - The Chainsmokers  ft. Halsey | Alex Goot & Against The Current
+
+Exist: 22 - Taylor Swift | Alex Goot & Friends COVER
+
+Exist: Catch My Breath - Kelly Clarkson | Alex Goot & Against The Current
+
+Exist: Let Me Love You - Justin Bieber  +DJ Snake | Alex Goot, ATC, KHS
+
+Exist: Bon Jovi - Its My Life (Official Music Video)
 
 Exist: 米津玄師 vs Aimer MASHUP!! [PART2] with 天邑
 
+Exist: Kana Nishino  - If  (Lyrics)
+
+Exist: 莫文蔚 Karen Mok - 絕
+
+Exist: [MV] IU(아이유) _ Palette(팔레트) (Feat. G-DRAGON)
+
+Exist: 朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)
+
 Exist: 【咬人猫】 dududu！MV [Yaorenmao Channel]
+
+Exist: YOASOBI - 夜に駆ける / THE HOME TAKE
 
 Exist: 米津玄師 vs Aimer MASHUP!!  feat. 天邑 | cover
 
 Exist: 【女性が歌う】あとひとつ/FUNKY MONKEY BABYS (Covered by コバソロ & こぴ)
+
+Exist: 陳雪凝 - 你的酒館對我打了烊【動態歌詞Lyrics】
+
+Exist: 九澤CP 陳零九 Nine Chen 邱鋒澤 FENG ZE【天黑請閉眼 Werewolves】Official Music Video
 [download] Downloading playlist: MG
 [youtube:tab] playlist MG: Downloading 8 videos
 [download] Downloading video 1 of 8
 [youtube] --giQqhWGdQ: Downloading webpage
-[youtube] --giQqhWGdQ: Downloading player 17ab0793
 [download] Downloading video 2 of 8
 [youtube] 0IdsBJk0f6U: Downloading webpage
 [download] Downloading video 3 of 8
@@ -1414,6 +2227,18 @@ Exist: 【女性が歌う】あとひとつ/FUNKY MONKEY BABYS (Covered by コ�
 [youtube] qrt48ZGi3uU: Downloading webpage
 [download] Finished downloading playlist: MG
 
+Exist: R3HAB & 蔡依林 Jolin Tsai《Stars Align》Official Music Video
+
+Exist: 樂洛伊小子與小賈斯汀 The Kid LAROI ft. Justin Bieber / 留下來 Stay (中字MV)
+
+Exist: Justin Bieber - Hold On (Live from Paris)
+
+Exist: Justin Bieber - Somebody (Live from Paris)
+
 Exist: 《孤勇者》（《英雄聯盟：雙城之戰》動畫劇集中文主題曲）陳奕迅 Eason Chan [Official MV]
+
+Exist: Justin Bieber - Ghost
+
+Exist: 從前說 - 小阿七『後來你娶了理想 我嫁給了戶對門當，愛與不愛又何妨』【動態歌詞】
 
 Exist: 张韶涵VS杨丞琳两个完全不同的《孤勇者》 各有千秋 你更爱哪一个版本？#天赐的声音 特辑
