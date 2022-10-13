@@ -4,6 +4,7 @@
 [youtube:tab] playlist Sami's music: Downloading 197 videos
 [download] Downloading video 1 of 197
 [youtube] mK9Be_3r9-U: Downloading webpage
+[youtube] mK9Be_3r9-U: Downloading player f11bc515
 [download] Downloading video 2 of 197
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 197
@@ -600,7 +601,7 @@ Exist: 【English sub 好声音】Aiuta - whiteeeen - 愛唄～since 2007～ 『
 Exist: sumika「 春夏秋冬」動畫版電影『我想吃掉你的胰臟』主題曲【中日歌詞】
 
 Exist: CHiCO with HoneyWorks 『世界は恋に落ちている』(Covered by コバソロ & 未来(ザ・フーパーズ))
-[youtube] gmAzG0Rcl8g: Downloading webpage
+[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
 
 Exist: ヨルシカ - ただ君に晴れ (MUSIC VIDEO)
 
@@ -794,10 +795,7 @@ Exist: haruhayuku
 
 Exist: RADWIMPS - うるうびと [Official Music Video]
 
-not Exist: 『ピーター・グリルと賢者の時間 Super Extra』PV
-[download] Destination: ./music/loigmAzG0Rcl8g.loi
-[download]   0.1% of 1.37MiB at  6.01KiB/s ETA 03:53[download]   0.2% of 1.37MiB at 18.03KiB/s ETA 01:17[download]   0.5% of 1.37MiB at 42.05KiB/s ETA 00:33[download]   1.1% of 1.37MiB at 90.06KiB/s ETA 00:15[download]   2.2% of 1.37MiB at 79.89KiB/s ETA 00:17[download]   4.5% of 1.37MiB at 77.45KiB/s ETA 00:17[download]   9.1% of 1.37MiB at 76.03KiB/s ETA 00:16[download]  14.4% of 1.37MiB at 72.98KiB/s ETA 00:16[download]  19.2% of 1.37MiB at 75.25KiB/s ETA 00:15[download]  25.1% of 1.37MiB at 72.26KiB/s ETA 00:14[download]  29.7% of 1.37MiB at 72.23KiB/s ETA 00:13[download]  34.8% of 1.37MiB at 73.54KiB/s ETA 00:12[download]  40.7% of 1.37MiB at 74.15KiB/s ETA 00:11[download]  46.3% of 1.37MiB at 74.18KiB/s ETA 00:10[download]  51.6% of 1.37MiB at 73.65KiB/s ETA 00:09[download]  56.5% of 1.37MiB at 73.82KiB/s ETA 00:08[download]  61.9% of 1.37MiB at 73.48KiB/s ETA 00:07[download]  66.9% of 1.37MiB at 74.20KiB/s ETA 00:06[download]  72.9% of 1.37MiB at 74.32KiB/s ETA 00:05[download]  78.3% of 1.37MiB at 74.10KiB/s ETA 00:04[download]  83.4% of 1.37MiB at 73.66KiB/s ETA 00:03[download]  88.2% of 1.37MiB at 73.87KiB/s ETA 00:02[download]  93.7% of 1.37MiB at 73.86KiB/s ETA 00:01[download]  99.0% of 1.37MiB at 74.34KiB/s ETA 00:00[download] 100.0% of 1.37MiB at 74.54KiB/s ETA 00:00[download] 100% of 1.37MiB in 00:18
-[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
+Exist: 『ピーター・グリルと賢者の時間 Super Extra』PV
 [download] Downloading playlist: 醜奴兒
 [youtube:tab] playlist 醜奴兒: Downloading 12 videos
 [download] Downloading video 1 of 12
