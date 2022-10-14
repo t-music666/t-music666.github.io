@@ -4,7 +4,7 @@
 [youtube:tab] playlist Sami's music: Downloading 197 videos
 [download] Downloading video 1 of 197
 [youtube] mK9Be_3r9-U: Downloading webpage
-[youtube] mK9Be_3r9-U: Downloading player f11bc515
+[youtube] mK9Be_3r9-U: Downloading player 1f77e565
 [download] Downloading video 2 of 197
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 197
@@ -2029,8 +2029,6 @@ Exist: G.E.M.【新的心跳 HEARTBEAT】Official MV [HD] 鄧紫棋
 
 Exist: G.E.M.【再見 GOODBYE】Official MV [HD] 鄧紫棋
 
-Exist: 周杰倫 Jay Chou【聽見下雨的聲音 Rhythm of the Rain】Official MV
-
 Exist: twenty one pilots: Heathens (from Suicide Squad: The Album) [OFFICIAL VIDEO]
 
 Exist: G.E.M.【我只在乎你】Queen of Hearts 世界巡演現場版[HD] 鄧紫棋
@@ -2139,8 +2137,6 @@ Exist: Stay High - Tove Lo - Against The Current Cover
 
 Exist: 四季予你 - 程响『送你三月的风 六月的雨 九月的风景大雪漫天飘零 做你的嫁衣 多美丽』【動態歌詞Lyrics】
 
-Exist: [MV] 먼데이 키즈(Monday Kiz), 펀치(Punch) - Another Day (호텔 델루나 OST) Hotel Del Luna OST Part 1
-
 Exist: 【女性が歌う】キセキ/GReeeeN『青空エール』主題歌 -whiteeeen(Covered by コバソロ & Lefty Hand Cream)歌詞付き
 
 Exist: 聽見玻璃心碎的聲音... 黃明志 Ft.陳芳語【玻璃心】@鬼才做音樂 2021 Ghosician
@@ -2158,8 +2154,6 @@ Exist: TAEYEON 태연 I (feat. Verbal Jint) MV
 Exist: 黃鴻升 Alien Huang【地球上最浪漫的一首歌】Official Music Video
 
 Exist: 周湯豪 NICKTHEREAL《帥到分手》Official Music Video [飛魚高校生 片頭曲]
-
-Exist: No.1/西野カナ『掟上今日子の備忘録』主題歌（Full Cover by Kobasolo & Lefty Hand Cream）
 
 Exist: 【MV】春に揺られど君想う feat. こぴ / コバソロ
 
