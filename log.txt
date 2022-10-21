@@ -4,7 +4,6 @@
 [youtube:tab] playlist Sami's music: Downloading 197 videos
 [download] Downloading video 1 of 197
 [youtube] mK9Be_3r9-U: Downloading webpage
-[youtube] mK9Be_3r9-U: Downloading player 24c6f8bd
 [download] Downloading video 2 of 197
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 197
@@ -1876,6 +1875,8 @@ Exist: MAYDAY五月天 [ 挪威的森林 ]  feat.伍佰 Wu Bai  Life Tour no. 11
 
 Exist: 伍佰 Wu Bai&China Blue【被動 Passive】Official Music Video
 
+Exist: 胡夏 那些年 (Official Video Karaoke)
+
 Exist: 田馥甄  Hebe Tien 《小幸運》
 
 Exist: 吳青峰 - 起風了【高音質動態歌詞 Lyrics】♪ 以愛之名 你還願意嗎
@@ -1955,6 +1956,8 @@ Exist: 瘦子E.SO【Way Up】Official Music Video (4K)
 Exist: 瘦子E.SO【妹妹 Mei Mei】Official Music Video (4K)
 
 Exist: 「LOST IN PARADISE -ALI feat. AKLO」咒術迴戰 Jujutsu Kaisen ED Full (中日字幕)
+
+Exist: Watashitachi
 
 Exist: Rainbow
 
