@@ -1790,11 +1790,8 @@ Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [download] Downloading video 215 of 215
 [youtube] VaAacrLk4gE: Downloading webpage
 [download] Finished downloading playlist: GG
-[youtube] P6CHo3zVwoA: Downloading webpage
 
-not Exist: 瞳をとじて Hitomi wo Tojite   平井 堅 Hirai Ken 日本語歌詞付き+ ローマ字 romaji + letras em português
-[download] Destination: ./music/3SfP6CHo3zVwoA.3Sf
-[download]   0.0% of 5.30MiB at  5.72KiB/s ETA 15:49[download]   0.1% of 5.30MiB at 17.14KiB/s ETA 05:16[download]   0.1% of 5.30MiB at 39.97KiB/s ETA 02:15[download]   0.3% of 5.30MiB at 85.60KiB/s ETA 01:03[download]   0.6% of 5.30MiB at 79.83KiB/s ETA 01:07[download]   1.2% of 5.30MiB at 76.08KiB/s ETA 01:10[download]   2.3% of 5.30MiB at 75.95KiB/s ETA 01:09[download]   3.7% of 5.30MiB at 72.98KiB/s ETA 01:11[download]   5.0% of 5.30MiB at 73.87KiB/s ETA 01:09[download]   6.4% of 5.30MiB at 73.08KiB/s ETA 01:09[download]   7.7% of 5.30MiB at 71.28KiB/s ETA 01:10[download]   8.9% of 5.30MiB at 71.47KiB/s ETA 01:09[download]  10.2% of 5.30MiB at 72.63KiB/s ETA 01:07[download]  11.7% of 5.30MiB at 73.22KiB/s ETA 01:05[download]  13.1% of 5.30MiB at 72.56KiB/s ETA 01:04[download]  14.4% of 5.30MiB at 73.22KiB/s ETA 01:03[download]  15.9% of 5.30MiB at 73.32KiB/s ETA 01:02[download]  17.2% of 5.30MiB at 72.78KiB/s ETA 01:01[download]  18.5% of 5.30MiB at 72.83KiB/s ETA 01:00[download]  19.8% of 5.30MiB at 72.39KiB/s ETA 01:00[download]  21.1% of 5.30MiB at 72.61KiB/s ETA 00:59[download]  22.5% of 5.30MiB at 72.36KiB/s ETA 00:58[download]  23.7% of 5.30MiB at 72.68KiB/s ETA 00:56[download]  25.2% of 5.30MiB at 72.60KiB/s ETA 00:55[download]  26.5% of 5.30MiB at 72.98KiB/s ETA 00:54[download]  28.0% of 5.30MiB at 72.37KiB/s ETA 00:54[download]  29.2% of 5.30MiB at 73.06KiB/s ETA 00:52[download]  30.9% of 5.30MiB at 73.01KiB/s ETA 00:51[download]  32.2% of 5.30MiB at 72.64KiB/s ETA 00:50[download]  33.4% of 5.30MiB at 72.70KiB/s ETA 00:49[download]  34.8% of 5.30MiB at 72.46KiB/s ETA 00:48[download]  36.0% of 5.30MiB at 72.60KiB/s ETA 00:47[download]  37.5% of 5.30MiB at 72.47KiB/s ETA 00:46[download]  38.7% of 5.30MiB at 72.68KiB/s ETA 00:45[download]  40.2% of 5.30MiB at 72.64KiB/s ETA 00:44[download]  41.5% of 5.30MiB at 72.97KiB/s ETA 00:43[download]  43.1% of 5.30MiB at 72.49KiB/s ETA 00:42[download]  44.2% of 5.30MiB at 72.53KiB/s ETA 00:41[download]  45.6% of 5.30MiB at 72.84KiB/s ETA 00:40[download]  47.1% of 5.30MiB at 72.95KiB/s ETA 00:39[download]  48.5% of 5.30MiB at 72.83KiB/s ETA 00:38[download]  49.8% of 5.30MiB at 72.55KiB/s ETA 00:37[download]  51.0% of 5.30MiB at 72.96KiB/s ETA 00:36[download]  52.7% of 5.30MiB at 72.94KiB/s ETA 00:35[download]  54.1% of 5.30MiB at 72.74KiB/s ETA 00:34[download]  55.3% of 5.30MiB at 72.75KiB/s ETA 00:33[download]  56.6% of 5.30MiB at 72.58KiB/s ETA 00:32[download]  57.9% of 5.30MiB at 72.71KiB/s ETA 00:31[download]  59.3% of 5.30MiB at 72.72KiB/s ETA 00:30[download]  60.7% of 5.30MiB at 72.89KiB/s ETA 00:29[download]  62.2% of 5.30MiB at 72.91KiB/s ETA 00:28[download]  63.5% of 5.30MiB at 72.75KiB/s ETA 00:27[download]  64.7% of 5.30MiB at 72.81KiB/s ETA 00:26[download]  66.1% of 5.30MiB at 72.72KiB/s ETA 00:25[download]  67.4% of 5.30MiB at 72.82KiB/s ETA 00:24[download]  68.8% of 5.30MiB at 72.77KiB/s ETA 00:23[download]  70.1% of 5.30MiB at 72.58KiB/s ETA 00:22[download]  71.3% of 5.30MiB at 72.64KiB/s ETA 00:21[download]  72.7% of 5.30MiB at 72.78KiB/s ETA 00:20[download]  74.2% of 5.30MiB at 72.86KiB/s ETA 00:19[download]  75.6% of 5.30MiB at 72.73KiB/s ETA 00:18[download]  76.8% of 5.30MiB at 72.79KiB/s ETA 00:17[download]  78.3% of 5.30MiB at 72.79KiB/s ETA 00:16[download]  79.6% of 5.30MiB at 72.69KiB/s ETA 00:15[download]  80.8% of 5.30MiB at 72.73KiB/s ETA 00:14[download]  82.2% of 5.30MiB at 72.58KiB/s ETA 00:13[download]  83.4% of 5.30MiB at 72.61KiB/s ETA 00:12[download]  84.8% of 5.30MiB at 72.76KiB/s ETA 00:11[download]  86.3% of 5.30MiB at 72.82KiB/s ETA 00:10[download]  87.7% of 5.30MiB at 72.75KiB/s ETA 00:09[download]  89.0% of 5.30MiB at 72.56KiB/s ETA 00:08[download]  90.1% of 5.30MiB at 72.76KiB/s ETA 00:07[download]  91.8% of 5.30MiB at 72.78KiB/s ETA 00:06[download]  93.2% of 5.30MiB at 72.68KiB/s ETA 00:05[download]  94.4% of 5.30MiB at 72.70KiB/s ETA 00:04[download]  95.8% of 5.30MiB at 72.64KiB/s ETA 00:03[download]  97.1% of 5.30MiB at 72.69KiB/s ETA 00:02[download]  98.5% of 5.30MiB at 72.63KiB/s ETA 00:01[download]  99.7% of 5.30MiB at 72.70KiB/s ETA 00:00[download] 100.0% of 5.30MiB at 72.85KiB/s ETA 00:00[download] 100% of 5.30MiB in 01:14
+Exist: 瞳をとじて Hitomi wo Tojite   平井 堅 Hirai Ken 日本語歌詞付き+ ローマ字 romaji + letras em português
 
 Exist: 信樂團 - 假如『假如時光倒流 我能做什麼』【動態歌詞Lyrics】
 
@@ -2023,7 +2020,6 @@ Exist: 【MAD】Missing You
 Exist: 一首好聽的日文歌~泥中に咲く(ウォルピスカーター)【中日字幕】
 
 Exist: 一首好聽的日文歌~泥中に咲く(ウォルピスカーター)【中日字幕】
-[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: 全球顶级史诗神曲《Victory》，气势磅礴的空灵仙音，太震撼了！
 
@@ -2220,6 +2216,7 @@ Exist: YOASOBI - 夜に駆ける / THE HOME TAKE
 Exist: 米津玄師 vs Aimer MASHUP!!  feat. 天邑 | cover
 
 Exist: 【女性が歌う】あとひとつ/FUNKY MONKEY BABYS (Covered by コバソロ & こぴ)
+[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: 陳雪凝 - 你的酒館對我打了烊【動態歌詞Lyrics】
 
