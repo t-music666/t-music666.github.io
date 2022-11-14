@@ -2,418 +2,424 @@
 [download] Downloading playlist: Sami's music
 [youtube:tab] Downloading page 1
 [youtube:tab] Downloading page 2
-[youtube:tab] playlist Sami's music: Downloading 204 videos
-[download] Downloading video 1 of 204
+[youtube:tab] playlist Sami's music: Downloading 207 videos
+[download] Downloading video 1 of 207
 [youtube] mK9Be_3r9-U: Downloading webpage
-[download] Downloading video 2 of 204
+[download] Downloading video 2 of 207
 [youtube] Zn8M6mcGNoo: Downloading webpage
-[download] Downloading video 3 of 204
+[download] Downloading video 3 of 207
 [youtube] cXeo2yn22z0: Downloading webpage
-[download] Downloading video 4 of 204
+[download] Downloading video 4 of 207
 [youtube] bh36ojUCjzg: Downloading webpage
-[download] Downloading video 5 of 204
+[download] Downloading video 5 of 207
 [youtube] VkMHmcc5yO8: Downloading webpage
-[download] Downloading video 6 of 204
+[download] Downloading video 6 of 207
 [youtube] m68uKYAuhrI: Downloading webpage
-[download] Downloading video 7 of 204
+[download] Downloading video 7 of 207
 [youtube] TbFSpvlaugc: Downloading webpage
-[download] Downloading video 8 of 204
+[download] Downloading video 8 of 207
 [youtube] VJy8qZ77bpE: Downloading webpage
-[download] Downloading video 9 of 204
+[download] Downloading video 9 of 207
 [youtube] GJI4Gv7NbmE: Downloading webpage
-[download] Downloading video 10 of 204
+[download] Downloading video 10 of 207
 [youtube] nROvY9uiYYk: Downloading webpage
-[download] Downloading video 11 of 204
+[download] Downloading video 11 of 207
 [youtube] 40dJS_LC6S8: Downloading webpage
-[download] Downloading video 12 of 204
+[download] Downloading video 12 of 207
 [youtube] dpMVLrdzhuY: Downloading webpage
-[download] Downloading video 13 of 204
+[download] Downloading video 13 of 207
 [youtube] ec7H8oXiSSs: Downloading webpage
-[download] Downloading video 14 of 204
+[download] Downloading video 14 of 207
 [youtube] xPyCjiHIUVw: Downloading webpage
-[download] Downloading video 15 of 204
+[download] Downloading video 15 of 207
 [youtube] NCNCcpZKzio: Downloading webpage
-[download] Downloading video 16 of 204
+[download] Downloading video 16 of 207
 [youtube] 6o3vN8AfkRk: Downloading webpage
-[download] Downloading video 17 of 204
+[download] Downloading video 17 of 207
 [youtube] N5HxbW_OcJI: Downloading webpage
-[download] Downloading video 18 of 204
+[download] Downloading video 18 of 207
 [youtube] JpebHOg6RHA: Downloading webpage
-[download] Downloading video 19 of 204
+[download] Downloading video 19 of 207
 [youtube] bzUOXxJWzOY: Downloading webpage
-[download] Downloading video 20 of 204
+[download] Downloading video 20 of 207
 [youtube] QQPVQFyL0_Y: Downloading webpage
-[download] Downloading video 21 of 204
+[download] Downloading video 21 of 207
 [youtube] 6cgQ76eEYAU: Downloading webpage
-[download] Downloading video 22 of 204
+[download] Downloading video 22 of 207
 [youtube] FkaxczyyavE: Downloading webpage
-[download] Downloading video 23 of 204
+[download] Downloading video 23 of 207
 [youtube] NFVWSq_H6n0: Downloading webpage
-[download] Downloading video 24 of 204
+[download] Downloading video 24 of 207
 [youtube] etEy-NbC3Rc: Downloading webpage
-[download] Downloading video 25 of 204
+[download] Downloading video 25 of 207
 [youtube] qbf7W85Iu9w: Downloading webpage
-[download] Downloading video 26 of 204
+[download] Downloading video 26 of 207
 [youtube] A83q5bQquJc: Downloading webpage
-[download] Downloading video 27 of 204
+[download] Downloading video 27 of 207
 [youtube] 01JGlZBH4zI: Downloading webpage
-[download] Downloading video 28 of 204
+[download] Downloading video 28 of 207
 [youtube] ___KCYtANNQ: Downloading webpage
-[download] Downloading video 29 of 204
+[download] Downloading video 29 of 207
 [youtube] sGYLIlCQWtw: Downloading webpage
-[download] Downloading video 30 of 204
+[download] Downloading video 30 of 207
 [youtube] fFi6KN3AGyA: Downloading webpage
-[download] Downloading video 31 of 204
+[download] Downloading video 31 of 207
 [youtube] 4EUeW176BAw: Downloading webpage
-[download] Downloading video 32 of 204
+[download] Downloading video 32 of 207
 [youtube] ALXxQffcZOk: Downloading webpage
-[download] Downloading video 33 of 204
+[download] Downloading video 33 of 207
 [youtube] ODOEt3_A6qM: Downloading webpage
-[download] Downloading video 34 of 204
+[download] Downloading video 34 of 207
 [youtube] lmRMF8k4qgQ: Downloading webpage
-[download] Downloading video 35 of 204
+[download] Downloading video 35 of 207
 [youtube] J-9YAXTSRNU: Downloading webpage
-[download] Downloading video 36 of 204
+[download] Downloading video 36 of 207
 [youtube] 9PGeNOzu-us: Downloading webpage
-[download] Downloading video 37 of 204
+[download] Downloading video 37 of 207
 [youtube] naJE1iG09Co: Downloading webpage
-[download] Downloading video 38 of 204
+[download] Downloading video 38 of 207
 [youtube] cREAHvB02RQ: Downloading webpage
-[download] Downloading video 39 of 204
+[download] Downloading video 39 of 207
 [youtube] CMJv5Ghopaw: Downloading webpage
-[download] Downloading video 40 of 204
+[download] Downloading video 40 of 207
 [youtube] oaSVh2ul408: Downloading webpage
-[download] Downloading video 41 of 204
+[download] Downloading video 41 of 207
 [youtube] FJ-AhiGtkyc: Downloading webpage
-[download] Downloading video 42 of 204
+[download] Downloading video 42 of 207
 [youtube] 8f_TlvVW_U4: Downloading webpage
-[download] Downloading video 43 of 204
+[download] Downloading video 43 of 207
 [youtube] YV2tAgTQ6dY: Downloading webpage
-[download] Downloading video 44 of 204
+[download] Downloading video 44 of 207
 [youtube] dWR9Fmypx4w: Downloading webpage
-[download] Downloading video 45 of 204
+[download] Downloading video 45 of 207
 [youtube] Gz83g-82Q9c: Downloading webpage
-[download] Downloading video 46 of 204
+[download] Downloading video 46 of 207
 [youtube] k_ZlggAJlJA: Downloading webpage
-[download] Downloading video 47 of 204
+[download] Downloading video 47 of 207
 [youtube] DGH5f9J7GjU: Downloading webpage
 [youtube] DGH5f9J7GjU: Downloading MPD manifest
-[download] Downloading video 48 of 204
+[download] Downloading video 48 of 207
 [youtube] y0IEWo-JdkM: Downloading webpage
-[download] Downloading video 49 of 204
+[download] Downloading video 49 of 207
 [youtube] shaD2xxXJ8o: Downloading webpage
-[download] Downloading video 50 of 204
+[download] Downloading video 50 of 207
 [youtube] vZNgzfbHV38: Downloading webpage
-[download] Downloading video 51 of 204
+[download] Downloading video 51 of 207
 [youtube] bXmeaK6xIcQ: Downloading webpage
-[download] Downloading video 52 of 204
+[download] Downloading video 52 of 207
 [youtube] tpE9e2BAty0: Downloading webpage
-[download] Downloading video 53 of 204
+[download] Downloading video 53 of 207
 [youtube] 4H7Y7mOP-rc: Downloading webpage
-[download] Downloading video 54 of 204
+[download] Downloading video 54 of 207
 [youtube] 5mzsD2rfR94: Downloading webpage
-[download] Downloading video 55 of 204
+[download] Downloading video 55 of 207
 [youtube] AESxdwF5rt0: Downloading webpage
-[download] Downloading video 56 of 204
+[download] Downloading video 56 of 207
 [youtube] PRVA7Q62Y-o: Downloading webpage
-[download] Downloading video 57 of 204
+[download] Downloading video 57 of 207
 [youtube] jfuCxlVUngE: Downloading webpage
-[download] Downloading video 58 of 204
+[download] Downloading video 58 of 207
 [youtube] vxbYPd3WkBE: Downloading webpage
-[download] Downloading video 59 of 204
+[download] Downloading video 59 of 207
 [youtube] VrO9EWbt9mc: Downloading webpage
-[download] Downloading video 60 of 204
+[download] Downloading video 60 of 207
 [youtube] MuvM1YZQX0A: Downloading webpage
-[download] Downloading video 61 of 204
+[download] Downloading video 61 of 207
 [youtube] I1ZHSS0lHIA: Downloading webpage
-[download] Downloading video 62 of 204
+[download] Downloading video 62 of 207
 [youtube] utzEu5QBQ9k: Downloading webpage
-[download] Downloading video 63 of 204
+[download] Downloading video 63 of 207
 [youtube] mWRsgZuwf_8: Downloading webpage
-[download] Downloading video 64 of 204
+[download] Downloading video 64 of 207
 [youtube] zOMvDCRWBLI: Downloading webpage
-[download] Downloading video 65 of 204
+[download] Downloading video 65 of 207
 [youtube] 8u67yZb7bSM: Downloading webpage
-[download] Downloading video 66 of 204
+[download] Downloading video 66 of 207
 [youtube] v9wrDGfYCWA: Downloading webpage
-[download] Downloading video 67 of 204
+[download] Downloading video 67 of 207
 [youtube] E0q7B1W6ANs: Downloading webpage
-[download] Downloading video 68 of 204
+[download] Downloading video 68 of 207
 [youtube] DMCph9RyJ_w: Downloading webpage
-[download] Downloading video 69 of 204
+[download] Downloading video 69 of 207
 [youtube] cxmnFypS030: Downloading webpage
-[download] Downloading video 70 of 204
+[download] Downloading video 70 of 207
 [youtube] jM8dCGIm6yc: Downloading webpage
-[download] Downloading video 71 of 204
+[download] Downloading video 71 of 207
 [youtube] grdy6rLbQ-c: Downloading webpage
-[download] Downloading video 72 of 204
+[download] Downloading video 72 of 207
 [youtube] KushW6zvazM: Downloading webpage
-[download] Downloading video 73 of 204
+[download] Downloading video 73 of 207
 [youtube] 7JqS08ndGKQ: Downloading webpage
-[download] Downloading video 74 of 204
+[download] Downloading video 74 of 207
 [youtube] au4HNS2Y14g: Downloading webpage
-[download] Downloading video 75 of 204
+[download] Downloading video 75 of 207
 [youtube] EcsfML4EAVc: Downloading webpage
-[download] Downloading video 76 of 204
+[download] Downloading video 76 of 207
 [youtube] X2-jvUrTkAU: Downloading webpage
-[download] Downloading video 77 of 204
+[download] Downloading video 77 of 207
 [youtube] clU8c2fpk2s: Downloading webpage
-[download] Downloading video 78 of 204
+[download] Downloading video 78 of 207
 [youtube] y5wkebBCwAE: Downloading webpage
-[download] Downloading video 79 of 204
+[download] Downloading video 79 of 207
 [youtube] o6wtDPVkKqI: Downloading webpage
-[download] Downloading video 80 of 204
+[download] Downloading video 80 of 207
 [youtube] 9z_b0Z9T2Zc: Downloading webpage
-[download] Downloading video 81 of 204
+[download] Downloading video 81 of 207
 [youtube] _6Y1fsbgxaE: Downloading webpage
-[download] Downloading video 82 of 204
+[download] Downloading video 82 of 207
 [youtube] fCTzROgaZbU: Downloading webpage
-[download] Downloading video 83 of 204
+[download] Downloading video 83 of 207
 [youtube] Z4J5sH0-S7c: Downloading webpage
-[download] Downloading video 84 of 204
+[download] Downloading video 84 of 207
 [youtube] -f2vcJToADo: Downloading webpage
-[download] Downloading video 85 of 204
+[download] Downloading video 85 of 207
 [youtube] j7CDb610Bg0: Downloading webpage
-[download] Downloading video 86 of 204
+[download] Downloading video 86 of 207
 [youtube] TiIR1lHMqKw: Downloading webpage
-[download] Downloading video 87 of 204
+[download] Downloading video 87 of 207
 [youtube] sLz2CsN0NZU: Downloading webpage
-[download] Downloading video 88 of 204
+[download] Downloading video 88 of 207
 [youtube] fBO8T2PLrrY: Downloading webpage
-[download] Downloading video 89 of 204
+[download] Downloading video 89 of 207
 [youtube] ZdvOi3p4Ybc: Downloading webpage
-[download] Downloading video 90 of 204
+[download] Downloading video 90 of 207
 [youtube] BalTlR8kTDw: Downloading webpage
-[download] Downloading video 91 of 204
+[download] Downloading video 91 of 207
 [youtube] M_CWNFBBAiI: Downloading webpage
-[download] Downloading video 92 of 204
+[download] Downloading video 92 of 207
 [youtube] -aMdBA00Ijc: Downloading webpage
-[download] Downloading video 93 of 204
+[download] Downloading video 93 of 207
 [youtube] dDV36GmFP20: Downloading webpage
-[download] Downloading video 94 of 204
+[download] Downloading video 94 of 207
 [youtube] Oi2261-l7nY: Downloading webpage
-[download] Downloading video 95 of 204
+[download] Downloading video 95 of 207
 [youtube] 6M_xg4hLbQs: Downloading webpage
-[download] Downloading video 96 of 204
+[download] Downloading video 96 of 207
 [youtube] HyfrbLAEUGk: Downloading webpage
-[download] Downloading video 97 of 204
+[download] Downloading video 97 of 207
 [youtube] qgnMRNoT-PM: Downloading webpage
-[download] Downloading video 98 of 204
+[download] Downloading video 98 of 207
 [youtube] DJnexzGhNAw: Downloading webpage
-[download] Downloading video 99 of 204
+[download] Downloading video 99 of 207
 [youtube] DgQk_Lq6ec8: Downloading webpage
-[download] Downloading video 100 of 204
+[download] Downloading video 100 of 207
 [youtube] _1enDIXa4c0: Downloading webpage
-[download] Downloading video 101 of 204
+[download] Downloading video 101 of 207
 [youtube] -VKIqrvVOpo: Downloading webpage
-[download] Downloading video 102 of 204
+[download] Downloading video 102 of 207
 [youtube] HQ_mU73VhEQ: Downloading webpage
-[download] Downloading video 103 of 204
+[download] Downloading video 103 of 207
 [youtube] 3Y0Ut5ozaKs: Downloading webpage
-[download] Downloading video 104 of 204
+[download] Downloading video 104 of 207
 [youtube] TLWkm-SNDS8: Downloading webpage
-[download] Downloading video 105 of 204
+[download] Downloading video 105 of 207
 [youtube] 9aJVr5tTTWk: Downloading webpage
-[download] Downloading video 106 of 204
+[download] Downloading video 106 of 207
 [youtube] BQaWQZDdMtg: Downloading webpage
-[download] Downloading video 107 of 204
+[download] Downloading video 107 of 207
 [youtube] VoSVmrwlvMU: Downloading webpage
-[download] Downloading video 108 of 204
+[download] Downloading video 108 of 207
 [youtube] maKok2RItxM: Downloading webpage
-[download] Downloading video 109 of 204
+[download] Downloading video 109 of 207
 [youtube] HSUlFnGzNAs: Downloading webpage
-[download] Downloading video 110 of 204
+[download] Downloading video 110 of 207
 [youtube] CmH4BAd_Wjw: Downloading webpage
-[download] Downloading video 111 of 204
+[download] Downloading video 111 of 207
 [youtube] wO0RwUZFOqc: Downloading webpage
-[download] Downloading video 112 of 204
+[download] Downloading video 112 of 207
 [youtube] -lT6VwkNRKA: Downloading webpage
-[download] Downloading video 113 of 204
+[download] Downloading video 113 of 207
 [youtube] vXZXhXuc-j4: Downloading webpage
-[download] Downloading video 114 of 204
+[download] Downloading video 114 of 207
 [youtube] TI89WWXPc2g: Downloading webpage
-[download] Downloading video 115 of 204
+[download] Downloading video 115 of 207
 [youtube] jHbzxuUiXrA: Downloading webpage
-[download] Downloading video 116 of 204
+[download] Downloading video 116 of 207
 [youtube] iJPhnP6_X1U: Downloading webpage
-[download] Downloading video 117 of 204
+[download] Downloading video 117 of 207
 [youtube] CU-GmN02q_Y: Downloading webpage
-[download] Downloading video 118 of 204
+[download] Downloading video 118 of 207
 [youtube] JPZ-QyVBOf8: Downloading webpage
-[download] Downloading video 119 of 204
+[download] Downloading video 119 of 207
 [youtube] _W6t0Lrn_S0: Downloading webpage
-[download] Downloading video 120 of 204
+[download] Downloading video 120 of 207
 [youtube] duZKftWQ0Y0: Downloading webpage
-[download] Downloading video 121 of 204
+[download] Downloading video 121 of 207
 [youtube] VscHJWgmqNE: Downloading webpage
-[download] Downloading video 122 of 204
+[download] Downloading video 122 of 207
 [youtube] C-o8pTi6vd8: Downloading webpage
-[download] Downloading video 123 of 204
+[download] Downloading video 123 of 207
 [youtube] ElnxZtiBDvs: Downloading webpage
-[download] Downloading video 124 of 204
+[download] Downloading video 124 of 207
 [youtube] xrEZOpHZYGc: Downloading webpage
-[download] Downloading video 125 of 204
+[download] Downloading video 125 of 207
 [youtube] V-NqqAJmFGo: Downloading webpage
-[download] Downloading video 126 of 204
+[download] Downloading video 126 of 207
 [youtube] ShAtr5va8ZM: Downloading webpage
-[download] Downloading video 127 of 204
+[download] Downloading video 127 of 207
 [youtube] lyzjJYugE3o: Downloading webpage
-[download] Downloading video 128 of 204
+[download] Downloading video 128 of 207
 [youtube] GWPLy3UT2Ss: Downloading webpage
-[download] Downloading video 129 of 204
+[download] Downloading video 129 of 207
 [youtube] mdC6cq_n08I: Downloading webpage
-[download] Downloading video 130 of 204
+[download] Downloading video 130 of 207
 [youtube] jiZOPmvUlY0: Downloading webpage
-[download] Downloading video 131 of 204
+[download] Downloading video 131 of 207
 [youtube] yZ3TL2yCmoU: Downloading webpage
-[download] Downloading video 132 of 204
+[download] Downloading video 132 of 207
 [youtube] EozcWVPBbkk: Downloading webpage
-[download] Downloading video 133 of 204
+[download] Downloading video 133 of 207
 [youtube] JaBmR8tC1oU: Downloading webpage
-[download] Downloading video 134 of 204
+[download] Downloading video 134 of 207
 [youtube] hzWDXge2ANM: Downloading webpage
-[download] Downloading video 135 of 204
+[download] Downloading video 135 of 207
 [youtube] dOAMvCyXXQo: Downloading webpage
-[download] Downloading video 136 of 204
+[download] Downloading video 136 of 207
 [youtube] JTgzyFXmI3w: Downloading webpage
-[download] Downloading video 137 of 204
+[download] Downloading video 137 of 207
 [youtube] JQAl_bQVOBs: Downloading webpage
-[download] Downloading video 138 of 204
+[download] Downloading video 138 of 207
 [youtube] I2aRWzB3KIQ: Downloading webpage
 [youtube] I2aRWzB3KIQ: Downloading MPD manifest
-[download] Downloading video 139 of 204
+[download] Downloading video 139 of 207
 [youtube] 4OT5SAiA1QI: Downloading webpage
-[download] Downloading video 140 of 204
+[download] Downloading video 140 of 207
 [youtube] BiFhAkswezg: Downloading webpage
-[download] Downloading video 141 of 204
+[download] Downloading video 141 of 207
 [youtube] qV2Nf6mHWBI: Downloading webpage
-[download] Downloading video 142 of 204
+[download] Downloading video 142 of 207
 [youtube] qpbX7SbXOtU: Downloading webpage
-[download] Downloading video 143 of 204
+[download] Downloading video 143 of 207
 [youtube] noKtJm4Prhg: Downloading webpage
-[download] Downloading video 144 of 204
+[download] Downloading video 144 of 207
 [youtube] H5gW-mwKkLA: Downloading webpage
-[download] Downloading video 145 of 204
+[download] Downloading video 145 of 207
 [youtube] dfe6LT9VCBc: Downloading webpage
-[download] Downloading video 146 of 204
+[download] Downloading video 146 of 207
 [youtube] LxC0kD-GuBQ: Downloading webpage
-[download] Downloading video 147 of 204
+[download] Downloading video 147 of 207
 [youtube] N03WobKfdlY: Downloading webpage
-[download] Downloading video 148 of 204
+[download] Downloading video 148 of 207
 [youtube] ZEy36W1xX8c: Downloading webpage
-[download] Downloading video 149 of 204
+[download] Downloading video 149 of 207
 [youtube] hL-lijONWFI: Downloading webpage
-[download] Downloading video 150 of 204
+[download] Downloading video 150 of 207
 [youtube] DSy9D8i51dw: Downloading webpage
-[download] Downloading video 151 of 204
+[download] Downloading video 151 of 207
 [youtube] cCuKxPXMf6g: Downloading webpage
-[download] Downloading video 152 of 204
+[download] Downloading video 152 of 207
 [youtube] nkZSCsm8hkM: Downloading webpage
-[download] Downloading video 153 of 204
+[download] Downloading video 153 of 207
 [youtube] B3dRbr2r5W0: Downloading webpage
-[download] Downloading video 154 of 204
+[download] Downloading video 154 of 207
 [youtube] N_3lkHuFq4U: Downloading webpage
 [youtube] N_3lkHuFq4U: Downloading MPD manifest
-[download] Downloading video 155 of 204
+[download] Downloading video 155 of 207
 [youtube] 92WFE6Z-ShI: Downloading webpage
-[download] Downloading video 156 of 204
+[download] Downloading video 156 of 207
 [youtube] aZQf96ZpuSY: Downloading webpage
-[download] Downloading video 157 of 204
+[download] Downloading video 157 of 207
 [youtube] -I--cdqDbdU: Downloading webpage
-[download] Downloading video 158 of 204
+[download] Downloading video 158 of 207
 [youtube] vwKPlFirFG8: Downloading webpage
-[download] Downloading video 159 of 204
+[download] Downloading video 159 of 207
 [youtube] kv4UD4ICd_0: Downloading webpage
-[download] Downloading video 160 of 204
+[download] Downloading video 160 of 207
 [youtube] xAKsaP96pwg: Downloading webpage
-[download] Downloading video 161 of 204
+[download] Downloading video 161 of 207
 [youtube] BWmO6SCYhRc: Downloading webpage
-[download] Downloading video 162 of 204
+[download] Downloading video 162 of 207
 [youtube] SRmhjkqfCmM: Downloading webpage
-[download] Downloading video 163 of 204
+[download] Downloading video 163 of 207
 [youtube] _0DmXKXJ-no: Downloading webpage
-[download] Downloading video 164 of 204
+[download] Downloading video 164 of 207
 [youtube] HFkjuba1_w8: Downloading webpage
-[download] Downloading video 165 of 204
+[download] Downloading video 165 of 207
 [youtube] Vke5r-x0B-4: Downloading webpage
-[download] Downloading video 166 of 204
+[download] Downloading video 166 of 207
 [youtube] Isb7Q4jEA04: Downloading webpage
-[download] Downloading video 167 of 204
+[download] Downloading video 167 of 207
 [youtube] KTZ-y85Erus: Downloading webpage
-[download] Downloading video 168 of 204
+[download] Downloading video 168 of 207
 [youtube] ktGRO8tCBqs: Downloading webpage
-[download] Downloading video 169 of 204
+[download] Downloading video 169 of 207
 [youtube] PZGwZwGQTlk: Downloading webpage
-[download] Downloading video 170 of 204
+[download] Downloading video 170 of 207
 [youtube] Qh5QhWLB8PM: Downloading webpage
-[download] Downloading video 171 of 204
+[download] Downloading video 171 of 207
 [youtube] z94ur-O6JJk: Downloading webpage
-[download] Downloading video 172 of 204
+[download] Downloading video 172 of 207
 [youtube] aiBPJwSRq58: Downloading webpage
-[download] Downloading video 173 of 204
+[download] Downloading video 173 of 207
 [youtube] 1oaa3JZ63CU: Downloading webpage
-[download] Downloading video 174 of 204
+[download] Downloading video 174 of 207
 [youtube] Ya1e9xWdfQw: Downloading webpage
-[download] Downloading video 175 of 204
+[download] Downloading video 175 of 207
 [youtube] 2HHNF8Tpkcw: Downloading webpage
-[download] Downloading video 176 of 204
+[download] Downloading video 176 of 207
 [youtube] sEJKG60a1Zc: Downloading webpage
-[download] Downloading video 177 of 204
+[download] Downloading video 177 of 207
 [youtube] kzdJkT4kp-A: Downloading webpage
-[download] Downloading video 178 of 204
+[download] Downloading video 178 of 207
 [youtube] -lOk6msIgOE: Downloading webpage
-[download] Downloading video 179 of 204
+[download] Downloading video 179 of 207
 [youtube] fHpdvZ6wpes: Downloading webpage
-[download] Downloading video 180 of 204
+[download] Downloading video 180 of 207
 [youtube] qLMLzBYTTKQ: Downloading webpage
-[download] Downloading video 181 of 204
+[download] Downloading video 181 of 207
 [youtube] SEyAq7-Ertw: Downloading webpage
-[download] Downloading video 182 of 204
+[download] Downloading video 182 of 207
 [youtube] hKSFaMMBpOI: Downloading webpage
-[download] Downloading video 183 of 204
+[download] Downloading video 183 of 207
 [youtube] iAOTwdlEdVg: Downloading webpage
-[download] Downloading video 184 of 204
+[download] Downloading video 184 of 207
 [youtube] kkUWlcjmOew: Downloading webpage
-[download] Downloading video 185 of 204
+[download] Downloading video 185 of 207
 [youtube] uhRw3nE67aw: Downloading webpage
-[download] Downloading video 186 of 204
+[download] Downloading video 186 of 207
 [youtube] Ny_VT20IarY: Downloading webpage
-[download] Downloading video 187 of 204
+[download] Downloading video 187 of 207
 [youtube] u1GtMiKXE_E: Downloading webpage
-[download] Downloading video 188 of 204
+[download] Downloading video 188 of 207
 [youtube] u1GtMiKXE_E: Downloading webpage
-[download] Downloading video 189 of 204
+[download] Downloading video 189 of 207
 [youtube] mH5HjmIsPp0: Downloading webpage
-[download] Downloading video 190 of 204
+[download] Downloading video 190 of 207
 [youtube] 3yWYdp1053w: Downloading webpage
-[download] Downloading video 191 of 204
+[download] Downloading video 191 of 207
 [youtube] ULHQPm8hmVk: Downloading webpage
-[download] Downloading video 192 of 204
+[download] Downloading video 192 of 207
 [youtube] cm-l2h6GB8Q: Downloading webpage
-[download] Downloading video 193 of 204
+[download] Downloading video 193 of 207
 [youtube] nMpD5q5wqPM: Downloading webpage
-[download] Downloading video 194 of 204
+[download] Downloading video 194 of 207
 [youtube] sOiMD45QGLs: Downloading webpage
-[download] Downloading video 195 of 204
+[download] Downloading video 195 of 207
 [youtube] aYhHGEcbRYU: Downloading webpage
-[download] Downloading video 196 of 204
+[download] Downloading video 196 of 207
 [youtube] W0C_VJqjtpw: Downloading webpage
-[download] Downloading video 197 of 204
+[download] Downloading video 197 of 207
 [youtube] gmAzG0Rcl8g: Downloading webpage
-[download] Downloading video 198 of 204
+[download] Downloading video 198 of 207
 [youtube] 7GMPeHFy2Dk: Downloading webpage
-[download] Downloading video 199 of 204
+[download] Downloading video 199 of 207
 [youtube] cU22947XIYo: Downloading webpage
-[download] Downloading video 200 of 204
+[download] Downloading video 200 of 207
 [youtube] 0I4pQ2ve_fw: Downloading webpage
-[download] Downloading video 201 of 204
+[download] Downloading video 201 of 207
 [youtube] aaIjs8K3oYo: Downloading webpage
-[download] Downloading video 202 of 204
+[download] Downloading video 202 of 207
 [youtube] RTceGUAmdTM: Downloading webpage
-[download] Downloading video 203 of 204
+[download] Downloading video 203 of 207
 [youtube] YQSBMvX1b8k: Downloading webpage
-[download] Downloading video 204 of 204
+[download] Downloading video 204 of 207
 [youtube] LLCD929vdxM: Downloading webpage
+[download] Downloading video 205 of 207
+[youtube] aFYDTc104m4: Downloading webpage
+[download] Downloading video 206 of 207
+[youtube] _ym02HhKNcw: Downloading webpage
+[download] Downloading video 207 of 207
+[youtube] epgovgrMnxk: Downloading webpage
 [download] Finished downloading playlist: Sami's music
 
 Exist: Control T 〈明明就是溫柔的人〉Official Lyric Video
@@ -615,7 +621,7 @@ Exist: 【English sub 好声音】Aiuta - whiteeeen - 愛唄～since 2007～ 『
 Exist: sumika「 春夏秋冬」動畫版電影『我想吃掉你的胰臟』主題曲【中日歌詞】
 
 Exist: CHiCO with HoneyWorks 『世界は恋に落ちている』(Covered by コバソロ & 未来(ザ・フーパーズ))
-[youtube] YQSBMvX1b8k: Downloading webpage
+[youtube] aFYDTc104m4: Downloading webpage
 
 Exist: ヨルシカ - ただ君に晴れ (MUSIC VIDEO)
 
@@ -821,14 +827,23 @@ Exist: Hello
 
 Exist: Sincerely
 
-not Exist: haruhayuku (the late spring Version)
-[download] Destination: ./music/dARYQSBMvX1b8k.dAR
-[download]   0.0% of 5.15MiB at  5.15KiB/s ETA 17:04[download]   0.1% of 5.15MiB at 15.42KiB/s ETA 05:41[download]   0.1% of 5.15MiB at 35.93KiB/s ETA 02:26[download]   0.3% of 5.15MiB at 76.93KiB/s ETA 01:08[download]   0.6% of 5.15MiB at 72.01KiB/s ETA 01:12[download]   1.2% of 5.15MiB at 69.64KiB/s ETA 01:14[download]   2.4% of 5.15MiB at 68.50KiB/s ETA 01:15[download]   3.7% of 5.15MiB at 63.07KiB/s ETA 01:20[download]   4.7% of 5.15MiB at 65.32KiB/s ETA 01:16[download]   6.1% of 5.15MiB at 64.23KiB/s ETA 01:17[download]   7.3% of 5.15MiB at 63.98KiB/s ETA 01:16[download]   8.5% of 5.15MiB at 66.33KiB/s ETA 01:12[download]  10.1% of 5.15MiB at 64.63KiB/s ETA 01:13[download]  11.2% of 5.15MiB at 65.85KiB/s ETA 01:11[download]  12.7% of 5.15MiB at 66.05KiB/s ETA 01:09[download]  14.0% of 5.15MiB at 64.97KiB/s ETA 01:09[download]  15.1% of 5.15MiB at 65.66KiB/s ETA 01:08[download]  16.5% of 5.15MiB at 65.33KiB/s ETA 01:07[download]  17.7% of 5.15MiB at 65.22KiB/s ETA 01:06[download]  18.9% of 5.15MiB at 65.15KiB/s ETA 01:05[download]  20.1% of 5.15MiB at 65.22KiB/s ETA 01:04[download]  21.4% of 5.15MiB at 65.30KiB/s ETA 01:03[download]  22.6% of 5.15MiB at 65.49KiB/s ETA 01:02[download]  23.9% of 5.15MiB at 65.67KiB/s ETA 01:01[download]  25.2% of 5.15MiB at 65.17KiB/s ETA 01:00[download]  26.3% of 5.15MiB at 65.55KiB/s ETA 00:59[download]  27.8% of 5.15MiB at 65.40KiB/s ETA 00:58[download]  28.9% of 5.15MiB at 65.49KiB/s ETA 00:57[download]  30.2% of 5.15MiB at 65.65KiB/s ETA 00:56[download]  31.6% of 5.15MiB at 65.84KiB/s ETA 00:54[download]  32.9% of 5.15MiB at 65.44KiB/s ETA 00:54[download]  34.0% of 5.15MiB at 65.73KiB/s ETA 00:52[download]  35.4% of 5.15MiB at 65.61KiB/s ETA 00:51[download]  36.6% of 5.15MiB at 65.53KiB/s ETA 00:51[download]  37.8% of 5.15MiB at 65.52KiB/s ETA 00:50[download]  39.0% of 5.15MiB at 65.58KiB/s ETA 00:49[download]  40.3% of 5.15MiB at 65.64KiB/s ETA 00:47[download]  41.6% of 5.15MiB at 65.26KiB/s ETA 00:47[download]  42.6% of 5.15MiB at 65.60KiB/s ETA 00:46[download]  44.2% of 5.15MiB at 65.56KiB/s ETA 00:44[download]  45.4% of 5.15MiB at 65.67KiB/s ETA 00:43[download]  46.8% of 5.15MiB at 65.38KiB/s ETA 00:42[download]  47.8% of 5.15MiB at 65.61KiB/s ETA 00:41[download]  49.3% of 5.15MiB at 65.56KiB/s ETA 00:40[download]  50.5% of 5.15MiB at 65.54KiB/s ETA 00:39[download]  51.7% of 5.15MiB at 65.56KiB/s ETA 00:38[download]  53.0% of 5.15MiB at 65.59KiB/s ETA 00:37[download]  54.3% of 5.15MiB at 65.66KiB/s ETA 00:36[download]  55.6% of 5.15MiB at 65.40KiB/s ETA 00:35[download]  56.6% of 5.15MiB at 65.57KiB/s ETA 00:34[download]  58.1% of 5.15MiB at 65.48KiB/s ETA 00:33[download]  59.3% of 5.15MiB at 65.51KiB/s ETA 00:32[download]  60.5% of 5.15MiB at 65.58KiB/s ETA 00:31[download]  61.9% of 5.15MiB at 65.67KiB/s ETA 00:30[download]  63.2% of 5.15MiB at 65.47KiB/s ETA 00:29[download]  64.3% of 5.15MiB at 65.66KiB/s ETA 00:28[download]  65.8% of 5.15MiB at 65.62KiB/s ETA 00:27[download]  67.0% of 5.15MiB at 65.60KiB/s ETA 00:26[download]  68.2% of 5.15MiB at 65.62KiB/s ETA 00:25[download]  69.5% of 5.15MiB at 65.64KiB/s ETA 00:24[download]  70.7% of 5.15MiB at 65.40KiB/s ETA 00:23[download]  71.8% of 5.15MiB at 65.52KiB/s ETA 00:22[download]  73.2% of 5.15MiB at 65.49KiB/s ETA 00:21[download]  74.4% of 5.15MiB at 65.49KiB/s ETA 00:20[download]  75.6% of 5.15MiB at 65.51KiB/s ETA 00:19[download]  76.9% of 5.15MiB at 65.55KiB/s ETA 00:18[download]  78.2% of 5.15MiB at 65.57KiB/s ETA 00:17[download]  79.4% of 5.15MiB at 65.61KiB/s ETA 00:16[download]  80.7% of 5.15MiB at 65.48KiB/s ETA 00:15[download]  81.8% of 5.15MiB at 65.64KiB/s ETA 00:14[download]  83.4% of 5.15MiB at 65.63KiB/s ETA 00:13[download]  84.6% of 5.15MiB at 65.64KiB/s ETA 00:12[download]  85.9% of 5.15MiB at 65.67KiB/s ETA 00:11[download]  87.1% of 5.15MiB at 65.48KiB/s ETA 00:10[download]  88.2% of 5.15MiB at 65.57KiB/s ETA 00:09[download]  89.6% of 5.15MiB at 65.49KiB/s ETA 00:08[download]  90.7% of 5.15MiB at 65.45KiB/s ETA 00:07[download]  91.9% of 5.15MiB at 65.65KiB/s ETA 00:06[download]  93.6% of 5.15MiB at 65.51KiB/s ETA 00:05[download]  94.7% of 5.15MiB at 65.69KiB/s ETA 00:04[download]  96.3% of 5.15MiB at 65.57KiB/s ETA 00:02[download]  97.4% of 5.15MiB at 65.50KiB/s ETA 00:02[download]  98.6% of 5.15MiB at 65.65KiB/s ETA 00:01[download] 100.0% of 5.15MiB at 65.69KiB/s ETA 00:00[download] 100% of 5.15MiB in 01:20
-[youtube] LLCD929vdxM: Downloading webpage
+Exist: haruhayuku (the late spring Version)
 
-not Exist: 叛逆のメテオドライヴ / ANGL -Cover- ウォルピスカーター
-[download] Destination: ./music/YT0LLCD929vdxM.YT0
-[download]   0.0% of 3.52MiB at  3.99KiB/s ETA 15:04[download]   0.1% of 3.52MiB at 11.95KiB/s ETA 05:01[download]   0.2% of 3.52MiB at 27.84KiB/s ETA 02:09[download]   0.4% of 3.52MiB at 59.53KiB/s ETA 01:00[download]   0.9% of 3.52MiB at 65.84KiB/s ETA 00:54[download]   1.7% of 3.52MiB at 63.66KiB/s ETA 00:55[download]   3.5% of 3.52MiB at 61.52KiB/s ETA 00:56[download]   5.1% of 3.52MiB at 59.22KiB/s ETA 00:57[download]   6.6% of 3.52MiB at 61.49KiB/s ETA 00:54[download]   8.6% of 3.52MiB at 59.19KiB/s ETA 00:55[download]  10.0% of 3.52MiB at 60.04KiB/s ETA 00:54[download]  11.9% of 3.52MiB at 60.12KiB/s ETA 00:52[download]  13.5% of 3.52MiB at 59.72KiB/s ETA 00:52[download]  15.1% of 3.52MiB at 58.90KiB/s ETA 00:52[download]  16.6% of 3.52MiB at 59.44KiB/s ETA 00:50[download]  18.4% of 3.52MiB at 59.87KiB/s ETA 00:49[download]  20.2% of 3.52MiB at 59.69KiB/s ETA 00:48[download]  21.8% of 3.52MiB at 59.50KiB/s ETA 00:47[download]  23.4% of 3.52MiB at 60.18KiB/s ETA 00:45[download]  25.3% of 3.52MiB at 59.56KiB/s ETA 00:45[download]  26.8% of 3.52MiB at 59.90KiB/s ETA 00:44[download]  28.6% of 3.52MiB at 59.98KiB/s ETA 00:42[download]  30.3% of 3.52MiB at 59.84KiB/s ETA 00:42[download]  31.9% of 3.52MiB at 59.47KiB/s ETA 00:41[download]  33.4% of 3.52MiB at 59.82KiB/s ETA 00:40[download]  35.3% of 3.52MiB at 59.98KiB/s ETA 00:38[download]  37.0% of 3.52MiB at 59.95KiB/s ETA 00:37[download]  38.7% of 3.52MiB at 59.63KiB/s ETA 00:37[download]  40.2% of 3.52MiB at 59.85KiB/s ETA 00:36[download]  42.0% of 3.52MiB at 60.08KiB/s ETA 00:34[download]  43.8% of 3.52MiB at 60.14KiB/s ETA 00:33[download]  45.5% of 3.52MiB at 60.07KiB/s ETA 00:32[download]  47.1% of 3.52MiB at 59.83KiB/s ETA 00:31[download]  48.6% of 3.52MiB at 60.03KiB/s ETA 00:30[download]  50.5% of 3.52MiB at 60.14KiB/s ETA 00:29[download]  52.2% of 3.52MiB at 60.08KiB/s ETA 00:28[download]  53.9% of 3.52MiB at 59.91KiB/s ETA 00:27[download]  55.4% of 3.52MiB at 60.13KiB/s ETA 00:26[download]  57.3% of 3.52MiB at 59.78KiB/s ETA 00:25[download]  58.7% of 3.52MiB at 59.87KiB/s ETA 00:24[download]  60.5% of 3.52MiB at 59.88KiB/s ETA 00:23[download]  62.1% of 3.52MiB at 59.87KiB/s ETA 00:22[download]  63.8% of 3.52MiB at 60.17KiB/s ETA 00:21[download]  65.8% of 3.52MiB at 59.98KiB/s ETA 00:20[download]  67.4% of 3.52MiB at 60.15KiB/s ETA 00:19[download]  69.3% of 3.52MiB at 59.85KiB/s ETA 00:18[download]  70.7% of 3.52MiB at 59.92KiB/s ETA 00:17[download]  72.4% of 3.52MiB at 59.92KiB/s ETA 00:16[download]  74.1% of 3.52MiB at 59.84KiB/s ETA 00:15[download]  75.6% of 3.52MiB at 60.02KiB/s ETA 00:14[download]  77.6% of 3.52MiB at 59.81KiB/s ETA 00:13[download]  79.1% of 3.52MiB at 59.90KiB/s ETA 00:12[download]  80.9% of 3.52MiB at 59.91KiB/s ETA 00:11[download]  82.5% of 3.52MiB at 59.85KiB/s ETA 00:10[download]  84.1% of 3.52MiB at 60.02KiB/s ETA 00:09[download]  86.1% of 3.52MiB at 59.91KiB/s ETA 00:08[download]  87.6% of 3.52MiB at 60.06KiB/s ETA 00:07[download]  89.5% of 3.52MiB at 60.17KiB/s ETA 00:06[download]  91.4% of 3.52MiB at 59.89KiB/s ETA 00:05[download]  92.7% of 3.52MiB at 59.89KiB/s ETA 00:04[download]  94.4% of 3.52MiB at 60.07KiB/s ETA 00:03[download]  96.4% of 3.52MiB at 59.96KiB/s ETA 00:02[download]  97.9% of 3.52MiB at 60.06KiB/s ETA 00:01[download]  99.8% of 3.52MiB at 59.99KiB/s ETA 00:00[download] 100.0% of 3.52MiB at 60.14KiB/s ETA 00:00[download] 100% of 3.52MiB in 01:00
+Exist: 叛逆のメテオドライヴ / ANGL -Cover- ウォルピスカーター
+
+not Exist: ZAYDE WOLF x FJØRA -  HURRICANE (Official Lyric Video)
+[download] Destination: ./music/g4AaFYDTc104m4.g4A
+[download]   0.0% of 4.09MiB at  4.01KiB/s ETA 17:26[download]   0.1% of 4.09MiB at 12.01KiB/s ETA 05:48[download]   0.2% of 4.09MiB at 28.02KiB/s ETA 02:29[download]   0.4% of 4.09MiB at 60.00KiB/s ETA 01:09[download]   0.7% of 4.09MiB at 56.73KiB/s ETA 01:13[download]   1.5% of 4.09MiB at 55.00KiB/s ETA 01:15[download]   2.8% of 4.09MiB at 49.70KiB/s ETA 01:21[download]   3.8% of 4.09MiB at 49.51KiB/s ETA 01:21[download]   5.0% of 4.09MiB at 50.44KiB/s ETA 01:18[download]   6.3% of 4.09MiB at 52.25KiB/s ETA 01:15[download]   7.7% of 4.09MiB at 51.71KiB/s ETA 01:14[download]   8.9% of 4.09MiB at 51.86KiB/s ETA 01:13[download]  10.2% of 4.09MiB at 52.54KiB/s ETA 01:11[download]  11.6% of 4.09MiB at 51.87KiB/s ETA 01:11[download]  12.7% of 4.09MiB at 51.67KiB/s ETA 01:10[download]  13.9% of 4.09MiB at 52.22KiB/s ETA 01:09[download]  15.3% of 4.09MiB at 52.02KiB/s ETA 01:08[download]  16.5% of 4.09MiB at 52.24KiB/s ETA 01:06[download]  17.8% of 4.09MiB at 52.77KiB/s ETA 01:05[download]  19.2% of 4.09MiB at 52.41KiB/s ETA 01:04[download]  20.4% of 4.09MiB at 52.45KiB/s ETA 01:03[download]  21.7% of 4.09MiB at 52.83KiB/s ETA 01:02[download]  23.1% of 4.09MiB at 52.64KiB/s ETA 01:01[download]  24.3% of 4.09MiB at 52.60KiB/s ETA 01:00[download]  25.5% of 4.09MiB at 52.80KiB/s ETA 00:59[download]  26.9% of 4.09MiB at 52.44KiB/s ETA 00:58[download]  28.0% of 4.09MiB at 52.50KiB/s ETA 00:57[download]  29.3% of 4.09MiB at 52.77KiB/s ETA 00:56[download]  30.7% of 4.09MiB at 52.59KiB/s ETA 00:55[download]  31.9% of 4.09MiB at 52.64KiB/s ETA 00:54[download]  33.2% of 4.09MiB at 52.86KiB/s ETA 00:52[download]  34.6% of 4.09MiB at 52.61KiB/s ETA 00:52[download]  35.7% of 4.09MiB at 52.58KiB/s ETA 00:51[download]  36.9% of 4.09MiB at 52.75KiB/s ETA 00:50[download]  38.3% of 4.09MiB at 52.60KiB/s ETA 00:49[download]  39.5% of 4.09MiB at 52.55KiB/s ETA 00:48[download]  40.7% of 4.09MiB at 52.63KiB/s ETA 00:47[download]  42.0% of 4.09MiB at 52.45KiB/s ETA 00:46[download]  43.2% of 4.09MiB at 52.45KiB/s ETA 00:45[download]  44.4% of 4.09MiB at 52.57KiB/s ETA 00:44[download]  45.8% of 4.09MiB at 52.75KiB/s ETA 00:43[download]  47.2% of 4.09MiB at 52.65KiB/s ETA 00:42[download]  48.4% of 4.09MiB at 52.73KiB/s ETA 00:41[download]  49.7% of 4.09MiB at 52.52KiB/s ETA 00:40[download]  50.8% of 4.09MiB at 52.46KiB/s ETA 00:39[download]  52.0% of 4.09MiB at 52.55KiB/s ETA 00:38[download]  53.4% of 4.09MiB at 52.79KiB/s ETA 00:37[download]  54.9% of 4.09MiB at 52.72KiB/s ETA 00:35[download]  56.1% of 4.09MiB at 52.76KiB/s ETA 00:34[download]  57.4% of 4.09MiB at 52.61KiB/s ETA 00:33[download]  58.5% of 4.09MiB at 52.59KiB/s ETA 00:33[download]  59.7% of 4.09MiB at 52.66KiB/s ETA 00:32[download]  61.1% of 4.09MiB at 52.78KiB/s ETA 00:30[download]  62.5% of 4.09MiB at 52.68KiB/s ETA 00:29[download]  63.6% of 4.09MiB at 52.73KiB/s ETA 00:28[download]  65.0% of 4.09MiB at 52.55KiB/s ETA 00:27[download]  66.0% of 4.09MiB at 52.81KiB/s ETA 00:26[download]  67.8% of 4.09MiB at 52.76KiB/s ETA 00:25[download]  69.1% of 4.09MiB at 52.81KiB/s ETA 00:24[download]  70.4% of 4.09MiB at 52.62KiB/s ETA 00:23[download]  71.4% of 4.09MiB at 52.56KiB/s ETA 00:22[download]  72.6% of 4.09MiB at 52.60KiB/s ETA 00:21[download]  73.9% of 4.09MiB at 52.73KiB/s ETA 00:20[download]  75.4% of 4.09MiB at 52.64KiB/s ETA 00:19[download]  76.5% of 4.09MiB at 52.65KiB/s ETA 00:18[download]  77.8% of 4.09MiB at 52.73KiB/s ETA 00:17[download]  79.2% of 4.09MiB at 52.66KiB/s ETA 00:16[download]  80.4% of 4.09MiB at 52.69KiB/s ETA 00:15[download]  81.7% of 4.09MiB at 52.75KiB/s ETA 00:14[download]  83.0% of 4.09MiB at 52.64KiB/s ETA 00:13[download]  84.1% of 4.09MiB at 52.62KiB/s ETA 00:12[download]  85.4% of 4.09MiB at 52.71KiB/s ETA 00:11[download]  86.8% of 4.09MiB at 52.64KiB/s ETA 00:10[download]  87.9% of 4.09MiB at 52.66KiB/s ETA 00:09[download]  89.3% of 4.09MiB at 52.76KiB/s ETA 00:08[download]  90.7% of 4.09MiB at 52.68KiB/s ETA 00:07[download]  91.8% of 4.09MiB at 52.68KiB/s ETA 00:06[download]  93.1% of 4.09MiB at 52.75KiB/s ETA 00:05[download]  94.5% of 4.09MiB at 52.70KiB/s ETA 00:04[download]  95.7% of 4.09MiB at 52.72KiB/s ETA 00:03[download]  97.0% of 4.09MiB at 52.76KiB/s ETA 00:02[download]  98.3% of 4.09MiB at 52.65KiB/s ETA 00:01[download]  99.4% of 4.09MiB at 52.66KiB/s ETA 00:00[download] 100.0% of 4.09MiB at 52.81KiB/s ETA 00:00[download] 100% of 4.09MiB in 01:19
+[youtube] _ym02HhKNcw: Downloading webpage
+
+not Exist: Revolution
+[download] Destination: ./music/GmW_ym02HhKNcw.GmW
+[download]   0.0% of 3.58MiB at  4.21KiB/s ETA 14:31[download]   0.1% of 3.58MiB at 12.61KiB/s ETA 04:50[download]   0.2% of 3.58MiB at 29.37KiB/s ETA 02:04[download]   0.4% of 3.58MiB at 60.43KiB/s ETA 01:00[download]   0.8% of 3.58MiB at 61.38KiB/s ETA 00:59[download]   1.7% of 3.58MiB at 59.33KiB/s ETA 01:00[download]   3.3% of 3.58MiB at 55.46KiB/s ETA 01:03[download]   4.7% of 3.58MiB at 56.82KiB/s ETA 01:01[download]   6.3% of 3.58MiB at 55.79KiB/s ETA 01:01[download]   7.8% of 3.58MiB at 56.52KiB/s ETA 00:59[download]   9.4% of 3.58MiB at 55.63KiB/s ETA 00:59[download]  10.8% of 3.58MiB at 56.19KiB/s ETA 00:58[download]  12.5% of 3.58MiB at 55.58KiB/s ETA 00:57[download]  13.9% of 3.58MiB at 56.03KiB/s ETA 00:56[download]  15.5% of 3.58MiB at 55.71KiB/s ETA 00:55[download]  17.0% of 3.58MiB at 56.19KiB/s ETA 00:54[download]  18.7% of 3.58MiB at 56.25KiB/s ETA 00:53[download]  20.2% of 3.58MiB at 55.71KiB/s ETA 00:52[download]  21.6% of 3.58MiB at 55.87KiB/s ETA 00:51[download]  23.2% of 3.58MiB at 55.52KiB/s ETA 00:50[download]  24.6% of 3.58MiB at 55.65KiB/s ETA 00:49[download]  26.1% of 3.58MiB at 56.24KiB/s ETA 00:48[download]  28.0% of 3.58MiB at 55.51KiB/s ETA 00:47[download]  29.3% of 3.58MiB at 55.47KiB/s ETA 00:46[download]  30.7% of 3.58MiB at 55.76KiB/s ETA 00:45[download]  32.4% of 3.58MiB at 55.76KiB/s ETA 00:44[download]  34.0% of 3.58MiB at 56.11KiB/s ETA 00:43[download]  35.7% of 3.58MiB at 56.09KiB/s ETA 00:42[download]  37.2% of 3.58MiB at 55.76KiB/s ETA 00:41[download]  38.6% of 3.58MiB at 55.80KiB/s ETA 00:40[download]  40.1% of 3.58MiB at 55.56KiB/s ETA 00:39[download]  41.5% of 3.58MiB at 55.74KiB/s ETA 00:38[download]  43.2% of 3.58MiB at 55.69KiB/s ETA 00:37[download]  44.7% of 3.58MiB at 55.92KiB/s ETA 00:36[download]  46.4% of 3.58MiB at 55.87KiB/s ETA 00:35[download]  47.9% of 3.58MiB at 56.08KiB/s ETA 00:34[download]  49.6% of 3.58MiB at 56.06KiB/s ETA 00:32[download]  51.1% of 3.58MiB at 55.78KiB/s ETA 00:32[download]  52.4% of 3.58MiB at 55.79KiB/s ETA 00:31[download]  54.0% of 3.58MiB at 56.03KiB/s ETA 00:30[download]  55.8% of 3.58MiB at 56.08KiB/s ETA 00:28[download]  57.3% of 3.58MiB at 55.91KiB/s ETA 00:27[download]  58.7% of 3.58MiB at 55.94KiB/s ETA 00:27[download]  60.3% of 3.58MiB at 55.77KiB/s ETA 00:26[download]  61.6% of 3.58MiB at 55.94KiB/s ETA 00:25[download]  63.4% of 3.58MiB at 55.86KiB/s ETA 00:24[download]  64.8% of 3.58MiB at 56.04KiB/s ETA 00:23[download]  66.6% of 3.58MiB at 56.09KiB/s ETA 00:21[download]  68.2% of 3.58MiB at 55.91KiB/s ETA 00:20[download]  69.5% of 3.58MiB at 55.93KiB/s ETA 00:19[download]  71.1% of 3.58MiB at 55.80KiB/s ETA 00:18[download]  72.5% of 3.58MiB at 55.85KiB/s ETA 00:18[download]  74.1% of 3.58MiB at 56.07KiB/s ETA 00:16[download]  75.9% of 3.58MiB at 55.82KiB/s ETA 00:15[download]  77.2% of 3.58MiB at 55.82KiB/s ETA 00:14[download]  78.7% of 3.58MiB at 55.96KiB/s ETA 00:13[download]  80.5% of 3.58MiB at 55.97KiB/s ETA 00:12[download]  82.0% of 3.58MiB at 55.82KiB/s ETA 00:11[download]  83.4% of 3.58MiB at 55.83KiB/s ETA 00:10[download]  84.9% of 3.58MiB at 56.07KiB/s ETA 00:09[download]  86.9% of 3.58MiB at 55.92KiB/s ETA 00:08[download]  88.3% of 3.58MiB at 55.96KiB/s ETA 00:07[download]  89.9% of 3.58MiB at 55.88KiB/s ETA 00:06[download]  91.3% of 3.58MiB at 55.94KiB/s ETA 00:05[download]  92.9% of 3.58MiB at 55.85KiB/s ETA 00:04[download]  94.3% of 3.58MiB at 55.91KiB/s ETA 00:03[download]  95.9% of 3.58MiB at 56.09KiB/s ETA 00:02[download]  97.8% of 3.58MiB at 55.91KiB/s ETA 00:01[download]  99.1% of 3.58MiB at 55.91KiB/s ETA 00:00[download] 100.0% of 3.58MiB at 56.11KiB/s ETA 00:00[download] 100% of 3.58MiB in 01:05
+[youtube] epgovgrMnxk: Downloading webpage
+
+not Exist: Magia
+[download] Destination: ./music/RckepgovgrMnxk.Rck
+[download]   0.0% of 4.84MiB at  4.15KiB/s ETA 19:55[download]   0.1% of 4.84MiB at 12.42KiB/s ETA 06:39[download]   0.1% of 4.84MiB at 28.94KiB/s ETA 02:51[download]   0.3% of 4.84MiB at 61.94KiB/s ETA 01:19[download]   0.6% of 4.84MiB at 61.41KiB/s ETA 01:20[download]   1.3% of 4.84MiB at 59.38KiB/s ETA 01:22[download]   2.4% of 4.84MiB at 55.30KiB/s ETA 01:27[download]   3.5% of 4.84MiB at 56.74KiB/s ETA 01:24[download]   4.7% of 4.84MiB at 55.76KiB/s ETA 01:24[download]   5.8% of 4.84MiB at 56.52KiB/s ETA 01:22[download]   7.0% of 4.84MiB at 55.86KiB/s ETA 01:22[download]   8.0% of 4.84MiB at 56.56KiB/s ETA 01:20[download]   9.3% of 4.84MiB at 56.05KiB/s ETA 01:20[download]  10.3% of 4.84MiB at 54.91KiB/s ETA 01:20[download]  11.3% of 4.84MiB at 56.39KiB/s ETA 01:18[download]  12.9% of 4.84MiB at 55.32KiB/s ETA 01:18[download]  13.9% of 4.84MiB at 55.43KiB/s ETA 01:17[download]  15.0% of 4.84MiB at 55.94KiB/s ETA 01:15[download]  16.3% of 4.84MiB at 55.97KiB/s ETA 01:14[download]  17.4% of 4.84MiB at 55.50KiB/s ETA 01:13[download]  18.4% of 4.84MiB at 55.61KiB/s ETA 01:12[download]  19.6% of 4.84MiB at 56.17KiB/s ETA 01:10[download]  21.0% of 4.84MiB at 56.26KiB/s ETA 01:09[download]  22.1% of 4.84MiB at 55.94KiB/s ETA 01:09[download]  23.1% of 4.84MiB at 56.07KiB/s ETA 01:07[download]  24.3% of 4.84MiB at 55.85KiB/s ETA 01:07[download]  25.4% of 4.84MiB at 55.97KiB/s ETA 01:06[download]  26.6% of 4.84MiB at 55.73KiB/s ETA 01:05[download]  27.6% of 4.84MiB at 55.86KiB/s ETA 01:04[download]  28.8% of 4.84MiB at 55.68KiB/s ETA 01:03[download]  29.8% of 4.84MiB at 55.85KiB/s ETA 01:02[download]  31.1% of 4.84MiB at 55.87KiB/s ETA 01:01[download]  32.2% of 4.84MiB at 56.17KiB/s ETA 00:59[download]  33.5% of 4.84MiB at 56.17KiB/s ETA 00:58[download]  34.7% of 4.84MiB at 55.92KiB/s ETA 00:57[download]  35.7% of 4.84MiB at 55.97KiB/s ETA 00:56[download]  36.8% of 4.84MiB at 55.79KiB/s ETA 00:56[download]  37.9% of 4.84MiB at 55.83KiB/s ETA 00:55[download]  39.0% of 4.84MiB at 56.10KiB/s ETA 00:53[download]  40.3% of 4.84MiB at 55.70KiB/s ETA 00:53[download]  41.3% of 4.84MiB at 56.12KiB/s ETA 00:51[download]  43.0% of 4.84MiB at 55.77KiB/s ETA 00:50[download]  43.9% of 4.84MiB at 55.78KiB/s ETA 00:49[download]  45.1% of 4.84MiB at 56.00KiB/s ETA 00:48[download]  46.4% of 4.84MiB at 56.12KiB/s ETA 00:47[download]  47.6% of 4.84MiB at 55.93KiB/s ETA 00:46[download]  48.6% of 4.84MiB at 56.04KiB/s ETA 00:45[download]  49.9% of 4.84MiB at 55.99KiB/s ETA 00:44[download]  50.9% of 4.84MiB at 56.12KiB/s ETA 00:43[download]  52.2% of 4.84MiB at 56.10KiB/s ETA 00:42[download]  53.3% of 4.84MiB at 55.89KiB/s ETA 00:41[download]  54.3% of 4.84MiB at 55.89KiB/s ETA 00:40[download]  55.4% of 4.84MiB at 56.04KiB/s ETA 00:39[download]  56.7% of 4.84MiB at 56.06KiB/s ETA 00:38[download]  57.9% of 4.84MiB at 55.88KiB/s ETA 00:37[download]  58.8% of 4.84MiB at 55.89KiB/s ETA 00:36[download]  60.0% of 4.84MiB at 56.04KiB/s ETA 00:35[download]  61.3% of 4.84MiB at 56.08KiB/s ETA 00:34[download]  62.5% of 4.84MiB at 55.97KiB/s ETA 00:33[download]  63.5% of 4.84MiB at 56.07KiB/s ETA 00:32[download]  64.7% of 4.84MiB at 56.03KiB/s ETA 00:31[download]  65.8% of 4.84MiB at 55.84KiB/s ETA 00:30[download]  66.8% of 4.84MiB at 56.11KiB/s ETA 00:29[download]  68.5% of 4.84MiB at 55.87KiB/s ETA 00:27[download]  69.4% of 4.84MiB at 55.88KiB/s ETA 00:27[download]  70.6% of 4.84MiB at 56.01KiB/s ETA 00:26[download]  71.9% of 4.84MiB at 56.04KiB/s ETA 00:24[download]  73.1% of 4.84MiB at 55.92KiB/s ETA 00:23[download]  74.1% of 4.84MiB at 55.94KiB/s ETA 00:22[download]  75.2% of 4.84MiB at 55.86KiB/s ETA 00:21[download]  76.2% of 4.84MiB at 55.90KiB/s ETA 00:21[download]  77.4% of 4.84MiB at 56.06KiB/s ETA 00:19[download]  78.8% of 4.84MiB at 55.95KiB/s ETA 00:18[download]  79.8% of 4.84MiB at 55.92KiB/s ETA 00:17[download]  80.9% of 4.84MiB at 56.07KiB/s ETA 00:16[download]  82.3% of 4.84MiB at 55.90KiB/s ETA 00:15[download]  83.3% of 4.84MiB at 55.90KiB/s ETA 00:14[download]  84.4% of 4.84MiB at 56.00KiB/s ETA 00:13[download]  85.7% of 4.84MiB at 56.00KiB/s ETA 00:12[download]  86.8% of 4.84MiB at 55.89KiB/s ETA 00:11[download]  87.8% of 4.84MiB at 55.91KiB/s ETA 00:10[download]  89.0% of 4.84MiB at 56.02KiB/s ETA 00:09[download]  90.3% of 4.84MiB at 56.05KiB/s ETA 00:08[download]  91.5% of 4.84MiB at 55.97KiB/s ETA 00:07[download]  92.5% of 4.84MiB at 56.00KiB/s ETA 00:06[download]  93.7% of 4.84MiB at 55.92KiB/s ETA 00:05[download]  94.7% of 4.84MiB at 55.97KiB/s ETA 00:04[download]  95.9% of 4.84MiB at 55.97KiB/s ETA 00:03[download]  97.1% of 4.84MiB at 56.06KiB/s ETA 00:02[download]  98.4% of 4.84MiB at 56.05KiB/s ETA 00:01[download]  99.5% of 4.84MiB at 55.96KiB/s ETA 00:00[download] 100.0% of 4.84MiB at 56.11KiB/s ETA 00:00[download] 100% of 4.84MiB in 01:28
 [youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
 [download] Downloading playlist: 醜奴兒
 [youtube:tab] playlist 醜奴兒: Downloading 12 videos
@@ -1815,11 +1830,8 @@ Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [download] Downloading video 216 of 216
 [youtube] VaAacrLk4gE: Downloading webpage
 [download] Finished downloading playlist: GG
-[youtube] 7maJOI3QMu0: Downloading webpage
 
-not Exist: Yiruma, (이루마) - River Flows in You
-[download] Destination: ./music/70H7maJOI3QMu0.70H
-[download]   0.0% of 3.24MiB at  4.46KiB/s ETA 12:22[download]   0.1% of 3.24MiB at 13.36KiB/s ETA 04:07[download]   0.2% of 3.24MiB at 31.12KiB/s ETA 01:46[download]   0.5% of 3.24MiB at 66.58KiB/s ETA 00:49[download]   0.9% of 3.24MiB at 64.81KiB/s ETA 00:50[download]   1.9% of 3.24MiB at 62.74KiB/s ETA 00:51[download]   3.7% of 3.24MiB at 60.22KiB/s ETA 00:52[download]   5.5% of 3.24MiB at 57.55KiB/s ETA 00:54[download]   7.1% of 3.24MiB at 59.37KiB/s ETA 00:51[download]   9.1% of 3.24MiB at 59.63KiB/s ETA 00:50[download]  10.9% of 3.24MiB at 59.04KiB/s ETA 00:50[download]  12.6% of 3.24MiB at 57.84KiB/s ETA 00:50[download]  14.1% of 3.24MiB at 58.35KiB/s ETA 00:48[download]  16.0% of 3.24MiB at 58.22KiB/s ETA 00:47[download]  17.8% of 3.24MiB at 59.34KiB/s ETA 00:45[download]  20.0% of 3.24MiB at 58.82KiB/s ETA 00:45[download]  21.6% of 3.24MiB at 59.18KiB/s ETA 00:43[download]  23.5% of 3.24MiB at 59.40KiB/s ETA 00:42[download]  25.4% of 3.24MiB at 59.27KiB/s ETA 00:41[download]  27.1% of 3.24MiB at 58.78KiB/s ETA 00:41[download]  28.7% of 3.24MiB at 59.05KiB/s ETA 00:40[download]  30.7% of 3.24MiB at 59.08KiB/s ETA 00:38[download]  32.5% of 3.24MiB at 58.78KiB/s ETA 00:38[download]  34.1% of 3.24MiB at 59.12KiB/s ETA 00:36[download]  36.1% of 3.24MiB at 59.26KiB/s ETA 00:35[download]  38.0% of 3.24MiB at 59.11KiB/s ETA 00:34[download]  39.7% of 3.24MiB at 58.78KiB/s ETA 00:34[download]  41.2% of 3.24MiB at 58.97KiB/s ETA 00:33[download]  43.2% of 3.24MiB at 59.00KiB/s ETA 00:31[download]  45.0% of 3.24MiB at 58.95KiB/s ETA 00:30[download]  46.7% of 3.24MiB at 59.34KiB/s ETA 00:29[download]  48.9% of 3.24MiB at 58.98KiB/s ETA 00:28[download]  50.5% of 3.24MiB at 59.14KiB/s ETA 00:27[download]  52.4% of 3.24MiB at 59.15KiB/s ETA 00:26[download]  54.2% of 3.24MiB at 58.97KiB/s ETA 00:25[download]  55.8% of 3.24MiB at 59.16KiB/s ETA 00:24[download]  57.8% of 3.24MiB at 59.25KiB/s ETA 00:23[download]  59.7% of 3.24MiB at 59.19KiB/s ETA 00:22[download]  61.4% of 3.24MiB at 58.97KiB/s ETA 00:21[download]  63.0% of 3.24MiB at 59.09KiB/s ETA 00:20[download]  64.9% of 3.24MiB at 59.07KiB/s ETA 00:19[download]  66.7% of 3.24MiB at 58.93KiB/s ETA 00:18[download]  68.3% of 3.24MiB at 59.21KiB/s ETA 00:17[download]  70.5% of 3.24MiB at 58.88KiB/s ETA 00:16[download]  72.1% of 3.24MiB at 59.04KiB/s ETA 00:15[download]  74.1% of 3.24MiB at 59.15KiB/s ETA 00:14[download]  76.0% of 3.24MiB at 59.10KiB/s ETA 00:13[download]  77.7% of 3.24MiB at 58.96KiB/s ETA 00:12[download]  79.3% of 3.24MiB at 59.04KiB/s ETA 00:11[download]  81.3% of 3.24MiB at 59.04KiB/s ETA 00:10[download]  83.1% of 3.24MiB at 58.95KiB/s ETA 00:09[download]  84.7% of 3.24MiB at 59.09KiB/s ETA 00:08[download]  86.7% of 3.24MiB at 59.14KiB/s ETA 00:07[download]  88.6% of 3.24MiB at 59.09KiB/s ETA 00:06[download]  90.3% of 3.24MiB at 58.93KiB/s ETA 00:05[download]  91.9% of 3.24MiB at 59.00KiB/s ETA 00:04[download]  93.8% of 3.24MiB at 59.08KiB/s ETA 00:03[download]  95.7% of 3.24MiB at 59.05KiB/s ETA 00:02[download]  97.4% of 3.24MiB at 59.25KiB/s ETA 00:01[download]  99.6% of 3.24MiB at 59.10KiB/s ETA 00:00[download] 100.0% of 3.24MiB at 59.31KiB/s ETA 00:00[download] 100% of 3.24MiB in 00:55
+Exist: Yiruma, (이루마) - River Flows in You
 
 Exist: 瞳をとじて Hitomi wo Tojite   平井 堅 Hirai Ken 日本語歌詞付き+ ローマ字 romaji + letras em português
 
