@@ -623,7 +623,7 @@ Exist: 【English sub 好声音】Aiuta - whiteeeen - 愛唄～since 2007～ 『
 Exist: sumika「 春夏秋冬」動畫版電影『我想吃掉你的胰臟』主題曲【中日歌詞】
 
 Exist: CHiCO with HoneyWorks 『世界は恋に落ちている』(Covered by コバソロ & 未来(ザ・フーパーズ))
-[youtube] t6jZcOKYTjg: Downloading webpage
+[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
 
 Exist: ヨルシカ - ただ君に晴れ (MUSIC VIDEO)
 
@@ -839,10 +839,7 @@ Exist: Revolution
 
 Exist: Magia
 
-not Exist: Free Free Free feat.幾田りら
-[download] Destination: ./music/fJmt6jZcOKYTjg.fJm
-[download]   0.0% of 3.93MiB at  5.38KiB/s ETA 12:26[download]   0.1% of 3.93MiB at 16.12KiB/s ETA 04:09[download]   0.2% of 3.93MiB at 37.53KiB/s ETA 01:46[download]   0.4% of 3.93MiB at 80.30KiB/s ETA 00:49[download]   0.8% of 3.93MiB at 75.30KiB/s ETA 00:52[download]   1.6% of 3.93MiB at 72.83KiB/s ETA 00:54[download]   3.2% of 3.93MiB at 71.15KiB/s ETA 00:54[download]   4.9% of 3.93MiB at 66.70KiB/s ETA 00:57[download]   6.4% of 3.93MiB at 65.82KiB/s ETA 00:57[download]   7.9% of 3.93MiB at 69.83KiB/s ETA 00:52[download]  10.3% of 3.93MiB at 68.61KiB/s ETA 00:52[download]  11.9% of 3.93MiB at 68.77KiB/s ETA 00:51[download]  13.6% of 3.93MiB at 67.41KiB/s ETA 00:51[download]  15.1% of 3.93MiB at 68.78KiB/s ETA 00:49[download]  17.2% of 3.93MiB at 68.05KiB/s ETA 00:48[download]  18.8% of 3.93MiB at 67.93KiB/s ETA 00:48[download]  20.4% of 3.93MiB at 68.24KiB/s ETA 00:46[download]  22.2% of 3.93MiB at 68.79KiB/s ETA 00:45[download]  24.1% of 3.93MiB at 68.54KiB/s ETA 00:44[download]  25.7% of 3.93MiB at 68.58KiB/s ETA 00:43[download]  27.4% of 3.93MiB at 68.94KiB/s ETA 00:42[download]  29.3% of 3.93MiB at 68.57KiB/s ETA 00:41[download]  30.9% of 3.93MiB at 68.56KiB/s ETA 00:40[download]  32.6% of 3.93MiB at 68.75KiB/s ETA 00:39[download]  34.4% of 3.93MiB at 68.33KiB/s ETA 00:38[download]  35.9% of 3.93MiB at 68.24KiB/s ETA 00:37[download]  37.6% of 3.93MiB at 68.50KiB/s ETA 00:36[download]  39.4% of 3.93MiB at 68.31KiB/s ETA 00:35[download]  41.0% of 3.93MiB at 68.30KiB/s ETA 00:34[download]  42.7% of 3.93MiB at 68.49KiB/s ETA 00:33[download]  44.5% of 3.93MiB at 68.81KiB/s ETA 00:32[download]  46.5% of 3.93MiB at 68.73KiB/s ETA 00:31[download]  48.1% of 3.93MiB at 68.79KiB/s ETA 00:30[download]  49.9% of 3.93MiB at 68.44KiB/s ETA 00:29[download]  51.4% of 3.93MiB at 68.33KiB/s ETA 00:28[download]  53.0% of 3.93MiB at 68.35KiB/s ETA 00:27[download]  54.7% of 3.93MiB at 68.48KiB/s ETA 00:26[download]  56.5% of 3.93MiB at 68.38KiB/s ETA 00:25[download]  58.1% of 3.93MiB at 68.31KiB/s ETA 00:24[download]  59.8% of 3.93MiB at 68.46KiB/s ETA 00:23[download]  61.6% of 3.93MiB at 68.76KiB/s ETA 00:22[download]  63.6% of 3.93MiB at 68.74KiB/s ETA 00:21[download]  65.3% of 3.93MiB at 68.41KiB/s ETA 00:20[download]  66.8% of 3.93MiB at 68.70KiB/s ETA 00:19[download]  68.9% of 3.93MiB at 68.39KiB/s ETA 00:18[download]  70.4% of 3.93MiB at 68.67KiB/s ETA 00:17[download]  72.5% of 3.93MiB at 68.41KiB/s ETA 00:16[download]  74.0% of 3.93MiB at 68.71KiB/s ETA 00:15[download]  76.2% of 3.93MiB at 68.46KiB/s ETA 00:14[download]  77.7% of 3.93MiB at 68.47KiB/s ETA 00:13[download]  79.4% of 3.93MiB at 68.59KiB/s ETA 00:12[download]  81.2% of 3.93MiB at 68.44KiB/s ETA 00:11[download]  82.8% of 3.93MiB at 68.43KiB/s ETA 00:10[download]  84.5% of 3.93MiB at 68.50KiB/s ETA 00:09[download]  86.3% of 3.93MiB at 68.67KiB/s ETA 00:08[download]  88.2% of 3.93MiB at 68.61KiB/s ETA 00:06[download]  89.8% of 3.93MiB at 68.65KiB/s ETA 00:05[download]  91.6% of 3.93MiB at 68.48KiB/s ETA 00:04[download]  93.1% of 3.93MiB at 68.70KiB/s ETA 00:04[download]  95.3% of 3.93MiB at 68.50KiB/s ETA 00:02[download]  96.8% of 3.93MiB at 68.51KiB/s ETA 00:01[download]  98.5% of 3.93MiB at 68.52KiB/s ETA 00:00[download] 100.0% of 3.93MiB at 68.74KiB/s ETA 00:00[download] 100% of 3.93MiB in 00:58
-[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
+Exist: Free Free Free feat.幾田りら
 [download] Downloading playlist: 醜奴兒
 [youtube:tab] playlist 醜奴兒: Downloading 12 videos
 [download] Downloading video 1 of 12
