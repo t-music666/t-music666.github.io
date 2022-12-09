@@ -5,7 +5,7 @@
 [youtube:tab] playlist Sami's music: Downloading 218 videos
 [download] Downloading video 1 of 218
 [youtube] mK9Be_3r9-U: Downloading webpage
-[youtube] mK9Be_3r9-U: Downloading player ac058a09
+[youtube] mK9Be_3r9-U: Downloading player 72d3c60a
 [download] Downloading video 2 of 218
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 218
@@ -594,7 +594,7 @@ Exist: 宮本浩次－夜明けのうた
 [youtube:tab] playlist 醜奴兒: Downloading 12 videos
 [download] Downloading video 1 of 12
 [youtube] STrC761mNbc: Downloading webpage
-[youtube] STrC761mNbc: Downloading player ac058a09
+[youtube] STrC761mNbc: Downloading player 72d3c60a
 [download] Downloading video 2 of 12
 [youtube] c9ojHGZDqZw: Downloading webpage
 [download] Downloading video 3 of 12
@@ -629,7 +629,7 @@ Exist: 草東沒有派對 No Party For Cao Dong - 山海 Wayfarer 【Official Mu
 [youtube] X2DKPkcSMDo: Downloading webpage
 [download] Downloading video 2 of 43
 [youtube] IvErGkziDg8: Downloading webpage
-[youtube] IvErGkziDg8: Downloading player ac058a09
+[youtube] IvErGkziDg8: Downloading player 72d3c60a
 [download] Downloading video 3 of 43
 [youtube] 1c88QtOCBNs: Downloading webpage
 [download] Downloading video 4 of 43
@@ -754,7 +754,7 @@ Exist: 锻刀大赛：欧洲神秘冷兵器， 梳状剑刃无比锋利，勾住
 [youtube] M-MT0z6ac7g: Downloading webpage
 [download] Downloading video 3 of 77
 [youtube] sSQKl7rBTWQ: Downloading webpage
-[youtube] sSQKl7rBTWQ: Downloading player ac058a09
+[youtube] sSQKl7rBTWQ: Downloading player 72d3c60a
 [download] Downloading video 4 of 77
 [youtube] HqmpIQ9l-uA: Downloading webpage
 [download] Downloading video 5 of 77
@@ -957,7 +957,7 @@ Exist: Kaleo - Shut Eye
 [youtube:tab] playlist GG: Downloading 214 videos
 [download] Downloading video 1 of 214
 [youtube] 7maJOI3QMu0: Downloading webpage
-[youtube] 7maJOI3QMu0: Downloading player ac058a09
+[youtube] 7maJOI3QMu0: Downloading player 72d3c60a
 [download] Downloading video 2 of 214
 [youtube] P6CHo3zVwoA: Downloading webpage
 [download] Downloading video 3 of 214
@@ -1442,7 +1442,7 @@ Exist: 【女性が歌う】あとひとつ/FUNKY MONKEY BABYS (Covered by コ�
 [youtube:tab] playlist MG: Downloading 8 videos
 [download] Downloading video 1 of 8
 [youtube] --giQqhWGdQ: Downloading webpage
-[youtube] --giQqhWGdQ: Downloading player ac058a09
+[youtube] --giQqhWGdQ: Downloading player 72d3c60a
 [download] Downloading video 2 of 8
 [youtube] 0IdsBJk0f6U: Downloading webpage
 [download] Downloading video 3 of 8
