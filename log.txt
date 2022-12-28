@@ -645,7 +645,7 @@ Exist: 【English sub 好声音】Aiuta - whiteeeen - 愛唄～since 2007～ 『
 Exist: sumika「 春夏秋冬」動畫版電影『我想吃掉你的胰臟』主題曲【中日歌詞】
 
 Exist: CHiCO with HoneyWorks 『世界は恋に落ちている』(Covered by コバソロ & 未来(ザ・フーパーズ))
-[youtube] k1d3E1zeVzI: Downloading webpage
+[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
 
 Exist: ヨルシカ - ただ君に晴れ (MUSIC VIDEO)
 
@@ -883,10 +883,7 @@ Exist: 青いカナリヤ (Acoustic ver.)
 
 Exist: DAWN
 
-not Exist: 抜錨 / ナナホシ管弦楽団 -Cover- ウォルピスカーター
-[download] Destination: ./music/qD6k1d3E1zeVzI.qD6
-[download]   0.0% of 3.15MiB at  5.39KiB/s ETA 09:58[download]   0.1% of 3.15MiB at 16.17KiB/s ETA 03:19[download]   0.2% of 3.15MiB at 37.71KiB/s ETA 01:25[download]   0.5% of 3.15MiB at 80.78KiB/s ETA 00:39[download]   1.0% of 3.15MiB at 75.34KiB/s ETA 00:42[download]   2.0% of 3.15MiB at 72.87KiB/s ETA 00:43[download]   3.9% of 3.15MiB at 71.72KiB/s ETA 00:43[download]   6.1% of 3.15MiB at 67.12KiB/s ETA 00:45[download]   8.0% of 3.15MiB at 66.24KiB/s ETA 00:44[download]  10.0% of 3.15MiB at 66.68KiB/s ETA 00:43[download]  12.1% of 3.15MiB at 67.86KiB/s ETA 00:41[download]  14.4% of 3.15MiB at 69.30KiB/s ETA 00:39[download]  16.8% of 3.15MiB at 68.79KiB/s ETA 00:39[download]  18.8% of 3.15MiB at 69.12KiB/s ETA 00:37[download]  21.1% of 3.15MiB at 68.60KiB/s ETA 00:37[download]  23.1% of 3.15MiB at 68.68KiB/s ETA 00:36[download]  25.2% of 3.15MiB at 69.07KiB/s ETA 00:34[download]  27.5% of 3.15MiB at 68.48KiB/s ETA 00:34[download]  29.4% of 3.15MiB at 68.42KiB/s ETA 00:33[download]  31.5% of 3.15MiB at 68.69KiB/s ETA 00:32[download]  33.8% of 3.15MiB at 68.20KiB/s ETA 00:31[download]  35.7% of 3.15MiB at 68.03KiB/s ETA 00:30[download]  37.7% of 3.15MiB at 68.16KiB/s ETA 00:29[download]  39.9% of 3.15MiB at 68.55KiB/s ETA 00:28[download]  42.3% of 3.15MiB at 68.33KiB/s ETA 00:27[download]  44.3% of 3.15MiB at 68.40KiB/s ETA 00:26[download]  46.4% of 3.15MiB at 68.84KiB/s ETA 00:25[download]  48.9% of 3.15MiB at 68.75KiB/s ETA 00:23[download]  51.0% of 3.15MiB at 68.85KiB/s ETA 00:22[download]  53.2% of 3.15MiB at 68.46KiB/s ETA 00:22[download]  55.1% of 3.15MiB at 68.30KiB/s ETA 00:21[download]  57.0% of 3.15MiB at 68.31KiB/s ETA 00:20[download]  59.2% of 3.15MiB at 68.51KiB/s ETA 00:19[download]  61.5% of 3.15MiB at 68.90KiB/s ETA 00:18[download]  64.0% of 3.15MiB at 68.32KiB/s ETA 00:17[download]  65.7% of 3.15MiB at 68.60KiB/s ETA 00:16[download]  68.2% of 3.15MiB at 68.59KiB/s ETA 00:14[download]  70.3% of 3.15MiB at 68.86KiB/s ETA 00:13[download]  72.8% of 3.15MiB at 68.69KiB/s ETA 00:12[download]  74.8% of 3.15MiB at 68.78KiB/s ETA 00:11[download]  77.0% of 3.15MiB at 68.58KiB/s ETA 00:10[download]  79.0% of 3.15MiB at 68.52KiB/s ETA 00:09[download]  81.0% of 3.15MiB at 68.59KiB/s ETA 00:08[download]  83.2% of 3.15MiB at 68.79KiB/s ETA 00:07[download]  85.6% of 3.15MiB at 68.69KiB/s ETA 00:06[download]  87.6% of 3.15MiB at 68.69KiB/s ETA 00:05[download]  89.7% of 3.15MiB at 68.40KiB/s ETA 00:04[download]  91.6% of 3.15MiB at 68.67KiB/s ETA 00:03[download]  94.2% of 3.15MiB at 68.41KiB/s ETA 00:02[download]  96.1% of 3.15MiB at 68.72KiB/s ETA 00:01[download]  98.8% of 3.15MiB at 68.62KiB/s ETA 00:00[download] 100.0% of 3.15MiB at 68.85KiB/s ETA 00:00[download] 100% of 3.15MiB in 00:46
-[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
+Exist: 抜錨 / ナナホシ管弦楽団 -Cover- ウォルピスカーター
 [download] Downloading playlist: 醜奴兒
 [youtube:tab] playlist 醜奴兒: Downloading 12 videos
 [download] Downloading video 1 of 12
