@@ -5,6 +5,7 @@
 [youtube:tab] playlist Sami's music: Downloading 220 videos
 [download] Downloading video 1 of 220
 [youtube] mK9Be_3r9-U: Downloading webpage
+[youtube] mK9Be_3r9-U: Downloading player 4248d311
 [download] Downloading video 2 of 220
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 220
@@ -1072,6 +1073,8 @@ Exist: 好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics
 Exist: 盧廣仲 Crowd Lu【大人中 Adult】Official Lyrics Video
 
 Exist: MAYDAY五月天 [ 笑忘歌 The Song of Laughter and Forgetting ] Official Live Video
+
+Exist: MAYDAY五月天 [ 愛情的模樣 ] feat.田馥甄Hebe Official Live Video
 
 Exist: 《記得自己長得很可愛》Official Live Music Video 泱泱 X 告五人
 
