@@ -1505,7 +1505,6 @@ Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [youtube] _bbMY6infq4: Downloading webpage
 [download] Downloading video 38 of 214
 [youtube] xMdaYOdxaTk: Downloading webpage
-[youtube] xMdaYOdxaTk: Downloading MPD manifest
 [download] Downloading video 39 of 214
 [youtube] mrEee4bhc7Y: Downloading webpage
 [download] Downloading video 40 of 214
@@ -1662,10 +1661,8 @@ Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [youtube] GftT_wzRJdc: Downloading webpage
 [download] Downloading video 116 of 214
 [youtube] 8nW94cQhy0E: Downloading webpage
-[youtube] 8nW94cQhy0E: Downloading MPD manifest
 [download] Downloading video 117 of 214
 [youtube] 8nW94cQhy0E: Downloading webpage
-[youtube] 8nW94cQhy0E: Downloading MPD manifest
 [download] Downloading video 118 of 214
 [youtube] qB_vOmL4v5c: Downloading webpage
 [download] Downloading video 119 of 214
@@ -1676,7 +1673,6 @@ Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [youtube] oEzvwOqihAo: Downloading webpage
 [download] Downloading video 122 of 214
 [youtube] h8fDWJsFJQs: Downloading webpage
-[youtube] h8fDWJsFJQs: Downloading MPD manifest
 [download] Downloading video 123 of 214
 [youtube] ma7r2HGqwXs: Downloading webpage
 [download] Downloading video 124 of 214
@@ -1713,7 +1709,6 @@ Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [youtube] gM72KhfYU2Q: Downloading webpage
 [download] Downloading video 140 of 214
 [youtube] zv-PSPiBm34: Downloading webpage
-[youtube] zv-PSPiBm34: Downloading MPD manifest
 [download] Downloading video 141 of 214
 [youtube] f-mvVv0R6n0: Downloading webpage
 [download] Downloading video 142 of 214
@@ -1728,12 +1723,10 @@ Exist: 【初音ミク】おじゃま虫【オリジナル曲】中文字幕
 [youtube] KjrRSEvqUMA: Downloading webpage
 [download] Downloading video 147 of 214
 [youtube] yQ-IQoOwDyg: Downloading webpage
-[youtube] yQ-IQoOwDyg: Downloading MPD manifest
 [download] Downloading video 148 of 214
 [youtube] 5hDZbroaQDc: Downloading webpage
 [download] Downloading video 149 of 214
 [youtube] K0vthsl7nYw: Downloading webpage
-[youtube] K0vthsl7nYw: Downloading MPD manifest
 [download] Downloading video 150 of 214
 [youtube] VmmXcu8XR8E: Downloading webpage
 [download] Downloading video 151 of 214
