@@ -646,7 +646,7 @@ Exist: 【English sub 好声音】Aiuta - whiteeeen - 愛唄～since 2007～ 『
 Exist: sumika「 春夏秋冬」動畫版電影『我想吃掉你的胰臟』主題曲【中日歌詞】
 
 Exist: CHiCO with HoneyWorks 『世界は恋に落ちている』(Covered by コバソロ & 未来(ザ・フーパーズ))
-[youtube] hgQyXxkwlRM: Downloading webpage
+[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
 
 Exist: ヨルシカ - ただ君に晴れ (MUSIC VIDEO)
 
@@ -886,10 +886,7 @@ Exist: 抜錨 / ナナホシ管弦楽団 -Cover- ウォルピスカーター
 
 Exist: フォニイ / 星街すいせい(Cover)
 
-not Exist: 美しき残酷な世界
-[download] Destination: ./music/I4YhgQyXxkwlRM.I4Y
-[download]   0.0% of 4.54MiB at  6.58KiB/s ETA 11:45[download]   0.1% of 4.54MiB at 19.72KiB/s ETA 03:55[download]   0.2% of 4.54MiB at 45.05KiB/s ETA 01:42[download]   0.3% of 4.54MiB at 96.42KiB/s ETA 00:48[download]   0.7% of 4.54MiB at 91.73KiB/s ETA 00:50[download]   1.4% of 4.54MiB at 88.74KiB/s ETA 00:51[download]   2.7% of 4.54MiB at 87.29KiB/s ETA 00:51[download]   4.6% of 4.54MiB at 81.77KiB/s ETA 00:54[download]   6.2% of 4.54MiB at 85.08KiB/s ETA 00:51[download]   8.3% of 4.54MiB at 84.72KiB/s ETA 00:50[download]  10.1% of 4.54MiB at 82.30KiB/s ETA 00:50[download]  11.6% of 4.54MiB at 83.65KiB/s ETA 00:49[download]  13.6% of 4.54MiB at 83.59KiB/s ETA 00:47[download]  15.4% of 4.54MiB at 83.80KiB/s ETA 00:46[download]  17.3% of 4.54MiB at 82.67KiB/s ETA 00:46[download]  18.9% of 4.54MiB at 83.89KiB/s ETA 00:44[download]  21.0% of 4.54MiB at 82.85KiB/s ETA 00:44[download]  22.6% of 4.54MiB at 83.67KiB/s ETA 00:42[download]  24.7% of 4.54MiB at 83.66KiB/s ETA 00:41[download]  26.5% of 4.54MiB at 83.96KiB/s ETA 00:40[download]  28.4% of 4.54MiB at 83.42KiB/s ETA 00:39[download]  30.1% of 4.54MiB at 83.27KiB/s ETA 00:39[download]  31.8% of 4.54MiB at 83.30KiB/s ETA 00:38[download]  33.6% of 4.54MiB at 83.58KiB/s ETA 00:36[download]  35.5% of 4.54MiB at 83.20KiB/s ETA 00:35[download]  37.2% of 4.54MiB at 83.84KiB/s ETA 00:34[download]  39.3% of 4.54MiB at 83.33KiB/s ETA 00:33[download]  41.0% of 4.54MiB at 83.80KiB/s ETA 00:32[download]  43.0% of 4.54MiB at 83.87KiB/s ETA 00:31[download]  44.9% of 4.54MiB at 83.34KiB/s ETA 00:30[download]  46.4% of 4.54MiB at 83.69KiB/s ETA 00:29[download]  48.5% of 4.54MiB at 83.76KiB/s ETA 00:28[download]  50.3% of 4.54MiB at 83.25KiB/s ETA 00:27[download]  51.9% of 4.54MiB at 83.54KiB/s ETA 00:26[download]  53.9% of 4.54MiB at 83.53KiB/s ETA 00:25[download]  55.7% of 4.54MiB at 83.63KiB/s ETA 00:24[download]  57.6% of 4.54MiB at 83.32KiB/s ETA 00:23[download]  59.2% of 4.54MiB at 83.64KiB/s ETA 00:22[download]  61.3% of 4.54MiB at 83.70KiB/s ETA 00:21[download]  63.1% of 4.54MiB at 83.43KiB/s ETA 00:20[download]  64.7% of 4.54MiB at 83.72KiB/s ETA 00:19[download]  66.8% of 4.54MiB at 83.58KiB/s ETA 00:18[download]  68.5% of 4.54MiB at 83.66KiB/s ETA 00:17[download]  70.4% of 4.54MiB at 83.45KiB/s ETA 00:16[download]  72.0% of 4.54MiB at 83.38KiB/s ETA 00:15[download]  73.8% of 4.54MiB at 83.38KiB/s ETA 00:14[download]  75.6% of 4.54MiB at 83.45KiB/s ETA 00:13[download]  77.4% of 4.54MiB at 83.62KiB/s ETA 00:12[download]  79.4% of 4.54MiB at 83.52KiB/s ETA 00:11[download]  81.1% of 4.54MiB at 83.49KiB/s ETA 00:10[download]  82.9% of 4.54MiB at 83.57KiB/s ETA 00:09[download]  84.8% of 4.54MiB at 83.38KiB/s ETA 00:08[download]  86.4% of 4.54MiB at 83.63KiB/s ETA 00:07[download]  88.5% of 4.54MiB at 83.70KiB/s ETA 00:06[download]  90.4% of 4.54MiB at 83.48KiB/s ETA 00:05[download]  92.0% of 4.54MiB at 83.41KiB/s ETA 00:04[download]  93.7% of 4.54MiB at 83.73KiB/s ETA 00:03[download]  96.0% of 4.54MiB at 83.59KiB/s ETA 00:02[download]  97.6% of 4.54MiB at 83.57KiB/s ETA 00:01[download]  99.4% of 4.54MiB at 83.61KiB/s ETA 00:00[download] 100.0% of 4.54MiB at 83.73KiB/s ETA 00:00[download] 100% of 4.54MiB in 00:55
-[youtube:tab] OLAK5uy_nOXUalzwOni3tKfG6gurzhvS_u3IaXYi0: Downloading webpage
+Exist: 美しき残酷な世界
 [download] Downloading playlist: 醜奴兒
 [youtube:tab] playlist 醜奴兒: Downloading 12 videos
 [download] Downloading video 1 of 12
