@@ -5,6 +5,7 @@
 [youtube:tab] playlist Sami's music: Downloading 220 videos
 [download] Downloading video 1 of 220
 [youtube] mK9Be_3r9-U: Downloading webpage
+[youtube] mK9Be_3r9-U: Downloading player 1cbba2b4
 [download] Downloading video 2 of 220
 [youtube] Zn8M6mcGNoo: Downloading webpage
 [download] Downloading video 3 of 220
@@ -1116,159 +1117,161 @@ Exist: 告五人 Accusefive【帶我去找夜生活 Night life.Take us to the li
 
 Exist: 锻刀大赛：欧洲神秘冷兵器， 梳状剑刃无比锋利，勾住敌人的武器将其斩成两半（S4E10）
 [download] Downloading playlist: List for PLPlayer
-[youtube:tab] playlist List for PLPlayer: Downloading 76 videos
-[download] Downloading video 1 of 76
+[youtube:tab] playlist List for PLPlayer: Downloading 77 videos
+[download] Downloading video 1 of 77
 [youtube] p0GPJbdKhCw: Downloading webpage
-[download] Downloading video 2 of 76
+[download] Downloading video 2 of 77
 [youtube] M-MT0z6ac7g: Downloading webpage
-[download] Downloading video 3 of 76
+[download] Downloading video 3 of 77
 [youtube] sSQKl7rBTWQ: Downloading webpage
-[download] Downloading video 4 of 76
+[download] Downloading video 4 of 77
 [youtube] HqmpIQ9l-uA: Downloading webpage
-[download] Downloading video 5 of 76
+[download] Downloading video 5 of 77
 [youtube] j2311FZWoFQ: Downloading webpage
-[download] Downloading video 6 of 76
+[download] Downloading video 6 of 77
 [youtube] tlZYyo7ziQk: Downloading webpage
-[download] Downloading video 7 of 76
+[download] Downloading video 7 of 77
 [youtube] Krz6paVJMSk: Downloading webpage
-[download] Downloading video 8 of 76
+[download] Downloading video 8 of 77
 [youtube] SzWxGpEjpEE: Downloading webpage
-[download] Downloading video 9 of 76
+[download] Downloading video 9 of 77
 [youtube] kta4ZAwI6rY: Downloading webpage
-[download] Downloading video 10 of 76
+[download] Downloading video 10 of 77
 [youtube] 4bSeT_9gmJs: Downloading webpage
-[download] Downloading video 11 of 76
+[download] Downloading video 11 of 77
 [youtube] Esf5NMy5Ngw: Downloading webpage
-[download] Downloading video 12 of 76
+[download] Downloading video 12 of 77
 [youtube] Dnz-BTz9eDU: Downloading webpage
-[download] Downloading video 13 of 76
+[download] Downloading video 13 of 77
 [youtube] CMH-VJ9cvG8: Downloading webpage
 [youtube] CMH-VJ9cvG8: Downloading MPD manifest
-[download] Downloading video 14 of 76
+[download] Downloading video 14 of 77
 [youtube] FNJG6MsKO0k: Downloading webpage
-[download] Downloading video 15 of 76
+[download] Downloading video 15 of 77
 [youtube] VvycFWLSdIs: Downloading webpage
-[download] Downloading video 16 of 76
+[download] Downloading video 16 of 77
 [youtube] 6D79CYTxvOM: Downloading webpage
-[download] Downloading video 17 of 76
+[download] Downloading video 17 of 77
 [youtube] N9Pi50O7ZR4: Downloading webpage
-[download] Downloading video 18 of 76
+[download] Downloading video 18 of 77
 [youtube] VpwAq7hiij0: Downloading webpage
-[download] Downloading video 19 of 76
+[download] Downloading video 19 of 77
 [youtube] XT8JUAPQ7P0: Downloading webpage
-[download] Downloading video 20 of 76
+[download] Downloading video 20 of 77
 [youtube] NjTT5_RSkw4: Downloading webpage
-[download] Downloading video 21 of 76
+[download] Downloading video 21 of 77
 [youtube] po4I3zEsqSc: Downloading webpage
-[download] Downloading video 22 of 76
+[download] Downloading video 22 of 77
 [youtube] Wf9Ui3M2mdU: Downloading webpage
-[download] Downloading video 23 of 76
+[download] Downloading video 23 of 77
 [youtube] 9mQv7NhBo-c: Downloading webpage
-[download] Downloading video 24 of 76
+[download] Downloading video 24 of 77
 [youtube] -3TmzrEDuJ8: Downloading webpage
-[download] Downloading video 25 of 76
+[download] Downloading video 25 of 77
 [youtube] 8PSvDdL2BPs: Downloading webpage
-[download] Downloading video 26 of 76
+[download] Downloading video 26 of 77
 [youtube] P_pyfLArjQg: Downloading webpage
-[download] Downloading video 27 of 76
+[download] Downloading video 27 of 77
 [youtube] NuiAOSii_sk: Downloading webpage
-[download] Downloading video 28 of 76
+[download] Downloading video 28 of 77
 [youtube] jUb1XQzNiCI: Downloading webpage
-[download] Downloading video 29 of 76
+[download] Downloading video 29 of 77
 [youtube] 94HxbovhRPU: Downloading webpage
-[download] Downloading video 30 of 76
+[download] Downloading video 30 of 77
 [youtube] hTxcwwqUu8g: Downloading webpage
-[download] Downloading video 31 of 76
+[download] Downloading video 31 of 77
 [youtube] SX_ViT4Ra7k: Downloading webpage
-[download] Downloading video 32 of 76
+[download] Downloading video 32 of 77
 [youtube] 9aJVr5tTTWk: Downloading webpage
-[download] Downloading video 33 of 76
+[download] Downloading video 33 of 77
 [youtube] 7CG2qA_IbAs: Downloading webpage
-[download] Downloading video 34 of 76
+[download] Downloading video 34 of 77
 [youtube] 0HTAKT-JIaA: Downloading webpage
-[download] Downloading video 35 of 76
+[download] Downloading video 35 of 77
 [youtube] txNEZqUYsak: Downloading webpage
-[download] Downloading video 36 of 76
+[download] Downloading video 36 of 77
 [youtube] JTgzyFXmI3w: Downloading webpage
-[download] Downloading video 37 of 76
+[download] Downloading video 37 of 77
 [youtube] BqFftJDXii0: Downloading webpage
-[download] Downloading video 38 of 76
+[download] Downloading video 38 of 77
 [youtube] Woorod1gJ_w: Downloading webpage
-[download] Downloading video 39 of 76
+[download] Downloading video 39 of 77
 [youtube] f2do8Sy42Ic: Downloading webpage
-[download] Downloading video 40 of 76
+[download] Downloading video 40 of 77
 [youtube] Lnpt2RFqvJs: Downloading webpage
-[download] Downloading video 41 of 76
+[download] Downloading video 41 of 77
 [youtube] Bo-KLAh5JO8: Downloading webpage
-[download] Downloading video 42 of 76
+[download] Downloading video 42 of 77
 [youtube] 1B9rLGfc9Vo: Downloading webpage
-[download] Downloading video 43 of 76
+[download] Downloading video 43 of 77
 [youtube] wNOuK8YcABo: Downloading webpage
-[download] Downloading video 44 of 76
+[download] Downloading video 44 of 77
 [youtube] Agnrim_5pio: Downloading webpage
-[download] Downloading video 45 of 76
+[download] Downloading video 45 of 77
 [youtube] zIFV8UUs1-c: Downloading webpage
-[download] Downloading video 46 of 76
+[download] Downloading video 46 of 77
 [youtube] 9wh8FgsEtNQ: Downloading webpage
-[download] Downloading video 47 of 76
+[download] Downloading video 47 of 77
 [youtube] khEr3TKTYYQ: Downloading webpage
-[download] Downloading video 48 of 76
+[download] Downloading video 48 of 77
 [youtube] wS8yk2dQBN4: Downloading webpage
-[download] Downloading video 49 of 76
+[download] Downloading video 49 of 77
 [youtube] rSjEWsY8Qn4: Downloading webpage
-[download] Downloading video 50 of 76
+[download] Downloading video 50 of 77
 [youtube] W-YSmX1pZD8: Downloading webpage
-[download] Downloading video 51 of 76
+[download] Downloading video 51 of 77
 [youtube] TN1XuHFGEZ4: Downloading webpage
-[download] Downloading video 52 of 76
+[download] Downloading video 52 of 77
 [youtube] Ezb2lRY4Gvc: Downloading webpage
-[download] Downloading video 53 of 76
+[download] Downloading video 53 of 77
 [youtube] LpDitemoXS4: Downloading webpage
-[download] Downloading video 54 of 76
+[download] Downloading video 54 of 77
 [youtube] WnIs0ASsqic: Downloading webpage
-[download] Downloading video 55 of 76
+[download] Downloading video 55 of 77
 [youtube] 0tthfjm6t7A: Downloading webpage
-[download] Downloading video 56 of 76
+[download] Downloading video 56 of 77
 [youtube] rSmvad9uhGo: Downloading webpage
-[download] Downloading video 57 of 76
+[download] Downloading video 57 of 77
 [youtube] -g6MYL5lOZs: Downloading webpage
-[download] Downloading video 58 of 76
+[download] Downloading video 58 of 77
 [youtube] POXKzyjGafc: Downloading webpage
-[download] Downloading video 59 of 76
+[download] Downloading video 59 of 77
 [youtube] vvvvcpwFw5o: Downloading webpage
-[download] Downloading video 60 of 76
+[download] Downloading video 60 of 77
 [youtube] dj4VoPO-2pE: Downloading webpage
-[download] Downloading video 61 of 76
+[download] Downloading video 61 of 77
 [youtube] yrqPdxPAqP0: Downloading webpage
-[download] Downloading video 62 of 76
+[download] Downloading video 62 of 77
 [youtube] bDbQ49sWP6Y: Downloading webpage
-[download] Downloading video 63 of 76
+[download] Downloading video 63 of 77
 [youtube] 0ZO6LznJ4gY: Downloading webpage
-[download] Downloading video 64 of 76
+[download] Downloading video 64 of 77
 [youtube] wixNUhN2NOQ: Downloading webpage
-[download] Downloading video 65 of 76
+[download] Downloading video 65 of 77
 [youtube] 7UevOcNzMck: Downloading webpage
-[download] Downloading video 66 of 76
+[download] Downloading video 66 of 77
 [youtube] MWxAqWgbbqA: Downloading webpage
-[download] Downloading video 67 of 76
+[download] Downloading video 67 of 77
 [youtube] bOFhatyCEhQ: Downloading webpage
-[download] Downloading video 68 of 76
+[download] Downloading video 68 of 77
 [youtube] A5A1uAd2J9c: Downloading webpage
-[download] Downloading video 69 of 76
+[download] Downloading video 69 of 77
 [youtube] cRIBCezbUhA: Downloading webpage
-[download] Downloading video 70 of 76
+[download] Downloading video 70 of 77
+[youtube] AXC1lROy-Yc: Downloading webpage
+[download] Downloading video 71 of 77
 [youtube] C0_EkYWJGEw: Downloading webpage
-[download] Downloading video 71 of 76
+[download] Downloading video 72 of 77
 [youtube] hT_nvWreIhg: Downloading webpage
-[download] Downloading video 72 of 76
+[download] Downloading video 73 of 77
 [youtube] a2RA0vsZXf8: Downloading webpage
-[download] Downloading video 73 of 76
+[download] Downloading video 74 of 77
 [youtube] jDELybyZ4oU: Downloading webpage
-[download] Downloading video 74 of 76
+[download] Downloading video 75 of 77
 [youtube] CEQvj0qszlw: Downloading webpage
-[download] Downloading video 75 of 76
+[download] Downloading video 76 of 77
 [youtube] 5b_kfdZQhn4: Downloading webpage
-[download] Downloading video 76 of 76
+[download] Downloading video 77 of 77
 [youtube] Ob6L7RnqPe4: Downloading webpage
 [download] Finished downloading playlist: List for PLPlayer
 [youtube:tab] PLOTT7UUn_7XdOBOjlT8P2hzG4oqOm6U1U: Downloading webpage
@@ -1410,6 +1413,8 @@ Exist: Attack on Titan - Reluctant Heroes | Lullaby | AmaLee ver
 Exist: Attack on Titan - Call Your Heroes (Medley) | ENGLISH ver | AmaLee
 
 Exist: すきなうた - yui × 鎖那
+
+Exist: Fullmetal Alchemist: Brotherhood All Endings Full Version (1-5) (Lyrics as subtitle)
 
 Exist: Fullmetal Alchemist: Brotherhood All Openings Full Version (1-5)
 
@@ -2191,8 +2196,6 @@ Exist: 浪花兄弟 The Drifters【你是我的OK繃 Youre My Bandaid】Official
 
 Exist: Ailee – SAKURA (Full Ver.) [Lyric Video]
 
-Exist: Wanting 曲婉婷 - 我的歌声里 (You Exist In My Song) [Trad. Chinese] [Official Music Video]
-
 Exist: Ann白安【是什麼讓我遇見這樣的你What brings me to you】 MV官方完整版
 
 Exist: Wanting 曲婉婷 - Drenched [Lyric Video]
@@ -2286,9 +2289,9 @@ Exist: 【咬人猫】 dududu！MV [Yaorenmao Channel]
 Exist: YOASOBI - 夜に駆ける / THE HOME TAKE
 
 Exist: 米津玄師 vs Aimer MASHUP!!  feat. 天邑 | cover
-[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: 【女性が歌う】あとひとつ/FUNKY MONKEY BABYS (Covered by コバソロ & こぴ)
+[youtube:tab] PLC2083FE532A72935: Downloading webpage
 
 Exist: 陳雪凝 - 你的酒館對我打了烊【動態歌詞Lyrics】
 
